@@ -1,0 +1,74 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2qkb1r/2p1pppp/p2p1n2/1Pnb4/1Q3P2/6P1/PP2P1BP/RNB1K1NR w KQkq - 0 10",
+    "initial_move_san": "bxa6",
+    "initial_move_uci": "b5a6",
+    "puzzle_fen": "r2qkb1r/2p1pppp/P2p1n2/2nb4/1Q3P2/6P1/PP2P1BP/RNB1K1NR b KQkq - 0 10",
+    "lines": {
+      "d5g2": {
+        "g1f3": {
+          "g2f3": "retry",
+          "g2h1": {
+            "b4b5": {
+              "c5d7": "retry",
+              "c7c6": "retry",
+              "d8d7": {
+                "b1c3": {
+                  "a8a6": "retry",
+                  "c5a6": "retry",
+                  "c7c6": {
+                    "b5c4": "win"
+                  },
+                  "d7b5": {
+                    "c3b5": "win"
+                  },
+                  "f6e4": "retry",
+                  "h1f3": {
+                    "e2f3": {
+                      "a8a6": "retry",
+                      "c5a6": {
+                        "b5b7": "win"
+                      },
+                      "c7c6": {
+                        "b5e2": "win"
+                      },
+                      "d7b5": {
+                        "c3b5": "win"
+                      },
+                      "e7e6": {
+                        "b5d7": {
+                          "c5d7": {
+                            "a2a4": "win"
+                          },
+                          "e8d7": {
+                            "a6a7": "win"
+                          },
+                          "f6d7": {
+                            "c1e3": "win"
+                          }
+                        }
+                      },
+                      "e8d8": "retry"
+                    }
+                  }
+                }
+              },
+              "f6d7": {
+                "b1d2": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 7279,
+    "rating": 1228,
+    "enabled": true,
+    "color": "black",
+    "game_id": "mn2cyi7a",
+    "attempts": 29,
+    "vote": 0
+  }
+}

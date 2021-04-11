@@ -1,0 +1,46 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5r2/R5R1/2p4p/2p1p3/4P1Pk/2P4P/1r4P1/6K1 w - - 1 35",
+    "initial_move_san": "Rg6",
+    "initial_move_uci": "g7g6",
+    "puzzle_fen": "5r2/R7/2p3Rp/2p1p3/4P1Pk/2P4P/1r4P1/6K1 b - - 2 35",
+    "lines": {
+      "h4g3": {
+        "a7a1": {
+          "b2g2": {
+            "g1h1": {
+              "g2h2": {
+                "h1g1": {
+                  "f8f2": {
+                    "g6h6": {
+                      "c5c4": "retry",
+                      "f2b2": "retry",
+                      "f2c2": "retry",
+                      "f2d2": "retry",
+                      "f2e2": "retry",
+                      "f2g2": {
+                        "g1f1": {
+                          "h2h1": "win"
+                        }
+                      },
+                      "h2g2": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 53058,
+    "rating": 2258,
+    "enabled": true,
+    "color": "black",
+    "game_id": "phic9gt2",
+    "attempts": 321,
+    "vote": -8
+  }
+}

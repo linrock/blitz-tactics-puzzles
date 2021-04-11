@@ -1,0 +1,56 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/8/8/2p5/2R5/1P3kp1/r6p/5K2 w - - 4 60",
+    "initial_move_san": "Rc3+",
+    "initial_move_uci": "c4c3",
+    "puzzle_fen": "8/8/8/2p5/8/1PR2kp1/r6p/5K2 b - - 5 60",
+    "lines": {
+      "f3e4": {
+        "c3c4": {
+          "e4d3": {
+            "c4c3": {
+              "d3c3": {
+                "b3b4": {
+                  "h2h1q": "win",
+                  "h2h1r": "win"
+                }
+              },
+              "d3d2": "retry",
+              "d3d4": "retry"
+            }
+          },
+          "e4d5": "retry",
+          "e4e3": "retry",
+          "e4e5": "retry",
+          "e4f5": "retry"
+        }
+      },
+      "f3g4": {
+        "c3c4": {
+          "g4f5": "retry",
+          "g4g5": "retry",
+          "g4h3": {
+            "c4h4": {
+              "h3h4": {
+                "b3b4": {
+                  "h2h1q": "win",
+                  "h2h1r": "win"
+                }
+              }
+            }
+          },
+          "g4h5": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 57212,
+    "rating": 1541,
+    "enabled": true,
+    "color": "black",
+    "game_id": "wem80dfn",
+    "attempts": 112,
+    "vote": 0
+  }
+}

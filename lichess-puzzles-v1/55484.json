@@ -1,0 +1,75 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1bbnrk1/2q3pp/p3P2B/1p1pp3/3N2R1/2NP3P/PP1Q2P1/5RK1 w - - 0 22",
+    "initial_move_san": "e7",
+    "initial_move_uci": "e6e7",
+    "puzzle_fen": "r1bbnrk1/2q1P1pp/p6B/1p1pp3/3N2R1/2NP3P/PP1Q2P1/5RK1 b - - 0 22",
+    "lines": {
+      "f8f1": {
+        "g1f1": {
+          "c7e7": {
+            "g4g3": {
+              "b5b4": "retry",
+              "e5d4": {
+                "c3e2": {
+                  "c8b7": "retry",
+                  "c8d7": {
+                    "e2d4": {
+                      "a8c8": "retry",
+                      "d8b6": "retry",
+                      "e7d6": "retry",
+                      "e7e5": "win",
+                      "e7f6": "retry"
+                    }
+                  },
+                  "d8b6": "retry",
+                  "d8c7": {
+                    "h6g5": {
+                      "e7c5": "win",
+                      "e7d7": "win",
+                      "e7f7": "retry",
+                      "e8f6": "win"
+                    }
+                  },
+                  "e7c5": {
+                    "h6f4": "win"
+                  },
+                  "e7d6": {
+                    "h6f4": {
+                      "d6c5": "win",
+                      "d6d7": "retry",
+                      "d6f6": "win",
+                      "d6f8": "win"
+                    }
+                  },
+                  "e7e5": "retry",
+                  "e7e6": "retry",
+                  "e7f6": {
+                    "d2f4": {
+                      "a8a7": {
+                        "h6g5": {
+                          "f6f4": {
+                            "g5f4": "win"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 55484,
+    "rating": 2606,
+    "enabled": true,
+    "color": "black",
+    "game_id": "WnFlneQI",
+    "attempts": 169,
+    "vote": -12
+  }
+}

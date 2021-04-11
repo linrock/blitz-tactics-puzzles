@@ -1,0 +1,41 @@
+{
+  "puzzle_data": {
+    "initial_fen": "3r3r/1k1PR3/1P6/2PP4/2K5/8/8/8 b - - 16 71",
+    "initial_move_san": "Ra8",
+    "initial_move_uci": "d8a8",
+    "puzzle_fen": "r6r/1k1PR3/1P6/2PP4/2K5/8/8/8 w - - 17 72",
+    "lines": {
+      "d7d8q": {
+        "b7a6": {
+          "d8a8": "retry",
+          "d8h8": {
+            "a8a7": {
+              "e7a7": "win",
+              "h8a1": "win"
+            }
+          },
+          "e7a7": "retry"
+        }
+      },
+      "d7d8r": {
+        "b7a6": {
+          "d8a8": "retry",
+          "d8h8": {
+            "a8a7": {
+              "e7a7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 13479,
+    "rating": 1475,
+    "enabled": true,
+    "color": "white",
+    "game_id": "ugumol43",
+    "attempts": 47926,
+    "vote": 928
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/p7/6p1/4q3/2P5/2PP1k2/r4P2/5QK1 w - - 5 45",
+    "initial_move_san": "Qd1+",
+    "initial_move_uci": "f1d1",
+    "puzzle_fen": "8/p7/6p1/4q3/2P5/2PP1k2/r4P2/3Q2K1 b - - 6 45",
+    "lines": {
+      "a2e2": {
+        "d1f1": {
+          "e2e1": {
+            "d3d4": {
+              "e1f1": {
+                "g1f1": {
+                  "e5e2": "retry",
+                  "e5e4": "retry",
+                  "e5e6": "retry",
+                  "e5e7": "retry",
+                  "e5e8": "retry",
+                  "e5f4": "retry",
+                  "e5f5": "retry",
+                  "e5g5": {
+                    "c4c5": {
+                      "g5c1": "win"
+                    }
+                  }
+                }
+              },
+              "e5a5": "retry",
+              "e5e2": "retry",
+              "e5e4": {
+                "g1h2": {
+                  "e1f1": {
+                    "c4c5": {
+                      "e4h4": "win"
+                    }
+                  },
+                  "e4f4": "retry",
+                  "e4h4": "retry"
+                }
+              },
+              "e5e6": "retry",
+              "e5e7": "retry",
+              "e5e8": "retry",
+              "e5f4": {
+                "f1e1": {
+                  "f4g4": {
+                    "g1f1": {
+                      "g4g2": "win"
+                    }
+                  },
+                  "f4g5": {
+                    "g1f1": {
+                      "g5g2": "win"
+                    }
+                  }
+                }
+              },
+              "e5f5": {
+                "g1h2": {
+                  "e1f1": {
+                    "c4c5": {
+                      "f5h5": "win"
+                    }
+                  },
+                  "f5f4": "retry",
+                  "f5h5": "retry"
+                }
+              },
+              "e5f6": "retry",
+              "e5g5": {
+                "g1h2": {
+                  "e1f1": {
+                    "c4c5": {
+                      "g5g2": "win",
+                      "g5h4": "win",
+                      "g5h5": "win",
+                      "g5h6": "win"
+                    }
+                  },
+                  "g5f4": "retry",
+                  "g5h4": "retry",
+                  "g5h5": "retry",
+                  "g5h6": "retry"
+                }
+              },
+              "e5h5": {
+                "f1e1": {
+                  "h5g4": {
+                    "g1f1": {
+                      "g4g2": "win"
+                    }
+                  },
+                  "h5g5": {
+                    "g1f1": {
+                      "g5g2": "win"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "e5g5": {
+            "g1h1": {
+              "e2e1": {
+                "h1h2": {
+                  "a7a5": "retry",
+                  "a7a6": "retry",
+                  "e1a1": "retry",
+                  "e1b1": "retry",
+                  "e1c1": "retry",
+                  "e1e5": "retry",
+                  "e1e7": "retry",
+                  "e1e8": "retry",
+                  "e1f1": {
+                    "d3d4": {
+                      "g5g2": "win",
+                      "g5h4": "win",
+                      "g5h5": "win",
+                      "g5h6": "win"
+                    }
+                  },
+                  "g5e5": "retry",
+                  "g5f4": "retry",
+                  "g5g4": "retry",
+                  "g5h4": "retry",
+                  "g5h5": "retry",
+                  "g5h6": "retry"
+                }
+              },
+              "g5g4": "retry",
+              "g5h4": "retry",
+              "g5h5": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 54299,
+    "rating": 1950,
+    "enabled": true,
+    "color": "black",
+    "game_id": "26cn9h0w",
+    "attempts": 2285,
+    "vote": 46
+  }
+}

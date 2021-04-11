@@ -1,0 +1,54 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rb2k1nr/pp4pp/2n1bq2/1Nppp3/4P3/1P3NP1/PBP2PBP/R2Q1RK1 b kq - 0 11",
+    "initial_move_san": "a6",
+    "initial_move_uci": "a7a6",
+    "puzzle_fen": "rb2k1nr/1p4pp/p1n1bq2/1Nppp3/4P3/1P3NP1/PBP2PBP/R2Q1RK1 w kq - 0 12",
+    "lines": {
+      "e4d5": {
+        "e6d5": {
+          "f3e5": {
+            "g8e7": {
+              "g2d5": {
+                "c6e5": {
+                  "b5c3": "retry",
+                  "d5b7": {
+                    "e8g8": {
+                      "b7a8": {
+                        "a6b5": "win"
+                      },
+                      "d1e2": {
+                        "a6b5": {
+                          "b7a8": {
+                            "e7f5": "win"
+                          }
+                        }
+                      },
+                      "f2f4": "retry",
+                      "g1h1": {
+                        "a6b5": {
+                          "b7a8": {
+                            "f6f7": "win"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 45131,
+    "rating": 2691,
+    "enabled": true,
+    "color": "white",
+    "game_id": "alf9470z",
+    "attempts": 222,
+    "vote": -12
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5rk1/2Q2pp1/4p2p/3pPq2/2p5/2R3PP/3n1PK1/B3R3 w - - 2 32",
+    "initial_move_san": "Ree3",
+    "initial_move_uci": "e1e3",
+    "puzzle_fen": "5rk1/2Q2pp1/4p2p/3pPq2/2p5/2R1R1PP/3n1PK1/B7 b - - 3 32",
+    "lines": {
+      "f5b1": {
+        "g2h2": {
+          "b1a1": {
+            "c3c2": "win"
+          },
+          "b1f1": "retry",
+          "d2f1": {
+            "h2g2": {
+              "b1a1": {
+                "c3c2": {
+                  "f1e3": {
+                    "f2e3": "win"
+                  }
+                }
+              }
+            }
+          },
+          "d5d4": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 9123,
+    "rating": 2297,
+    "enabled": true,
+    "color": "black",
+    "game_id": "qlald42k",
+    "attempts": 239,
+    "vote": -13
+  }
+}

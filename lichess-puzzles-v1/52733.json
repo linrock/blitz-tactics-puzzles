@@ -1,0 +1,94 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2k4/1p6/3P1p2/2P2B1P/1K2P1P1/2Q5/3q4/8 b - - 6 57",
+    "initial_move_san": "Qb2+",
+    "initial_move_uci": "d2b2",
+    "puzzle_fen": "r2k4/1p6/3P1p2/2P2B1P/1K2P1P1/2Q5/1q6/8 w - - 7 58",
+    "lines": {
+      "c3b2": {
+        "a8a4": {
+          "b4a4": {
+            "b7b5": {
+              "a4a3": "retry",
+              "a4a5": {
+                "d8e8": {
+                  "a5a6": "retry",
+                  "a5b4": "retry",
+                  "a5b6": "retry",
+                  "b2a1": "retry",
+                  "b2b3": "retry",
+                  "b2b5": "retry",
+                  "b2d2": "retry",
+                  "b2d4": "retry",
+                  "b2f6": {
+                    "b5b4": {
+                      "d6d7": "win",
+                      "f6e7": "win"
+                    }
+                  },
+                  "b2h2": "retry",
+                  "d6d7": "retry",
+                  "f5e6": "retry",
+                  "f5g6": "retry",
+                  "g4g5": "retry",
+                  "h5h6": "retry"
+                }
+              },
+              "a4b3": {
+                "d8e8": {
+                  "b2a1": "retry",
+                  "b2a2": "retry",
+                  "b2d2": "retry",
+                  "b2d4": "retry",
+                  "b2f6": {
+                    "b5b4": {
+                      "d6d7": "win",
+                      "f6e7": "win"
+                    }
+                  },
+                  "d6d7": "retry",
+                  "f5e6": "retry",
+                  "g4g5": "retry"
+                }
+              },
+              "a4b4": "retry",
+              "a4b5": "retry",
+              "c5b6": "retry"
+            }
+          },
+          "b4b3": {
+            "d8e8": {
+              "b2f6": {
+                "a4a3": {
+                  "b3a3": {
+                    "b7b6": {
+                      "d6d7": "win",
+                      "f6e7": "win"
+                    }
+                  },
+                  "b3b2": "retry",
+                  "b3b4": "retry",
+                  "b3c2": "retry",
+                  "b3c4": "retry"
+                }
+              },
+              "b3a4": "retry",
+              "d6d7": "retry",
+              "f5g6": "retry"
+            }
+          },
+          "b4b5": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 52733,
+    "rating": 2019,
+    "enabled": true,
+    "color": "white",
+    "game_id": "apkwdvt1",
+    "attempts": 259,
+    "vote": -11
+  }
+}

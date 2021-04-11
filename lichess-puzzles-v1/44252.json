@@ -1,0 +1,108 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1bq1b1r/p1p2kpp/8/1B1n4/3p4/8/PP1P1PPP/RNBQK2R b KQ - 0 10",
+    "initial_move_san": "Bd6",
+    "initial_move_uci": "f8d6",
+    "puzzle_fen": "r1bq3r/p1p2kpp/3b4/1B1n4/3p4/8/PP1P1PPP/RNBQK2R w KQ - 1 11",
+    "lines": {
+      "d1h5": {
+        "f7f6": {
+          "h5d5": {
+            "d8e7": {
+              "b5e2": {
+                "e7e5": {
+                  "d5e5": {
+                    "d6e5": "win"
+                  },
+                  "d5f3": {
+                    "f6e7": "win"
+                  }
+                }
+              },
+              "e1d1": {
+                "e7e5": {
+                  "b5c4": {
+                    "e5d5": {
+                      "c4d5": {
+                        "a8b8": "win"
+                      }
+                    }
+                  },
+                  "b5c6": {
+                    "e5d5": {
+                      "c6d5": {
+                        "a8b8": "win"
+                      }
+                    }
+                  },
+                  "d5e5": {
+                    "f6e5": "win"
+                  },
+                  "d5f3": {
+                    "e5f4": {
+                      "b5e2": {
+                        "a8b8": {
+                          "b1a3": "retry",
+                          "b2b3": {
+                            "c8b7": {
+                              "f3f4": {
+                                "d6f4": "win"
+                              }
+                            }
+                          },
+                          "f3f4": {
+                            "d6f4": "win"
+                          }
+                        }
+                      },
+                      "f3e2": {
+                        "f4e5": {
+                          "b1a3": "retry",
+                          "b2b3": "retry",
+                          "b5c6": {
+                            "e5e2": {
+                              "d1e2": {
+                                "c8a6": {
+                                  "e2d1": {
+                                    "a8b8": "win"
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "e2e5": {
+                            "f6e5": "win"
+                          },
+                          "f2f3": "retry"
+                        }
+                      },
+                      "f3f4": {
+                        "d6f4": "win"
+                      }
+                    }
+                  }
+                }
+              },
+              "e1f1": {
+                "e7e5": {
+                  "d5e5": {
+                    "f6e5": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 44252,
+    "rating": 2179,
+    "enabled": true,
+    "color": "white",
+    "game_id": "WstIkbMm",
+    "attempts": 298,
+    "vote": -12
+  }
+}

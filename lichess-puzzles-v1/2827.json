@@ -1,0 +1,59 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r3kb1r/pp2pppp/2np1n2/q7/2B1PBb1/2NQ1N2/PP3PPP/R4RK1 b kq - 2 9",
+    "initial_move_san": "Ne5",
+    "initial_move_uci": "c6e5",
+    "puzzle_fen": "r3kb1r/pp2pppp/3p1n2/q3n3/2B1PBb1/2NQ1N2/PP3PPP/R4RK1 w kq - 3 10",
+    "lines": {
+      "f4e5": {
+        "a7a6": {
+          "b2b4": "retry",
+          "c3d5": {
+            "d6e5": {
+              "f3e5": {
+                "f6d7": {
+                  "d5c7": {
+                    "a5c7": {
+                      "c4f7": {
+                        "e8d8": {
+                          "e5g4": {
+                            "d8c8": {
+                              "a1c1": "retry",
+                              "f1c1": "retry",
+                              "f7e6": {
+                                "c8b8": {
+                                  "e6d7": "win"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "e5d4": {
+            "e7e6": "win"
+          },
+          "e5f4": "retry",
+          "e5f6": {
+            "g7f6": "win"
+          },
+          "e5g3": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 2827,
+    "rating": 2140,
+    "enabled": true,
+    "color": "white",
+    "game_id": "rykieida",
+    "attempts": 244,
+    "vote": -13
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "puzzle_data": {
+    "initial_fen": "b4rk1/Nq1nbp2/4p2p/2pn2pN/Q6P/3P1B2/1P1B1PP1/4R1K1 b - h3 0 27",
+    "initial_move_san": "g4",
+    "initial_move_uci": "g5g4",
+    "puzzle_fen": "b4rk1/Nq1nbp2/4p2p/2pn3N/Q5pP/3P1B2/1P1B1PP1/4R1K1 w - - 0 28",
+    "lines": {
+      "a4g4": {
+        "e7g5": {
+          "d2g5": {
+            "f7f5": {
+              "g4g3": {
+                "g8f7": {
+                  "g5d8": "retry",
+                  "g5h6": {
+                    "f8g8": {
+                      "g3d6": {
+                        "g8g6": "win"
+                      },
+                      "h5g7": {
+                        "d7f6": "win"
+                      }
+                    }
+                  },
+                  "h5f4": "retry"
+                }
+              }
+            }
+          },
+          "h4g5": {
+            "b7b2": "win"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 21706,
+    "rating": 1667,
+    "enabled": true,
+    "color": "white",
+    "game_id": "rn700fls",
+    "attempts": 633,
+    "vote": -4
+  }
+}

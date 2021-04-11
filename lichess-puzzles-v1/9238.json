@@ -1,0 +1,54 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5rk1/6pp/p3p3/1p2B3/1PbP2B1/Q3b1P1/2q4P/1R3RK1 w - - 5 34",
+    "initial_move_san": "Kh1",
+    "initial_move_uci": "g1h1",
+    "puzzle_fen": "5rk1/6pp/p3p3/1p2B3/1PbP2B1/Q3b1P1/2q4P/1R3R1K b - - 6 34",
+    "lines": {
+      "c2b1": {
+        "a3c1": {
+          "b1c1": {
+            "g4e6": {
+              "c4e6": {
+                "h2h4": {
+                  "c1b2": "retry",
+                  "c1c2": "retry",
+                  "c1c4": "retry",
+                  "c1c6": "retry",
+                  "c1d2": "retry",
+                  "c1f1": {
+                    "h1h2": {
+                      "f1g1": "win",
+                      "f1h3": "win",
+                      "f8f2": "win"
+                    }
+                  },
+                  "e6d5": "retry",
+                  "f8f1": {
+                    "h1g2": {
+                      "f1f2": "win"
+                    }
+                  },
+                  "f8f2": "retry"
+                }
+              }
+            }
+          },
+          "f8f1": "retry"
+        }
+      },
+      "c4d5": "retry",
+      "c4f1": "retry",
+      "f8f1": "retry"
+    }
+  },
+  "metadata": {
+    "id": 9238,
+    "rating": 2157,
+    "enabled": true,
+    "color": "black",
+    "game_id": "9DQieGlf",
+    "attempts": 1578,
+    "vote": 27
+  }
+}

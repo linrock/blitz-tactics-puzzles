@@ -1,0 +1,41 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2q1rk1/3b1pb1/3pp2Q/8/1pnNP3/5P2/1PP5/q1NK2RR b - - 3 24",
+    "initial_move_san": "Nxb2+",
+    "initial_move_uci": "c4b2",
+    "puzzle_fen": "r2q1rk1/3b1pb1/3pp2Q/8/1p1NP3/5P2/1nP5/q1NK2RR w - - 0 25",
+    "lines": {
+      "d1d2": "retry",
+      "d1e2": {
+        "a1a6": {
+          "c1d3": {
+            "a6d3": {
+              "c2d3": {
+                "b4b3": {
+                  "g1g7": "win",
+                  "h6g7": "win",
+                  "h6h7": "win",
+                  "h6h8": "win"
+                }
+              }
+            }
+          },
+          "d4b5": "retry",
+          "e2d2": "retry",
+          "e2e1": "retry",
+          "e2e3": "retry",
+          "e2f2": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 17766,
+    "rating": 1397,
+    "enabled": true,
+    "color": "white",
+    "game_id": "vg215wii",
+    "attempts": 40,
+    "vote": 1
+  }
+}

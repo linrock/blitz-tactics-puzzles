@@ -1,0 +1,109 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2q4/2p1n1p1/p1nbkr2/4p3/3P4/P3P2Q/1pB1K1PP/R1B2R2 b - - 6 22",
+    "initial_move_san": "Rf5",
+    "initial_move_uci": "f6f5",
+    "puzzle_fen": "r2q4/2p1n1p1/p1nbk3/4pr2/3P4/P3P2Q/1pB1K1PP/R1B2R2 w - - 7 23",
+    "lines": {
+      "c2f5": {
+        "e6f6": {
+          "f5b1": {
+            "f6g5": {
+              "f1f5": {
+                "e7f5": {
+                  "h3f5": {
+                    "g5h6": {
+                      "f5g6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "f5c2": {
+            "f6g5": {
+              "f1f5": {
+                "e7f5": {
+                  "h3f5": {
+                    "g5h6": {
+                      "f5g6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "f5d3": {
+            "f6g5": {
+              "f1f5": {
+                "e7f5": {
+                  "h3f5": {
+                    "g5h6": {
+                      "f5g6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "f5e4": {
+            "f6g5": {
+              "f1f5": {
+                "e7f5": {
+                  "h3f5": {
+                    "g5h6": {
+                      "f5g6": "win"
+                    }
+                  }
+                }
+              },
+              "h3g3": "retry"
+            }
+          },
+          "f5e6": {
+            "f6g5": {
+              "f1f3": "retry",
+              "f1f5": "retry",
+              "h3g3": "retry",
+              "h3g4": {
+                "g5h6": {
+                  "g4h4": {
+                    "h6g6": {
+                      "e6f7": "win"
+                    }
+                  }
+                }
+              },
+              "h3h7": "retry"
+            }
+          },
+          "f5g4": "retry",
+          "f5h7": {
+            "f6g5": {
+              "f1f5": {
+                "e7f5": {
+                  "h3f5": {
+                    "g5h6": {
+                      "f5g6": "win"
+                    }
+                  }
+                }
+              },
+              "g2g3": "retry"
+            }
+          },
+          "h3h4": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 56568,
+    "rating": 2102,
+    "enabled": true,
+    "color": "white",
+    "game_id": "bnohtoau",
+    "attempts": 4530,
+    "vote": 121
+  }
+}

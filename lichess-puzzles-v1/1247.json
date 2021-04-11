@@ -1,0 +1,63 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r3k2r/pp3ppp/1qn1b3/2bp4/3N4/1PPBQ3/P3N1PP/R4RK1 w kq - 1 16",
+    "initial_move_san": "Nf4",
+    "initial_move_uci": "e2f4",
+    "puzzle_fen": "r3k2r/pp3ppp/1qn1b3/2bp4/3N1N2/1PPBQ3/P5PP/R4RK1 b kq - 2 16",
+    "lines": {
+      "c6d4": {
+        "g1h1": {
+          "d4b3": {
+            "e3e5": {
+              "b3a1": {
+                "f4e6": {
+                  "b6e6": {
+                    "e5g7": "win"
+                  },
+                  "f7e6": {
+                    "f1b1": {
+                      "a1b3": {
+                        "e5h5": {
+                          "e8d7": {
+                            "b1b3": {
+                              "b6c7": {
+                                "h5g4": "win"
+                              }
+                            }
+                          },
+                          "e8d8": {
+                            "b1b3": {
+                              "b6c6": {
+                                "h5f7": "win"
+                              },
+                              "b6c7": {
+                                "b3b1": "win"
+                              },
+                              "b6d6": {
+                                "b3b7": "win"
+                              }
+                            }
+                          },
+                          "e8e7": "retry"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 1247,
+    "rating": 2385,
+    "enabled": true,
+    "color": "black",
+    "game_id": "santt0c7",
+    "attempts": 388,
+    "vote": -13
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2q1rk1/pp3ppp/2nbb3/2pN4/2B1Q2P/P4N2/1P3PP1/2KR3R b - h3 0 14",
+    "initial_move_san": "Ne7",
+    "initial_move_uci": "c6e7",
+    "puzzle_fen": "r2q1rk1/pp2nppp/3bb3/2pN4/2B1Q2P/P4N2/1P3PP1/2KR3R w - - 1 15",
+    "lines": {
+      "d5e3": {
+        "d8d7": {
+          "c4e6": "retry",
+          "f3g5": {
+            "e6f5": {
+              "d1d6": {
+                "d7d6": {
+                  "e3f5": {
+                    "e7f5": {
+                      "e4f5": {
+                        "d6g6": {
+                          "f5g6": {
+                            "h7g6": "win"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "e3f5": {
+                "e7f5": {
+                  "d1d6": {
+                    "d7d6": {
+                      "e4f5": {
+                        "d6g6": {
+                          "f5g6": {
+                            "h7g6": "win"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "g2g4": "retry"
+                }
+              }
+            }
+          }
+        }
+      },
+      "d5e7": "retry"
+    }
+  },
+  "metadata": {
+    "id": 2004,
+    "rating": 2696,
+    "enabled": true,
+    "color": "white",
+    "game_id": "mAZgr7PC",
+    "attempts": 229,
+    "vote": -13
+  }
+}

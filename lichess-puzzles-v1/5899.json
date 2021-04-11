@@ -1,0 +1,32 @@
+{
+  "puzzle_data": {
+    "initial_fen": "6k1/p3ppb1/6pp/1pNnP3/1Pq2n2/P4N1P/1B1Q1PP1/6K1 b - - 5 28",
+    "initial_move_san": "Nd3",
+    "initial_move_uci": "f4d3",
+    "puzzle_fen": "6k1/p3ppb1/6pp/1pNnP3/1Pq5/P2n1N1P/1B1Q1PP1/6K1 w - - 6 29",
+    "lines": {
+      "c5d3": {
+        "e7e6": "win"
+      },
+      "d2d3": {
+        "g8h7": {
+          "b2d4": "retry",
+          "d3c4": {
+            "b5c4": "win"
+          },
+          "f3d2": "retry",
+          "g2g3": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 5899,
+    "rating": 1341,
+    "enabled": true,
+    "color": "white",
+    "game_id": "0bijolla",
+    "attempts": 74,
+    "vote": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2q2nr/5k2/p3PP2/p1pP4/8/2N3Pp/1PP4P/R2Q1RK1 b - - 0 26",
+    "initial_move_san": "Kg6",
+    "initial_move_uci": "f7g6",
+    "puzzle_fen": "r2q2nr/8/p3PPk1/p1pP4/8/2N3Pp/1PP4P/R2Q1RK1 w - - 1 27",
+    "lines": {
+      "d1d3": "retry",
+      "d1g4": {
+        "g6h6": {
+          "g4f4": "retry",
+          "g4g7": {
+            "h6h5": {
+              "f1f5": "win"
+            }
+          },
+          "g4h3": "retry",
+          "g4h4": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 5367,
+    "rating": 1296,
+    "enabled": true,
+    "color": "white",
+    "game_id": "yaxeemek",
+    "attempts": 40260,
+    "vote": 53
+  }
+}

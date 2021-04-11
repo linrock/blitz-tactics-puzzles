@@ -1,0 +1,37 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1r4k1/R6p/3p2p1/1bpPp3/1p4Q1/1q3N1P/1P4PK/8 b - - 1 31",
+    "initial_move_san": "Rf8",
+    "initial_move_uci": "b8f8",
+    "puzzle_fen": "5rk1/R6p/3p2p1/1bpPp3/1p4Q1/1q3N1P/1P4PK/8 w - - 2 32",
+    "lines": {
+      "g4e6": {
+        "g8h8": {
+          "e6d6": "retry",
+          "e6e7": {
+            "f8f7": {
+              "e7d8": "retry",
+              "e7f7": {
+                "c5c4": {
+                  "f7f8": "win",
+                  "f7g7": "win",
+                  "f7h7": "win"
+                }
+              }
+            }
+          },
+          "f3g5": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 43206,
+    "rating": 1449,
+    "enabled": true,
+    "color": "white",
+    "game_id": "moss453y",
+    "attempts": 158,
+    "vote": 4
+  }
+}

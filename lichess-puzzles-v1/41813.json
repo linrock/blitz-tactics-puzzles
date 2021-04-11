@@ -1,0 +1,92 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1Q5r/n4ppp/pkb3q1/2N5/8/8/PPP2PPP/R3R1K1 b - - 4 23",
+    "initial_move_san": "Kxc5",
+    "initial_move_uci": "b6c5",
+    "puzzle_fen": "1Q5r/n4ppp/p1b3q1/2k5/8/8/PPP2PPP/R3R1K1 w - - 0 24",
+    "lines": {
+      "b8a7": {
+        "c5b4": {
+          "a2a3": {
+            "b4b5": {
+              "a3a4": {
+                "b5c4": {
+                  "a7a6": "retry",
+                  "b2b3": {
+                    "c4c3": {
+                      "a7c5": {
+                        "c3b2": {
+                          "e1b1": "win"
+                        }
+                      },
+                      "a7e3": "retry",
+                      "e1e3": "retry"
+                    }
+                  }
+                }
+              },
+              "e1e5": "retry"
+            }
+          },
+          "a7b6": "retry",
+          "a7d4": {
+            "b4a5": {
+              "d4c5": {
+                "c6b5": {
+                  "a2a4": {
+                    "g6g2": {
+                      "g1g2": {
+                        "f7f6": {
+                          "a4b5": "win",
+                          "b2b4": "win"
+                        }
+                      }
+                    }
+                  },
+                  "c5c7": "retry",
+                  "e1e3": {
+                    "g6c2": {
+                      "b2b4": "retry",
+                      "e3a3": {
+                        "c2a4": {
+                          "b2b4": "win"
+                        }
+                      }
+                    }
+                  },
+                  "e1e4": "retry"
+                }
+              },
+              "e1e5": {
+                "c6b5": {
+                  "a2a4": {
+                    "g6g2": {
+                      "g1g2": {
+                        "f7f6": {
+                          "a4b5": "win",
+                          "b2b4": "win"
+                        }
+                      }
+                    }
+                  },
+                  "d4c3": "retry"
+                }
+              }
+            }
+          },
+          "a7e7": "retry",
+          "c2c3": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 41813,
+    "rating": 2225,
+    "enabled": true,
+    "color": "white",
+    "game_id": "p6yjqdzm",
+    "attempts": 1071,
+    "vote": 28
+  }
+}

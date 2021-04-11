@@ -1,0 +1,45 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1k5/pppr3p/n1N2bb1/1QpP1p2/8/8/PPP2PPP/4R1K1 w - - 9 21",
+    "initial_move_san": "Re8+",
+    "initial_move_uci": "e1e8",
+    "puzzle_fen": "r1k1R3/pppr3p/n1N2bb1/1QpP1p2/8/8/PPP2PPP/6K1 b - - 10 21",
+    "lines": {
+      "g6e8": {
+        "b5d3": {
+          "a6b4": {
+            "c6b4": {
+              "c5b4": {
+                "d3f5": "win"
+              }
+            }
+          },
+          "b7c6": {
+            "d3f5": "win"
+          },
+          "e8g6": {
+            "c2c3": {
+              "a6b8": {
+                "c6a5": "win"
+              },
+              "c5c4": "retry",
+              "d7d6": {
+                "c6a5": "win"
+              }
+            }
+          },
+          "f6b2": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 43280,
+    "rating": 1413,
+    "enabled": true,
+    "color": "black",
+    "game_id": "TAmRJedb",
+    "attempts": 30,
+    "vote": 0
+  }
+}

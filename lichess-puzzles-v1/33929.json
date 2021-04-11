@@ -1,0 +1,126 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4r1r1/pQ6/2p5/3q1k2/3B2R1/5P2/PP6/5K2 w - - 5 34",
+    "initial_move_san": "Qxa7",
+    "initial_move_uci": "b7a7",
+    "puzzle_fen": "4r1r1/Q7/2p5/3q1k2/3B2R1/5P2/PP6/5K2 b - - 0 34",
+    "lines": {
+      "d5f3": {
+        "d4f2": {
+          "f3d1": {
+            "f1g2": {
+              "d1g4": {
+                "f2g3": {
+                  "g4e4": "retry",
+                  "g4g3": {
+                    "g2f1": {
+                      "e8e1": "win",
+                      "g3e1": "win",
+                      "g3g2": "win"
+                    }
+                  }
+                }
+              },
+              "g8g4": "retry"
+            }
+          },
+          "f3d3": "retry",
+          "f3e2": {
+            "f1g2": {
+              "e2g4": {
+                "f2g3": {
+                  "g4e4": "retry",
+                  "g4g3": {
+                    "g2f1": {
+                      "e8e1": "win",
+                      "g3e1": "win",
+                      "g3g2": "win"
+                    }
+                  }
+                }
+              },
+              "f5g4": "retry",
+              "g8g4": {
+                "g2h3": {
+                  "e2d3": "retry",
+                  "e2e3": "retry",
+                  "e2f1": {
+                    "h3h2": {
+                      "f1g2": "win"
+                    }
+                  },
+                  "e2f3": {
+                    "f2g3": {
+                      "f3g3": "win"
+                    }
+                  },
+                  "e8e3": "retry",
+                  "e8h8": "retry",
+                  "f5g6": "retry",
+                  "g4g3": "retry",
+                  "g4h4": "retry"
+                }
+              }
+            }
+          },
+          "f3h3": {
+            "f1g1": {
+              "e8e1": "retry",
+              "g8g4": {
+                "f2g3": {
+                  "e8e1": {
+                    "g1f2": {
+                      "h3f1": "win",
+                      "h3g3": "win"
+                    }
+                  },
+                  "f5f6": "retry",
+                  "f5g6": "retry",
+                  "g4g3": {
+                    "g1f2": {
+                      "h3g2": "win"
+                    }
+                  },
+                  "h3g3": {
+                    "g1f1": {
+                      "e8e1": "win",
+                      "g3e1": "win",
+                      "g3g2": "win"
+                    }
+                  }
+                }
+              },
+              "h3g4": {
+                "f2g3": {
+                  "e8e1": {
+                    "g1f2": {
+                      "g4e2": "win",
+                      "g4g3": "win"
+                    }
+                  },
+                  "g4d1": "retry",
+                  "g4g3": {
+                    "g1f1": {
+                      "e8e1": "win",
+                      "g3e1": "win",
+                      "g3g2": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 33929,
+    "rating": 1610,
+    "enabled": true,
+    "color": "black",
+    "game_id": "93K3gY9L",
+    "attempts": 369,
+    "vote": 6
+  }
+}

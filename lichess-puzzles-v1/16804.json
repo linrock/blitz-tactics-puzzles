@@ -1,0 +1,57 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r4rk1/1p4p1/p2pp1np/2q1p3/4PPQ1/P1N3P1/1PP4P/R4R1K b - - 4 21",
+    "initial_move_san": "Ne7",
+    "initial_move_uci": "g6e7",
+    "puzzle_fen": "r4rk1/1p2n1p1/p2pp2p/2q1p3/4PPQ1/P1N3P1/1PP4P/R4R1K w - - 5 22",
+    "lines": {
+      "g4e6": {
+        "g8h8": {
+          "e6e7": {
+            "f8e8": {
+              "e7b7": {
+                "a8b8": {
+                  "b7a6": "retry",
+                  "b7d7": "win",
+                  "b7f7": "win"
+                }
+              },
+              "e7d7": {
+                "c5c6": {
+                  "d7c6": "retry",
+                  "d7f5": "retry",
+                  "d7f7": "retry",
+                  "d7g4": {
+                    "e5f4": "win"
+                  },
+                  "d7h3": "retry"
+                }
+              },
+              "e7f7": {
+                "e8f8": {
+                  "f7b3": "win",
+                  "f7b7": "win",
+                  "f7d5": "win",
+                  "f7e6": "win",
+                  "f7g6": "win"
+                }
+              },
+              "e7h4": {
+                "e8f8": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 16804,
+    "rating": 1639,
+    "enabled": true,
+    "color": "white",
+    "game_id": "RwiZEJLa",
+    "attempts": 415,
+    "vote": -4
+  }
+}

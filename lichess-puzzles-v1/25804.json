@@ -1,0 +1,48 @@
+{
+  "puzzle_data": {
+    "initial_fen": "N5k1/p1Q2pp1/4p3/3q4/P2b3n/7P/5PP1/5RK1 w - - 3 31",
+    "initial_move_san": "Qc8+",
+    "initial_move_uci": "c7c8",
+    "puzzle_fen": "N1Q3k1/p4pp1/4p3/3q4/P2b3n/7P/5PP1/5RK1 b - - 4 31",
+    "lines": {
+      "g8h7": {
+        "c8c2": {
+          "f7f5": {
+            "c2f5": {
+              "d5f5": "retry",
+              "e6f5": {
+                "g1h2": {
+                  "d5g2": "win"
+                }
+              }
+            }
+          },
+          "g7g6": {
+            "c2g6": {
+              "f7g6": {
+                "g1h2": {
+                  "d5g2": "win"
+                }
+              },
+              "h7g6": {
+                "g1h2": {
+                  "d5g2": "win"
+                }
+              }
+            }
+          },
+          "h7h6": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 25804,
+    "rating": 1243,
+    "enabled": true,
+    "color": "black",
+    "game_id": "scx97mph",
+    "attempts": 33,
+    "vote": 1
+  }
+}

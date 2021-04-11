@@ -1,0 +1,40 @@
+{
+  "puzzle_data": {
+    "initial_fen": "3rk2r/pp4pp/3qpn2/8/2Pn4/N2PQ3/PP3PPP/R3KB1R w KQk - 3 15",
+    "initial_move_san": "g3",
+    "initial_move_uci": "g2g3",
+    "puzzle_fen": "3rk2r/pp4pp/3qpn2/8/2Pn4/N2PQ1P1/PP3P1P/R3KB1R b KQk - 0 15",
+    "lines": {
+      "f6g4": {
+        "e1c1": {
+          "g4e3": {
+            "f2e3": {
+              "d4c6": {
+                "d3d4": "win"
+              },
+              "d4f3": "retry",
+              "d4f5": "retry",
+              "d6c6": {
+                "f1h3": {
+                  "d4e2": {
+                    "c1d2": "win"
+                  },
+                  "d4f3": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 9725,
+    "rating": 2416,
+    "enabled": true,
+    "color": "black",
+    "game_id": "pydeifxp",
+    "attempts": 305,
+    "vote": -12
+  }
+}

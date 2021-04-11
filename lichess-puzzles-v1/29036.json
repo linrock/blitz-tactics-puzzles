@@ -1,0 +1,37 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2k1r1r1/pp5p/2bp2q1/5p2/3p1P1P/1Q1P2NR/PPP1BKP1/R7 b - - 2 22",
+    "initial_move_san": "Re3",
+    "initial_move_uci": "e8e3",
+    "puzzle_fen": "2k3r1/pp5p/2bp2q1/5p2/3p1P1P/1Q1Pr1NR/PPP1BKP1/R7 w - - 3 23",
+    "lines": {
+      "e2f3": {
+        "c6f3": {
+          "g2f3": {
+            "g6g7": {
+              "a1e1": {
+                "g8e8": {
+                  "e1e3": "win"
+                }
+              },
+              "a1g1": "retry",
+              "b3b4": "retry",
+              "b3b5": "retry",
+              "b3c4": "retry",
+              "b3d5": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 29036,
+    "rating": 2517,
+    "enabled": true,
+    "color": "white",
+    "game_id": "ablw054c",
+    "attempts": 115,
+    "vote": -12
+  }
+}

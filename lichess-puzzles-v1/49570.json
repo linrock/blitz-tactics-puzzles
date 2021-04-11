@@ -1,0 +1,42 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/5p2/Q3p1p1/2Pkq3/3p4/4n3/5K2/2R5 w - - 2 43",
+    "initial_move_san": "Rd1",
+    "initial_move_uci": "c1d1",
+    "puzzle_fen": "8/5p2/Q3p1p1/2Pkq3/3p4/4n3/5K2/3R4 b - - 3 43",
+    "lines": {
+      "e5h2": {
+        "f2e1": {
+          "h2g1": {
+            "e1e2": {
+              "g1g2": {
+                "e2e1": {
+                  "e3c2": "win"
+                }
+              }
+            }
+          },
+          "h2h1": {
+            "e1f2": {
+              "h1g2": {
+                "f2e1": {
+                  "e3c2": "win"
+                }
+              },
+              "h1h4": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 49570,
+    "rating": 2415,
+    "enabled": true,
+    "color": "black",
+    "game_id": "ncogzoha",
+    "attempts": 2670,
+    "vote": 114
+  }
+}

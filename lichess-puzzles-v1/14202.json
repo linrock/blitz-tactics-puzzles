@@ -1,0 +1,39 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4r1k1/ppR3pp/8/3p1Q2/5P2/P3P3/1P2q2K/8 w - - 2 36",
+    "initial_move_san": "Kh3",
+    "initial_move_uci": "h2h3",
+    "puzzle_fen": "4r1k1/ppR3pp/8/3p1Q2/5P2/P3P2K/1P2q3/8 b - - 3 36",
+    "lines": {
+      "e8e3": {
+        "h3h4": {
+          "e2e1": "retry",
+          "e2h2": {
+            "h4g5": {
+              "e3g3": {
+                "f5g4": {
+                  "h2h6": {
+                    "g5f5": {
+                      "h6f6": "win"
+                    }
+                  }
+                }
+              },
+              "h2g2": "retry",
+              "h2h6": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 14202,
+    "rating": 1729,
+    "enabled": true,
+    "color": "black",
+    "game_id": "ymnk1diy",
+    "attempts": 86813,
+    "vote": 1215
+  }
+}

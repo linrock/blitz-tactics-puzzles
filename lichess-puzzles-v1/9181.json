@@ -1,0 +1,60 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r6k/8/3p3b/3Pp3/4P2p/1p3B1P/P1Qq2P1/1K5R w - - 0 43",
+    "initial_move_san": "axb3",
+    "initial_move_uci": "a2b3",
+    "puzzle_fen": "r6k/8/3p3b/3Pp3/4P2p/1P3B1P/2Qq2P1/1K5R b - - 0 43",
+    "lines": {
+      "a8a1": {
+        "b1b2": {
+          "a1a2": {
+            "b2a2": {
+              "d2c2": {
+                "a2a3": "win"
+              }
+            }
+          },
+          "d2d4": {
+            "c2c3": {
+              "a1a2": {
+                "b2a2": {
+                  "d4c3": {
+                    "h1b1": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "d2d4": {
+        "c2b2": {
+          "d4d3": {
+            "b2c2": {
+              "a8a1": {
+                "b1b2": {
+                  "a1a2": {
+                    "b2a2": {
+                      "d3c2": {
+                        "a2a3": "win"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 9181,
+    "rating": 1592,
+    "enabled": true,
+    "color": "black",
+    "game_id": "Oy5ewijg",
+    "attempts": 18792,
+    "vote": 188
+  }
+}

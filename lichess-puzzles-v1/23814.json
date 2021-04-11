@@ -1,0 +1,78 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/p6p/p7/5p1k/3b4/8/4nr2/6K1 w - - 10 61",
+    "initial_move_san": "Kh1",
+    "initial_move_uci": "g1h1",
+    "puzzle_fen": "8/p6p/p7/5p1k/3b4/8/4nr2/7K b - - 11 61",
+    "lines": {
+      "e2c1": "retry",
+      "e2c3": "retry",
+      "e2g1": "retry",
+      "f2f1": "retry",
+      "f2f3": {
+        "h1g2": {
+          "e2g1": "retry",
+          "f3a3": "retry",
+          "f3b3": "retry",
+          "f3c3": "retry",
+          "f3d3": "retry",
+          "f3e3": "retry",
+          "f3f4": "retry",
+          "f3g3": "retry",
+          "h5g4": {
+            "g2h1": {
+              "a6a5": "retry",
+              "d4a1": "retry",
+              "d4b2": "retry",
+              "d4b6": "retry",
+              "d4c3": "retry",
+              "d4c5": "retry",
+              "d4e3": "retry",
+              "d4e5": "retry",
+              "d4f2": "retry",
+              "d4f6": "retry",
+              "d4g1": "retry",
+              "d4g7": "retry",
+              "d4h8": "retry",
+              "e2c1": "retry",
+              "e2c3": "retry",
+              "e2f4": {
+                "h1h2": {
+                  "f3h3": "win"
+                }
+              },
+              "e2g1": "retry",
+              "e2g3": "retry",
+              "f3a3": "retry",
+              "f3b3": "retry",
+              "f3c3": "retry",
+              "f3d3": "retry",
+              "f3e3": "retry",
+              "f3f1": "retry",
+              "f3f4": "retry",
+              "f3g3": "retry",
+              "f3h3": "retry",
+              "f5f4": "retry",
+              "g4f4": "retry",
+              "g4g5": "retry",
+              "g4h4": "retry",
+              "h7h5": "retry",
+              "h7h6": "retry"
+            }
+          }
+        }
+      },
+      "f2f4": "retry",
+      "f2h2": "retry"
+    }
+  },
+  "metadata": {
+    "id": 23814,
+    "rating": 2449,
+    "enabled": true,
+    "color": "black",
+    "game_id": "gY07jPsV",
+    "attempts": 95,
+    "vote": -15
+  }
+}

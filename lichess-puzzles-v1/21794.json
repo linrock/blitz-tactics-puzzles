@@ -1,0 +1,86 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4Q1k1/1p4p1/2p5/p2q2B1/1n1P4/1P6/P1P4P/1K3R2 b - - 5 35",
+    "initial_move_san": "Kh7",
+    "initial_move_uci": "g8h7",
+    "puzzle_fen": "4Q3/1p4pk/2p5/p2q2B1/1n1P4/1P6/P1P4P/1K3R2 w - - 6 36",
+    "lines": {
+      "f1f8": {
+        "d5h1": {
+          "b1b2": {
+            "b4d3": {
+              "b2a3": {
+                "h1c1": {
+                  "g5c1": {
+                    "g7g5": {
+                      "a3a4": "retry",
+                      "b3b4": "retry",
+                      "c1b2": "retry",
+                      "c1d2": "retry",
+                      "c1e3": "retry",
+                      "c1f4": "retry",
+                      "c1g5": "retry",
+                      "c2c3": "retry",
+                      "c2c4": "retry",
+                      "c2d3": "retry",
+                      "d4d5": "retry",
+                      "e8c8": "retry",
+                      "e8d7": "retry",
+                      "e8d8": "retry",
+                      "e8e2": "retry",
+                      "e8e3": "retry",
+                      "e8e4": "retry",
+                      "e8e6": "retry",
+                      "e8e7": "retry",
+                      "e8f7": {
+                        "h7h6": {
+                          "f8h8": "win"
+                        }
+                      },
+                      "e8h5": "retry",
+                      "f8f1": "retry",
+                      "f8f3": "retry",
+                      "f8f5": "retry",
+                      "f8f6": "retry",
+                      "f8f7": "retry",
+                      "f8g8": "retry",
+                      "f8h8": "retry",
+                      "h2h3": "retry",
+                      "h2h4": "retry"
+                    }
+                  }
+                }
+              },
+              "c2d3": {
+                "h1h2": {
+                  "b2b1": "retry",
+                  "b2c1": "retry",
+                  "b2c3": {
+                    "h2b2": {
+                      "c3b2": {
+                        "a5a4": {
+                          "e8h5": "win",
+                          "f8h8": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "g5c1": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 21794,
+    "rating": 2060,
+    "enabled": true,
+    "color": "white",
+    "game_id": "hilsquxa",
+    "attempts": 930,
+    "vote": 3
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5r1k/1p2n3/p1q1BR1p/P7/3Q4/7P/1P4P1/6K1 b - - 0 31",
+    "initial_move_san": "Rxf6",
+    "initial_move_uci": "f8f6",
+    "puzzle_fen": "7k/1p2n3/p1q1Br1p/P7/3Q4/7P/1P4P1/6K1 w - - 0 32",
+    "lines": {
+      "d4f6": {
+        "h8h7": {
+          "f6e7": {
+            "h7g6": {
+              "e7f7": {
+                "g6g5": {
+                  "f7f5": {
+                    "g5h4": {
+                      "f5g4": "win"
+                    }
+                  },
+                  "f7g7": "retry",
+                  "h3h4": "retry"
+                }
+              }
+            }
+          },
+          "f6f7": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 4457,
+    "rating": 1287,
+    "enabled": true,
+    "color": "white",
+    "game_id": "bofmcjco",
+    "attempts": 281,
+    "vote": 13
+  }
+}

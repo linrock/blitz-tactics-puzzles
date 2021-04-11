@@ -1,0 +1,63 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1b1k2r/1pbq1ppp/2n5/2P1PP2/P2p4/2BB4/R5PP/1N1Q1RK1 w kq - 0 21",
+    "initial_move_san": "Bb4",
+    "initial_move_uci": "c3b4",
+    "puzzle_fen": "r1b1k2r/1pbq1ppp/2n5/2P1PP2/PB1p4/3B4/R5PP/1N1Q1RK1 b kq - 1 21",
+    "lines": {
+      "c6b4": {
+        "e5e6": {
+          "d7d5": {
+            "d3b5": {
+              "b4c6": {
+                "e6f7": {
+                  "d5f7": {
+                    "a2e2": {
+                      "e8d8": {
+                        "b5c6": {
+                          "b7c6": {
+                            "d1d4": {
+                              "c8d7": {
+                                "e2d2": "win"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "e8f8": "retry"
+                    }
+                  },
+                  "e8d8": {
+                    "d1h5": "win"
+                  },
+                  "e8f7": {
+                    "d1h5": {
+                      "f7f8": {
+                        "a2e2": "win"
+                      }
+                    }
+                  },
+                  "e8f8": "retry"
+                }
+              }
+            }
+          },
+          "f7e6": {
+            "f5e6": {
+              "d7d5": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 51334,
+    "rating": 2109,
+    "enabled": true,
+    "color": "black",
+    "game_id": "owtpm1tv",
+    "attempts": 461,
+    "vote": -12
+  }
+}

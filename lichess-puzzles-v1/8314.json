@@ -1,0 +1,58 @@
+{
+  "puzzle_data": {
+    "initial_fen": "7r/QRpqk1p1/3p1p1p/3Pp3/2P1P3/3P1P2/PPn4P/6K1 b - - 3 24",
+    "initial_move_san": "Nd4",
+    "initial_move_uci": "c2d4",
+    "puzzle_fen": "7r/QRpqk1p1/3p1p1p/3Pp3/2PnP3/3P1P2/PP5P/6K1 w - - 4 25",
+    "lines": {
+      "b7c7": {
+        "h8d8": {
+          "c4c5": {
+            "d6c5": {
+              "a2a4": "retry",
+              "a7c5": {
+                "e7e8": {
+                  "c7d7": {
+                    "d8d7": "win"
+                  }
+                }
+              },
+              "c7d7": {
+                "d8d7": {
+                  "a7c5": {
+                    "e7e8": "win"
+                  }
+                }
+              },
+              "g1f2": {
+                "e7e8": {
+                  "a2a4": "retry",
+                  "c7d7": {
+                    "d8d7": {
+                      "a7b6": "retry",
+                      "a7c5": {
+                        "e8f7": "win"
+                      }
+                    }
+                  }
+                }
+              },
+              "g1g2": "retry"
+            }
+          },
+          "c7d7": "retry",
+          "g1f2": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 8314,
+    "rating": 2066,
+    "enabled": true,
+    "color": "white",
+    "game_id": "zurduhg5",
+    "attempts": 212,
+    "vote": -12
+  }
+}

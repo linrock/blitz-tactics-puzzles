@@ -1,0 +1,36 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r6r/1p1k1p1p/p2qb1p1/2p5/P4B2/3P1Q2/1PP3K1/4RR2 b - - 0 23",
+    "initial_move_san": "Qd4",
+    "initial_move_uci": "d6d4",
+    "puzzle_fen": "r6r/1p1k1p1p/p3b1p1/2p5/P2q1B2/3P1Q2/1PP3K1/4RR2 w - - 1 24",
+    "lines": {
+      "e1e6": "retry",
+      "f3b7": {
+        "d7e8": {
+          "e1e6": {
+            "f7e6": {
+              "b7a8": {
+                "d4d8": {
+                  "a8a6": {
+                    "d8d7": "win"
+                  }
+                }
+              },
+              "b7c6": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 25745,
+    "rating": 2787,
+    "enabled": true,
+    "color": "white",
+    "game_id": "snugg1ko",
+    "attempts": 115,
+    "vote": -12
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4r2r/p1kp2pp/b1p5/8/Bq1pQ2P/1P3P2/2PP1P2/RNB1K2R w KQ - 1 19",
+    "initial_move_san": "Qxe8",
+    "initial_move_uci": "e4e8",
+    "puzzle_fen": "4Q2r/p1kp2pp/b1p5/8/Bq1p3P/1P3P2/2PP1P2/RNB1K2R b KQ - 0 19",
+    "lines": {
+      "h8e8": {
+        "e1d1": {
+          "a6e2": {
+            "d1e1": {
+              "e2f3": {
+                "e1f1": {
+                  "b4e7": {
+                    "f1g1": {
+                      "a7a5": "retry",
+                      "a7a6": "retry",
+                      "c7b6": "retry",
+                      "c7b7": "retry",
+                      "c7b8": "retry",
+                      "c7c8": "retry",
+                      "c7d8": "retry",
+                      "d4d3": "retry",
+                      "e7d6": "retry",
+                      "e7e1": {
+                        "g1h2": {
+                          "e1e4": "retry",
+                          "e1f2": {
+                            "h2h3": {
+                              "f2g2": "win"
+                            }
+                          },
+                          "e1h1": "retry"
+                        }
+                      },
+                      "e7e4": {
+                        "a4b5": {
+                          "c6b5": "retry",
+                          "d4d3": "retry",
+                          "e4g4": {
+                            "g1f1": {
+                              "g4g2": "win"
+                            }
+                          },
+                          "e4g6": {
+                            "g1f1": {
+                              "g6g2": "win"
+                            }
+                          }
+                        }
+                      },
+                      "e7e5": "retry",
+                      "e7e6": {
+                        "g1h2": {
+                          "e6d6": "retry",
+                          "e6e4": "retry",
+                          "e6e5": "retry",
+                          "e6g4": {
+                            "c2c3": {
+                              "g4g2": "win"
+                            }
+                          },
+                          "e6g6": "retry"
+                        }
+                      },
+                      "e7f6": "retry",
+                      "e7f7": "retry",
+                      "e8a8": "retry",
+                      "g7g5": "retry",
+                      "h7h6": "retry"
+                    }
+                  },
+                  "e8e1": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 16272,
+    "rating": 1994,
+    "enabled": true,
+    "color": "black",
+    "game_id": "kl3868rv",
+    "attempts": 1467,
+    "vote": 30
+  }
+}

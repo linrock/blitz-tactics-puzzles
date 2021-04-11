@@ -1,0 +1,51 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5rk1/2pq1pb1/p3p1pP/n1P5/4NP2/P2p4/4r3/RN1Q1K1R b - - 2 25",
+    "initial_move_san": "Bxh6",
+    "initial_move_uci": "g7h6",
+    "puzzle_fen": "5rk1/2pq1p2/p3p1pb/n1P5/4NP2/P2p4/4r3/RN1Q1K1R w - - 0 26",
+    "lines": {
+      "e4f6": {
+        "g8g7": {
+          "f6d7": {
+            "e2e4": {
+              "d1d3": "retry",
+              "d7f8": {
+                "e4f4": {
+                  "f1e1": {
+                    "f4e4": {
+                      "e1f2": {
+                        "e4f4": {
+                          "f2g1": {
+                            "f4f5": "win"
+                          },
+                          "f2g2": "retry",
+                          "f2g3": {
+                            "f4f5": "win"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "f1g1": {
+                    "f4f5": "win"
+                  },
+                  "f1g2": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 29718,
+    "rating": 1362,
+    "enabled": true,
+    "color": "white",
+    "game_id": "feaksbqb",
+    "attempts": 1856,
+    "vote": 15
+  }
+}

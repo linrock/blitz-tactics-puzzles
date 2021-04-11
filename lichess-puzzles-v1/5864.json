@@ -1,0 +1,34 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r6b/1p5p/1q1p1pkP/1r1PpQp1/4P3/4N3/5PP1/1R4K1 b - - 3 36",
+    "initial_move_san": "Kxh6",
+    "initial_move_uci": "g6h6",
+    "puzzle_fen": "r6b/1p5p/1q1p1p1k/1r1PpQp1/4P3/4N3/5PP1/1R4K1 w - - 0 37",
+    "lines": {
+      "e3g4": {
+        "h6h5": {
+          "f5h7": {
+            "h5g4": {
+              "h7h3": {
+                "g4f4": {
+                  "h3f3": "win",
+                  "h3f5": "win"
+                }
+              }
+            }
+          },
+          "g4f6": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 5864,
+    "rating": 1626,
+    "enabled": true,
+    "color": "white",
+    "game_id": "pdieffhc",
+    "attempts": 173,
+    "vote": 5
+  }
+}

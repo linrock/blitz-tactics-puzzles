@@ -1,0 +1,70 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5qk1/2p2p1p/p3p1pP/2n1P1Q1/1p3P2/4P3/PP2K3/1r6 w - - 0 28",
+    "initial_move_san": "Kf3",
+    "initial_move_uci": "e2f3",
+    "puzzle_fen": "5qk1/2p2p1p/p3p1pP/2n1P1Q1/1p3P2/4PK2/PP6/1r6 b - - 1 28",
+    "lines": {
+      "f8a8": {
+        "e3e4": {
+          "a8e4": {
+            "f3g3": {
+              "b1d1": "retry",
+              "b1g1": "retry",
+              "c5d7": "retry",
+              "e4a8": "retry",
+              "e4d3": "retry",
+              "e4d4": "retry",
+              "e4d5": "retry",
+              "e4e1": {
+                "g3f3": {
+                  "b1d1": "retry",
+                  "e1d1": "retry",
+                  "e1f1": {
+                    "f3g3": {
+                      "b1d1": "retry",
+                      "c5e4": {
+                        "g3h4": {
+                          "b1d1": "retry",
+                          "e4f6": "retry",
+                          "e4g5": "retry",
+                          "f1d1": "retry",
+                          "f1d3": "retry",
+                          "f1e1": "retry",
+                          "f1f2": "retry",
+                          "f1h1": {
+                            "h4g4": {
+                              "b1g1": "win"
+                            }
+                          },
+                          "f7f6": "retry"
+                        }
+                      },
+                      "f1d1": "retry",
+                      "f1d3": "retry",
+                      "f1g1": "retry",
+                      "f7f6": "retry"
+                    }
+                  },
+                  "e1h1": "retry",
+                  "f7f6": "retry"
+                }
+              },
+              "e4e3": "retry",
+              "f7f6": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 5080,
+    "rating": 1897,
+    "enabled": true,
+    "color": "black",
+    "game_id": "42qy427j",
+    "attempts": 1662,
+    "vote": 27
+  }
+}

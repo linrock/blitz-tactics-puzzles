@@ -1,0 +1,55 @@
+{
+  "puzzle_data": {
+    "initial_fen": "7r/p1p2pk1/8/1p2P3/2KPQ3/P1P1R1P1/3B1P2/1q6 w - b6 0 36",
+    "initial_move_san": "Kd5",
+    "initial_move_uci": "c4d5",
+    "puzzle_fen": "7r/p1p2pk1/8/1p1KP3/3PQ3/P1P1R1P1/3B1P2/1q6 b - - 1 36",
+    "lines": {
+      "b1a2": {
+        "d5c6": {
+          "a2e6": {
+            "c6b5": {
+              "a7a6": {
+                "b5b4": {
+                  "e6b6": {
+                    "b4a4": {
+                      "b6b5": "win"
+                    }
+                  },
+                  "h8b8": "retry"
+                }
+              }
+            }
+          }
+        }
+      },
+      "b1b3": {
+        "d5c6": {
+          "b3e6": {
+            "c6b5": {
+              "a7a6": {
+                "b5b4": {
+                  "e6b6": {
+                    "b4a4": {
+                      "b6b5": "win"
+                    }
+                  },
+                  "h8b8": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 57301,
+    "rating": 2677,
+    "enabled": true,
+    "color": "black",
+    "game_id": "yp4scoek",
+    "attempts": 166,
+    "vote": 2
+  }
+}

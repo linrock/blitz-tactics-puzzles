@@ -1,0 +1,51 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5bk1/2R5/6p1/2p1p3/4p1QK/2r4N/6PP/1q6 b - - 1 37",
+    "initial_move_san": "Qe1+",
+    "initial_move_uci": "b1e1",
+    "puzzle_fen": "5bk1/2R5/6p1/2p1p3/4p1QK/2r4N/6PP/4q3 w - - 2 38",
+    "lines": {
+      "g2g3": {
+        "f8e7": {
+          "c7e7": {
+            "g8f8": {
+              "e7a7": "retry",
+              "e7b7": "retry",
+              "e7c7": "retry",
+              "e7e5": "retry",
+              "e7h7": "retry",
+              "g4d7": {
+                "g6g5": {
+                  "h3g5": {
+                    "e1g3": {
+                      "h2g3": {
+                        "e4e3": {
+                          "d7d8": "win",
+                          "d7e8": "win",
+                          "e7e8": "win"
+                        }
+                      },
+                      "h4h5": "retry"
+                    }
+                  }
+                }
+              },
+              "g4e6": "retry",
+              "g4g5": "retry"
+            }
+          },
+          "h3g5": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 1378,
+    "rating": 1589,
+    "enabled": true,
+    "color": "white",
+    "game_id": "kufrpf91",
+    "attempts": 654,
+    "vote": 9
+  }
+}

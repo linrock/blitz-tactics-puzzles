@@ -1,0 +1,54 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r3k2r/1pp2p2/p2p2p1/P2Pp2p/1P2P1nq/2PB1R1P/5PP1/R2Q2K1 w kq - 1 21",
+    "initial_move_san": "hxg4",
+    "initial_move_uci": "h3g4",
+    "puzzle_fen": "r3k2r/1pp2p2/p2p2p1/P2Pp2p/1P2P1Pq/2PB1R2/5PP1/R2Q2K1 b kq - 0 21",
+    "lines": {
+      "h5g4": {
+        "f3h3": {
+          "g4h3": {
+            "g2g3": {
+              "h3h2": {
+                "g1h1": {
+                  "h4d8": {
+                    "d1d2": "win"
+                  },
+                  "h4e7": {
+                    "d1g4": "win"
+                  },
+                  "h4f6": {
+                    "d1e2": "win"
+                  },
+                  "h4g5": {
+                    "d1c2": "win"
+                  },
+                  "h4h3": "retry",
+                  "h4h6": "retry"
+                }
+              },
+              "h4d8": "retry",
+              "h4e7": {
+                "g1h2": "win"
+              },
+              "h4f6": {
+                "a1a2": "win"
+              },
+              "h4g5": "retry",
+              "h4h6": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 56104,
+    "rating": 1389,
+    "enabled": true,
+    "color": "black",
+    "game_id": "h1pvpmtg",
+    "attempts": 56,
+    "vote": 2
+  }
+}

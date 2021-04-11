@@ -1,0 +1,105 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/8/2q2K2/8/4q1k1/8/8/8 w - - 44 87",
+    "initial_move_san": "Kf7",
+    "initial_move_uci": "f6f7",
+    "puzzle_fen": "8/5K2/2q5/8/4q1k1/8/8/8 b - - 45 87",
+    "lines": {
+      "c6a4": "retry",
+      "c6a6": "retry",
+      "c6a8": "retry",
+      "c6b5": "retry",
+      "c6b6": "retry",
+      "c6b7": "retry",
+      "c6c1": "retry",
+      "c6c2": "retry",
+      "c6c3": "retry",
+      "c6c4": "retry",
+      "c6c5": "retry",
+      "c6d5": "retry",
+      "c6d6": "retry",
+      "c6d7": {
+        "f7g8": {
+          "e4a8": "win",
+          "e4e8": "win"
+        }
+      },
+      "c6e6": "retry",
+      "c6e8": {
+        "f7g7": {
+          "e4g6": "win"
+        }
+      },
+      "c6f6": "retry",
+      "c6g6": {
+        "f7f8": {
+          "e4b4": "win",
+          "e4e8": "win"
+        }
+      },
+      "c6h6": {
+        "f7g8": {
+          "e4c4": "win",
+          "e4d5": "win",
+          "e4e6": "win",
+          "e4e8": "win",
+          "e4g6": "win",
+          "e4h7": "win"
+        }
+      },
+      "e4a4": "retry",
+      "e4b1": "retry",
+      "e4b4": "retry",
+      "e4c2": "retry",
+      "e4c4": "retry",
+      "e4d4": "retry",
+      "e4d5": "retry",
+      "e4e1": "retry",
+      "e4e2": "retry",
+      "e4e3": "retry",
+      "e4e5": "retry",
+      "e4e6": "retry",
+      "e4e8": {
+        "f7g7": {
+          "c6g6": "win"
+        }
+      },
+      "e4f3": "retry",
+      "e4f4": "retry",
+      "e4f5": "retry",
+      "e4g2": "retry",
+      "e4g6": {
+        "f7f8": {
+          "c6c5": "win",
+          "c6d6": "win",
+          "c6e8": "win",
+          "c6f6": "win"
+        }
+      },
+      "e4h1": "retry",
+      "e4h7": {
+        "f7f8": {
+          "c6a8": "win",
+          "c6c8": "win"
+        }
+      },
+      "g4f3": "retry",
+      "g4f4": "retry",
+      "g4f5": "retry",
+      "g4g3": "retry",
+      "g4g5": "retry",
+      "g4h3": "retry",
+      "g4h4": "retry",
+      "g4h5": "retry"
+    }
+  },
+  "metadata": {
+    "id": 34917,
+    "rating": 1418,
+    "enabled": true,
+    "color": "black",
+    "game_id": "pogalr29",
+    "attempts": 48,
+    "vote": 0
+  }
+}

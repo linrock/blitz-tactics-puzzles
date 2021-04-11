@@ -1,0 +1,68 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1rr3k1/1b3p2/p1p3pp/3P4/4PR1N/3Q2P1/Pq5P/R5K1 w - - 0 24",
+    "initial_move_san": "d6",
+    "initial_move_uci": "d5d6",
+    "puzzle_fen": "1rr3k1/1b3p2/p1pP2pp/8/4PR1N/3Q2P1/Pq5P/R5K1 b - - 0 24",
+    "lines": {
+      "b2a1": {
+        "f4f1": {
+          "a1a2": {
+            "h4g6": {
+              "f7g6": {
+                "d6d7": {
+                  "c8f8": {
+                    "f1f8": {
+                      "b8f8": {
+                        "d7d8q": {
+                          "a2f2": {
+                            "g1h1": {
+                              "f8d8": {
+                                "d3d8": {
+                                  "f2f8": {
+                                    "d8d3": "win"
+                                  },
+                                  "g8g7": {
+                                    "d8d7": {
+                                      "f2f7": {
+                                        "d7d4": {
+                                          "f7f6": "retry",
+                                          "g7g8": {
+                                            "h1g1": "win"
+                                          },
+                                          "g7h7": {
+                                            "h1g1": "win"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "a1g7": {
+            "d3c4": "win"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 11620,
+    "rating": 2583,
+    "enabled": true,
+    "color": "black",
+    "game_id": "4pzjtb4u",
+    "attempts": 127,
+    "vote": -12
+  }
+}

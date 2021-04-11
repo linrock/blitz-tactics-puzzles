@@ -1,0 +1,82 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rn1qk2r/p4ppp/2p1pb2/2Pp1b2/1P6/2N2N2/P3PPPP/R2QKB1R w KQkq - 0 10",
+    "initial_move_san": "e3",
+    "initial_move_uci": "e2e3",
+    "puzzle_fen": "rn1qk2r/p4ppp/2p1pb2/2Pp1b2/1P6/2N1PN2/P4PPP/R2QKB1R b KQkq - 0 10",
+    "lines": {
+      "f6c3": {
+        "e1e2": {
+          "a7a5": {
+            "b4b5": {
+              "a5a4": "retry",
+              "c3a1": {
+                "d1a1": "win"
+              },
+              "c6b5": "retry",
+              "d8e7": "retry",
+              "d8f6": "retry"
+            }
+          },
+          "b8d7": {
+            "a1c1": "win"
+          },
+          "c3a1": {
+            "d1a1": "win"
+          },
+          "c3b4": "retry",
+          "d8c8": {
+            "f3d4": {
+              "c3a1": {
+                "d4f5": {
+                  "a1e5": {
+                    "f5d4": "win"
+                  },
+                  "c8a6": {
+                    "e2f3": {
+                      "a6a2": {
+                        "f5d6": {
+                          "e8e7": {
+                            "f1c4": {
+                              "d5c4": {
+                                "d1a1": {
+                                  "a2a1": {
+                                    "h1a1": "win"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "e6f5": {
+                    "d1a1": "win"
+                  }
+                }
+              },
+              "c8a6": "retry",
+              "f5g6": {
+                "a1c1": "win"
+              }
+            }
+          },
+          "e8g8": {
+            "a1c1": "win"
+          },
+          "f5e4": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 11919,
+    "rating": 1249,
+    "enabled": true,
+    "color": "black",
+    "game_id": "9moc9a0y",
+    "attempts": 30,
+    "vote": 0
+  }
+}

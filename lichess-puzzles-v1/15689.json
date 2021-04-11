@@ -1,0 +1,72 @@
+{
+  "puzzle_data": {
+    "initial_fen": "7k/7P/4K1P1/8/8/8/8/8 b - - 16 98",
+    "initial_move_san": "Kg7",
+    "initial_move_uci": "h8g7",
+    "puzzle_fen": "8/6kP/4K1P1/8/8/8/8/8 w - - 17 99",
+    "lines": {
+      "e6d5": "retry",
+      "e6d6": "retry",
+      "e6d7": "retry",
+      "e6e5": "retry",
+      "h7h8n": "retry",
+      "h7h8q": {
+        "g7h8": {
+          "e6f6": {
+            "h8g8": {
+              "g6g7": {
+                "g8h7": {
+                  "f6f7": {
+                    "h7h6": {
+                      "f7f8": "retry",
+                      "f7g8": "retry",
+                      "g7g8q": {
+                        "h6h5": {
+                          "f7e6": "retry",
+                          "f7e7": "retry",
+                          "f7e8": "retry",
+                          "f7f6": "retry",
+                          "f7f8": "retry",
+                          "f7g7": "retry",
+                          "g8a8": "retry",
+                          "g8b8": "retry",
+                          "g8c8": "retry",
+                          "g8d8": "retry",
+                          "g8e8": "retry",
+                          "g8f8": "retry",
+                          "g8g1": "retry",
+                          "g8g2": "retry",
+                          "g8g3": {
+                            "h5h6": {
+                              "g3g6": "win",
+                              "g3h4": "win"
+                            }
+                          },
+                          "g8g6": "retry",
+                          "g8g7": "retry",
+                          "g8h7": "retry",
+                          "g8h8": "retry"
+                        }
+                      },
+                      "g7g8r": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "h7h8r": "retry"
+    }
+  },
+  "metadata": {
+    "id": 15689,
+    "rating": 1924,
+    "enabled": true,
+    "color": "white",
+    "game_id": "2RnLgu5J",
+    "attempts": 3827,
+    "vote": 92
+  }
+}

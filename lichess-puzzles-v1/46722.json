@@ -1,0 +1,55 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rn2k1r1/3b1n2/ppp1pq2/3p4/PP1P3p/2NB1N1P/2PQ1PP1/R4RK1 w q - 1 19",
+    "initial_move_san": "Rae1",
+    "initial_move_uci": "a1e1",
+    "puzzle_fen": "rn2k1r1/3b1n2/ppp1pq2/3p4/PP1P3p/2NB1N1P/2PQ1PP1/4RRK1 b q - 2 19",
+    "lines": {
+      "f6f3": {
+        "d3g6": {
+          "g8g6": {
+            "e1e6": {
+              "d7e6": {
+                "d2g5": {
+                  "g6g5": {
+                    "g2g4": {
+                      "f3h3": "retry",
+                      "h4g3": {
+                        "h3h4": {
+                          "a8a7": "retry",
+                          "e6h3": "retry",
+                          "f7e5": "retry",
+                          "f7h6": "retry",
+                          "g3f2": {
+                            "g1h2": {
+                              "f3g2": "win",
+                              "f3h3": "win"
+                            }
+                          },
+                          "g5e5": "retry",
+                          "g5g4": "retry",
+                          "g5g6": "retry",
+                          "g5g7": "retry",
+                          "g5g8": "retry"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 46722,
+    "rating": 1988,
+    "enabled": true,
+    "color": "black",
+    "game_id": "sxpi7bjw",
+    "attempts": 311,
+    "vote": -10
+  }
+}

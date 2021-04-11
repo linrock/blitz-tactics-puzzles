@@ -1,0 +1,47 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/p4pk1/8/1P4p1/4Q2P/2qp2PK/2r5/4bR2 b - - 1 37",
+    "initial_move_san": "Qd2",
+    "initial_move_uci": "c3d2",
+    "puzzle_fen": "8/p4pk1/8/1P4p1/4Q2P/3p2PK/2rq4/4bR2 w - - 2 38",
+    "lines": {
+      "e4d4": {
+        "g7g8": {
+          "d4d8": {
+            "g8g7": {
+              "d8f6": {
+                "g7h7": {
+                  "f6f7": {
+                    "h7h8": {
+                      "f7e8": "retry",
+                      "f7f6": "retry",
+                      "f7f8": "retry",
+                      "f7h5": {
+                        "h8g7": {
+                          "f1f7": {
+                            "g7g8": {
+                              "h5h7": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 34996,
+    "rating": 2444,
+    "enabled": true,
+    "color": "white",
+    "game_id": "go70lvtr",
+    "attempts": 449,
+    "vote": 10
+  }
+}

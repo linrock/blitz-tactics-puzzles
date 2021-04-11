@@ -1,0 +1,38 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2q1rk1/pppB2pp/3b4/3n4/3P4/4PP2/PPQ3PP/R1B2RK1 b - - 0 15",
+    "initial_move_san": "Nxe3",
+    "initial_move_uci": "d5e3",
+    "puzzle_fen": "r2q1rk1/pppB2pp/3b4/8/3P4/4nP2/PPQ3PP/R1B2RK1 w - - 0 16",
+    "lines": {
+      "d7e6": {
+        "g8h8": {
+          "c1e3": {
+            "d6h2": {
+              "g1h2": {
+                "d8d6": {
+                  "g2g3": {
+                    "d6e6": "win"
+                  },
+                  "h2g1": {
+                    "d6e6": "win"
+                  },
+                  "h2h1": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 48300,
+    "rating": 1652,
+    "enabled": true,
+    "color": "white",
+    "game_id": "twar4fky",
+    "attempts": 719,
+    "vote": 2
+  }
+}

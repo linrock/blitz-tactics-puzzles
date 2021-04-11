@@ -1,0 +1,55 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2b1rk1/1p3pp1/2pp1n1p/2nPp3/P3P1qP/2N1Q1P1/2P2P1N/R1B1K2R b Q - 1 18",
+    "initial_move_san": "Ba5",
+    "initial_move_uci": "d8a5",
+    "puzzle_fen": "r4rk1/1p3pp1/2pp1n1p/b1nPp3/P3P1qP/2N1Q1P1/2P2P1N/R1B1K2R w Q - 2 19",
+    "lines": {
+      "h2g4": {
+        "f6g4": {
+          "e3f3": {
+            "a5c3": {
+              "f3c3": {
+                "g4f2": {
+                  "c3c5": {
+                    "f2d3": {
+                      "c2d3": {
+                        "d6c5": "win"
+                      }
+                    }
+                  },
+                  "c3f3": {
+                    "f2h1": "win"
+                  },
+                  "d5c6": {
+                    "f2h1": "win"
+                  },
+                  "h1f1": {
+                    "f2e4": {
+                      "c3c4": "win"
+                    }
+                  },
+                  "h1g1": {
+                    "f2e4": {
+                      "c3c4": "win"
+                    }
+                  },
+                  "h1h2": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 44324,
+    "rating": 2328,
+    "enabled": true,
+    "color": "white",
+    "game_id": "wmje36do",
+    "attempts": 228,
+    "vote": -12
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r4rk1/p4pb1/4p3/1p2q3/2p3Q1/2P1P3/PP4RP/6RK b - - 0 25",
+    "initial_move_san": "Rad8",
+    "initial_move_uci": "a8d8",
+    "puzzle_fen": "3r1rk1/p4pb1/4p3/1p2q3/2p3Q1/2P1P3/PP4RP/6RK w - - 1 26",
+    "lines": {
+      "g4g7": {
+        "e5g7": {
+          "g2g7": {
+            "g8h8": {
+              "g7g3": {
+                "d8d4": {
+                  "c3d4": {
+                    "c4c3": {
+                      "g3h3": "win"
+                    }
+                  },
+                  "e3d4": {
+                    "b5b4": {
+                      "g3h3": "win"
+                    }
+                  },
+                  "g3h3": {
+                    "d4h4": {
+                      "h3h4": "win"
+                    }
+                  }
+                }
+              },
+              "g7g4": {
+                "d8d4": {
+                  "c3d4": {
+                    "c4c3": {
+                      "g4h4": "win"
+                    }
+                  },
+                  "e3d4": {
+                    "b5b4": {
+                      "g4h4": "win"
+                    }
+                  },
+                  "e3e4": "retry",
+                  "g4d4": {
+                    "b5b4": {
+                      "d4h4": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 17835,
+    "rating": 1702,
+    "enabled": true,
+    "color": "white",
+    "game_id": "nju24r3x",
+    "attempts": 223,
+    "vote": -3
+  }
+}

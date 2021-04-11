@@ -1,0 +1,82 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5rk1/2q1pp2/1r1p2pQ/p2P4/4PR2/7P/6P1/4R1K1 b - - 2 30",
+    "initial_move_san": "Qa7",
+    "initial_move_uci": "c7a7",
+    "puzzle_fen": "5rk1/q3pp2/1r1p2pQ/p2P4/4PR2/7P/6P1/4R1K1 w - - 3 31",
+    "lines": {
+      "f4h4": {
+        "b6b3": {
+          "g1f1": "retry",
+          "g1h1": {
+            "b3h3": {
+              "g2h3": {
+                "a7g1": {
+                  "e1g1": {
+                    "a5a4": {
+                      "h6h7": "win",
+                      "h6h8": "win"
+                    }
+                  },
+                  "h1g1": {
+                    "a5a4": {
+                      "h6h7": "win",
+                      "h6h8": "win"
+                    }
+                  }
+                }
+              },
+              "h4h3": {
+                "a7g1": {
+                  "e1g1": {
+                    "a5a4": {
+                      "h6h7": "win",
+                      "h6h8": "win"
+                    }
+                  },
+                  "h1g1": {
+                    "a5a4": {
+                      "h6h7": "win",
+                      "h6h8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "g1h2": {
+            "b3h3": {
+              "h2h3": "retry",
+              "h4h3": {
+                "a7g1": {
+                  "e1g1": {
+                    "a5a4": {
+                      "h6h7": "win",
+                      "h6h8": "win"
+                    }
+                  },
+                  "h2g1": {
+                    "a5a4": {
+                      "h6h7": "win",
+                      "h6h8": "win"
+                    }
+                  },
+                  "h2g3": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 33814,
+    "rating": 1434,
+    "enabled": true,
+    "color": "white",
+    "game_id": "dxCl2ySt",
+    "attempts": 35,
+    "vote": 1
+  }
+}

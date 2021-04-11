@@ -1,0 +1,55 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4r1k1/1p4pp/1p6/5pP1/1P2n2P/2q1PK2/4BP2/7R w - f6 0 31",
+    "initial_move_san": "gxf6",
+    "initial_move_uci": "g5f6",
+    "puzzle_fen": "4r1k1/1p4pp/1p3P2/8/1P2n2P/2q1PK2/4BP2/7R b - - 0 31",
+    "lines": {
+      "c3f6": {
+        "f3g4": {
+          "e4f2": "retry",
+          "f6e6": {
+            "g4f3": {
+              "e6f5": {
+                "f3g2": {
+                  "f5f2": {
+                    "g2h3": {
+                      "f2g3": "win"
+                    }
+                  }
+                }
+              },
+              "e6f7": "retry",
+              "e8f8": "retry"
+            }
+          },
+          "f6f2": "retry",
+          "f6g6": "retry",
+          "h7h5": {
+            "g4h3": {
+              "f6f2": "retry",
+              "f6f5": {
+                "h3g2": {
+                  "f5f2": {
+                    "g2h3": {
+                      "f2g3": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 3653,
+    "rating": 1901,
+    "enabled": true,
+    "color": "black",
+    "game_id": "pdoxlchc",
+    "attempts": 1989,
+    "vote": 50
+  }
+}

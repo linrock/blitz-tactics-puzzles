@@ -1,0 +1,79 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2kr1bnr/ppp3pp/2p2q2/4N3/4p3/3P1bP1/PPPQ1P1P/RNB1R1K1 w - - 5 14",
+    "initial_move_san": "Rxe4",
+    "initial_move_uci": "e1e4",
+    "puzzle_fen": "2kr1bnr/ppp3pp/2p2q2/4N3/4R3/3P1bP1/PPPQ1P1P/RNB3K1 b - - 0 14",
+    "lines": {
+      "f3e4": {
+        "d2a5": {
+          "d8d5": {
+            "a5a7": {
+              "d5e5": {
+                "a7a8": {
+                  "c8d7": {
+                    "d3e4": "win"
+                  }
+                }
+              }
+            }
+          },
+          "e4d5": {
+            "c1f4": "win"
+          },
+          "f8d6": {
+            "c1f4": {
+              "b7b6": {
+                "a5a6": {
+                  "c8b8": {
+                    "b1d2": {
+                      "d6e5": {
+                        "d2e4": {
+                          "f6e7": {
+                            "f4g5": {
+                              "e5f6": {
+                                "g5c1": "win"
+                              },
+                              "g8f6": {
+                                "c2c3": "win"
+                              }
+                            }
+                          },
+                          "f6f5": {
+                            "f4e3": "win"
+                          }
+                        }
+                      },
+                      "e4d5": "retry"
+                    }
+                  }
+                }
+              },
+              "e4d5": "retry",
+              "e4f5": {
+                "b1d2": "win"
+              },
+              "g7g5": {
+                "d3e4": {
+                  "g5f4": {
+                    "e5d3": "win"
+                  },
+                  "g8h6": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 19469,
+    "rating": 1616,
+    "enabled": true,
+    "color": "black",
+    "game_id": "taq4crcb",
+    "attempts": 1193,
+    "vote": 0
+  }
+}

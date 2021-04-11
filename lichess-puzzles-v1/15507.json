@@ -1,0 +1,207 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/6k1/4KR2/8/8/5P2/8/8 b - - 4 58",
+    "initial_move_san": "Kg8",
+    "initial_move_uci": "g7g8",
+    "puzzle_fen": "6k1/8/4KR2/8/8/5P2/8/8 w - - 5 59",
+    "lines": {
+      "e6d5": "retry",
+      "e6d6": "retry",
+      "e6d7": "retry",
+      "e6e5": "retry",
+      "e6e7": "retry",
+      "f3f4": "retry",
+      "f6f4": "retry",
+      "f6f5": "retry",
+      "f6f7": {
+        "g8h8": {
+          "e6d5": "retry",
+          "e6d6": "retry",
+          "e6d7": "retry",
+          "e6e5": "retry",
+          "e6e7": "retry",
+          "e6f5": {
+            "h8g8": {
+              "f5f6": "retry",
+              "f5g6": {
+                "g8h8": {
+                  "f7f8": "win"
+                }
+              },
+              "f7a7": "retry",
+              "f7b7": "retry",
+              "f7c7": "retry",
+              "f7d7": "retry",
+              "f7e7": "retry"
+            }
+          },
+          "e6f6": {
+            "h8g8": {
+              "f3f4": "retry",
+              "f6e5": "retry",
+              "f6e7": "retry",
+              "f6f5": "retry",
+              "f6g5": "retry",
+              "f6g6": {
+                "g8h8": {
+                  "f7f8": "win"
+                }
+              },
+              "f7a7": "retry",
+              "f7b7": "retry",
+              "f7c7": "retry",
+              "f7d7": "retry",
+              "f7e7": "retry",
+              "f7f8": "retry",
+              "f7g7": "retry",
+              "f7h7": "retry"
+            }
+          },
+          "f3f4": "retry",
+          "f7a7": "retry",
+          "f7b7": "retry",
+          "f7c7": "retry",
+          "f7d7": "retry",
+          "f7e7": "retry",
+          "f7f4": "retry",
+          "f7f5": "retry",
+          "f7f8": "retry"
+        }
+      },
+      "f6f8": "retry",
+      "f6g6": {
+        "g8h8": {
+          "e6d5": "retry",
+          "e6d6": "retry",
+          "e6d7": "retry",
+          "e6e5": "retry",
+          "e6e7": {
+            "h8h7": {
+              "e7f6": "retry",
+              "e7f7": {
+                "h7h8": {
+                  "g6h6": "win"
+                }
+              },
+              "g6a6": "retry",
+              "g6b6": "retry",
+              "g6c6": "retry",
+              "g6d6": "retry",
+              "g6e6": "retry",
+              "g6f6": "retry",
+              "g6g1": "retry",
+              "g6g2": "retry",
+              "g6g3": "retry",
+              "g6g4": "retry",
+              "g6g5": "retry"
+            }
+          },
+          "e6f5": "retry",
+          "e6f6": {
+            "h8h7": {
+              "f3f4": "retry",
+              "f6e5": "retry",
+              "f6e7": "retry",
+              "f6f5": "retry",
+              "f6f7": {
+                "h7h8": {
+                  "g6h6": "win"
+                }
+              },
+              "f6g5": "retry",
+              "g6g1": "retry",
+              "g6g2": "retry",
+              "g6g3": "retry",
+              "g6g4": "retry",
+              "g6g5": "retry",
+              "g6g7": "retry",
+              "g6g8": "retry",
+              "g6h6": "retry"
+            }
+          },
+          "e6f7": {
+            "h8h7": {
+              "f3f4": {
+                "h7h8": {
+                  "g6h6": "win"
+                }
+              },
+              "f7f6": "retry",
+              "g6a6": {
+                "h7h8": {
+                  "a6h6": "win"
+                }
+              },
+              "g6b6": {
+                "h7h8": {
+                  "b6h6": "win"
+                }
+              },
+              "g6c6": {
+                "h7h8": {
+                  "c6h6": "win"
+                }
+              },
+              "g6d6": {
+                "h7h8": {
+                  "d6h6": "win"
+                }
+              },
+              "g6e6": {
+                "h7h8": {
+                  "e6h6": "win"
+                }
+              },
+              "g6f6": {
+                "h7h8": {
+                  "f6h6": "win"
+                }
+              },
+              "g6g1": "retry",
+              "g6g2": "retry",
+              "g6g3": "retry",
+              "g6g4": "retry",
+              "g6g5": "retry",
+              "g6g7": "retry",
+              "g6g8": "retry"
+            }
+          },
+          "f3f4": {
+            "h8h7": {
+              "e6f5": "retry",
+              "e6f6": "retry",
+              "e6f7": {
+                "h7h8": {
+                  "g6h6": "win"
+                }
+              },
+              "f4f5": "retry",
+              "g6f6": "retry",
+              "g6g1": "retry",
+              "g6g2": "retry",
+              "g6g3": "retry",
+              "g6g4": "retry",
+              "g6g5": "retry"
+            }
+          },
+          "g6g1": "retry",
+          "g6g2": "retry",
+          "g6g3": "retry",
+          "g6g4": "retry",
+          "g6g5": "retry",
+          "g6h6": "retry"
+        }
+      },
+      "f6h6": "retry"
+    }
+  },
+  "metadata": {
+    "id": 15507,
+    "rating": 1383,
+    "enabled": true,
+    "color": "white",
+    "game_id": "vzhb749p",
+    "attempts": 57,
+    "vote": 0
+  }
+}

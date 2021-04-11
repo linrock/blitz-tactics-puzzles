@@ -1,0 +1,95 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r4b1r/pQ1n1ppp/1q1P1k2/1N2p3/5Pb1/2B5/PP4PP/R3K1NR w KQ - 0 17",
+    "initial_move_san": "Qxd7",
+    "initial_move_uci": "b7d7",
+    "puzzle_fen": "r4b1r/p2Q1ppp/1q1P1k2/1N2p3/5Pb1/2B5/PP4PP/R3K1NR b KQ - 0 17",
+    "lines": {
+      "b6e3": {
+        "e1f1": {
+          "e3f4": {
+            "g1f3": {
+              "f4c4": {
+                "f1g1": {
+                  "g4d7": {
+                    "f3e5": {
+                      "c4b5": {
+                        "e5d7": {
+                          "f6e6": {
+                            "d7f8": {
+                              "e6d6": "retry",
+                              "h8f8": {
+                                "h2h4": "win"
+                              }
+                            }
+                          },
+                          "f6f5": {
+                            "a1f1": {
+                              "f5e6": {
+                                "d7f8": {
+                                  "a8f8": {
+                                    "h2h4": "win"
+                                  },
+                                  "h8f8": {
+                                    "f1e1": {
+                                      "e6d6": {
+                                        "h2h3": "win"
+                                      },
+                                      "e6d7": {
+                                        "h2h3": "win"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "f6g5": "retry",
+                          "f6g6": {
+                            "d7e5": {
+                              "g6f5": {
+                                "a1f1": {
+                                  "f5e6": {
+                                    "e5f3": "win"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "c4c5": "retry"
+                    }
+                  }
+                }
+              },
+              "g4d7": {
+                "c3e5": {
+                  "f4e5": {
+                    "f3e5": "win"
+                  }
+                }
+              }
+            }
+          },
+          "g4d7": {
+            "f4e5": {
+              "f6g6": {
+                "a2a4": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 331,
+    "rating": 2037,
+    "enabled": null,
+    "color": "black",
+    "game_id": "sly13taw",
+    "attempts": 97,
+    "vote": -10000
+  }
+}

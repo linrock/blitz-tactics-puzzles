@@ -1,0 +1,48 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1b2rk1/ppq2ppp/2p2n2/3P4/8/2NB4/PPPB1PPb/R2Q1R1K b - - 1 13",
+    "initial_move_san": "Nxd5",
+    "initial_move_uci": "f6d5",
+    "puzzle_fen": "r1b2rk1/ppq2ppp/2p5/3n4/8/2NB4/PPPB1PPb/R2Q1R1K w - - 0 14",
+    "lines": {
+      "c3d5": {
+        "c6d5": {
+          "d1h5": {
+            "h7h6": {
+              "f2f4": {
+                "c8d7": {
+                  "a1d1": "retry",
+                  "a2a3": "retry",
+                  "f1f3": "retry",
+                  "h1h2": {
+                    "c7d6": "win"
+                  },
+                  "h5f3": "retry",
+                  "h5h2": "retry"
+                }
+              },
+              "g2g3": "retry",
+              "h5h2": {
+                "c7h2": {
+                  "h1h2": {
+                    "c8d7": "win"
+                  }
+                }
+              }
+            }
+          },
+          "f2f4": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 60095,
+    "rating": 2237,
+    "enabled": true,
+    "color": "white",
+    "game_id": "BustgCkc",
+    "attempts": 292,
+    "vote": -12
+  }
+}

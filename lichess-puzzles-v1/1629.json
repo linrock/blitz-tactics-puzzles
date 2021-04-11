@@ -1,0 +1,88 @@
+{
+  "puzzle_data": {
+    "initial_fen": "7q/2r2kb1/3p1p2/QpP1p1p1/4PnP1/P2P1P2/1BR4r/2R2K2 w - - 0 36",
+    "initial_move_san": "Qxc7+",
+    "initial_move_uci": "a5c7",
+    "puzzle_fen": "7q/2Q2kb1/3p1p2/1pP1p1p1/4PnP1/P2P1P2/1BR4r/2R2K2 b - - 0 36",
+    "lines": {
+      "f7g6": {
+        "c7f7": {
+          "g6f7": {
+            "f1e1": {
+              "f4d3": {
+                "e1d1": {
+                  "d3b2": {
+                    "c2b2": {
+                      "h2b2": {
+                        "c1c2": {
+                          "b2b1": "retry",
+                          "b2b3": "retry",
+                          "h8h1": {
+                            "d1d2": {
+                              "b2b1": "retry",
+                              "b2b3": "retry",
+                              "h1g2": {
+                                "d2d1": {
+                                  "b2b1": "retry",
+                                  "b2c2": {
+                                    "a3a4": {
+                                      "g2d2": "win",
+                                      "g2e2": "win"
+                                    }
+                                  },
+                                  "g2c2": {
+                                    "d1e1": {
+                                      "b2b1": "win",
+                                      "c2b1": "win",
+                                      "c2c1": "win",
+                                      "c2e2": "win"
+                                    }
+                                  },
+                                  "g2f1": "retry",
+                                  "g2g1": "retry"
+                                }
+                              },
+                              "h1h2": {
+                                "d2d1": {
+                                  "b2b1": "retry",
+                                  "b2c2": {
+                                    "a3a4": {
+                                      "h2d2": "win",
+                                      "h2e2": "win"
+                                    }
+                                  },
+                                  "h2c2": {
+                                    "d1e1": {
+                                      "b2b1": "win",
+                                      "c2b1": "win",
+                                      "c2c1": "win",
+                                      "c2e2": "win"
+                                    }
+                                  },
+                                  "h2g1": "retry"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 1629,
+    "rating": 2108,
+    "enabled": true,
+    "color": "black",
+    "game_id": "elzzdiab",
+    "attempts": 1064,
+    "vote": 13
+  }
+}

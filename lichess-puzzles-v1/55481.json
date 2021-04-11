@@ -1,0 +1,48 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1r2r1k1/pp3p1p/2p2Pp1/3p4/3P4/4P2Q/3q2PP/5RKR b - - 5 27",
+    "initial_move_san": "Rxe3",
+    "initial_move_uci": "e8e3",
+    "puzzle_fen": "1r4k1/pp3p1p/2p2Pp1/3p4/3P4/4r2Q/3q2PP/5RKR w - - 0 28",
+    "lines": {
+      "h3h6": {
+        "d2g2": {
+          "g1g2": {
+            "e3e2": {
+              "f1f2": {
+                "e2f2": {
+                  "g2f2": {
+                    "c6c5": {
+                      "h6g7": "win"
+                    }
+                  }
+                }
+              },
+              "g2f3": "retry",
+              "g2g1": {
+                "e2g2": {
+                  "g1g2": {
+                    "c6c5": {
+                      "h6g7": "win"
+                    }
+                  }
+                }
+              },
+              "g2g3": "retry",
+              "g2h3": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 55481,
+    "rating": 1254,
+    "enabled": true,
+    "color": "white",
+    "game_id": "vi735vbs",
+    "attempts": 45,
+    "vote": 1
+  }
+}

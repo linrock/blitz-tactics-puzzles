@@ -1,0 +1,71 @@
+{
+  "puzzle_data": {
+    "initial_fen": "7r/pp3pk1/2p3p1/3pQ1PP/3P4/2qB4/P1P2K2/4R3 b - - 3 30",
+    "initial_move_san": "Kg8",
+    "initial_move_uci": "g7g8",
+    "puzzle_fen": "6kr/pp3p2/2p3p1/3pQ1PP/3P4/2qB4/P1P2K2/4R3 w - - 4 31",
+    "lines": {
+      "e5e8": {
+        "g8g7": {
+          "h5h6": {
+            "h8h6": {
+              "g5h6": {
+                "g7h6": {
+                  "e1h1": {
+                    "h6g5": {
+                      "e8d8": "retry",
+                      "e8e3": {
+                        "g5g4": {
+                          "e3g3": "win"
+                        }
+                      },
+                      "e8e5": "retry",
+                      "e8e7": "retry",
+                      "f2e3": "retry",
+                      "f2g3": "retry",
+                      "h1g1": {
+                        "g5f4": {
+                          "e8b8": "win",
+                          "e8e3": "win",
+                          "e8e5": "win",
+                          "e8f7": "win"
+                        }
+                      }
+                    }
+                  },
+                  "e8f8": "retry",
+                  "e8h8": {
+                    "h6g5": {
+                      "e1d1": "retry",
+                      "e1e5": "retry",
+                      "e1g1": {
+                        "g5f4": {
+                          "h8b8": "win",
+                          "h8e5": "win",
+                          "h8f6": "win",
+                          "h8h2": "win",
+                          "h8h4": "win"
+                        }
+                      },
+                      "h8d8": "retry",
+                      "h8e5": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 34080,
+    "rating": 2117,
+    "enabled": true,
+    "color": "white",
+    "game_id": "c7Jke7Zb",
+    "attempts": 405,
+    "vote": -4
+  }
+}

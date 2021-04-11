@@ -1,0 +1,53 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2qk2r/1bpp4/pp2p1Qp/4PP2/8/P6P/1PP3P1/5RK1 b - - 4 22",
+    "initial_move_san": "Ke7",
+    "initial_move_uci": "e8e7",
+    "puzzle_fen": "r2q3r/1bppk3/pp2p1Qp/4PP2/8/P6P/1PP3P1/5RK1 w - - 5 23",
+    "lines": {
+      "f5e6": "retry",
+      "f5f6": {
+        "e7f8": {
+          "g6g7": {
+            "f8e8": {
+              "f6f7": {
+                "e8e7": {
+                  "f7f8q": "win",
+                  "f7f8r": "win"
+                }
+              },
+              "g7h8": "retry"
+            }
+          }
+        }
+      },
+      "g6g7": {
+        "e7e8": {
+          "f5e6": {
+            "d8f6": {
+              "e5f6": {
+                "a6a5": {
+                  "g7e7": "win",
+                  "g7h8": "win"
+                }
+              },
+              "e6d7": "retry",
+              "g7d7": "retry",
+              "g7f6": "retry"
+            }
+          },
+          "g7h8": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 17596,
+    "rating": 1330,
+    "enabled": true,
+    "color": "white",
+    "game_id": "iuibsiea",
+    "attempts": 12200,
+    "vote": 33
+  }
+}

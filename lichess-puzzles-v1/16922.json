@@ -1,0 +1,53 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/4k3/Q3p1K1/6n1/P2b4/8/3q4/8 w - - 10 73",
+    "initial_move_san": "a5",
+    "initial_move_uci": "a4a5",
+    "puzzle_fen": "8/4k3/Q3p1K1/P5n1/3b4/8/3q4/8 b - - 0 73",
+    "lines": {
+      "d2c2": {
+        "g6h5": {
+          "c2d1": "retry",
+          "c2h2": "retry",
+          "c2h7": {
+            "h5g5": {
+              "h7f5": {
+                "g5h6": {
+                  "d4e3": {
+                    "h6g7": {
+                      "e3h6": "retry",
+                      "f5d5": "retry",
+                      "f5e5": "retry",
+                      "f5f6": "retry",
+                      "f5f7": {
+                        "g7h8": {
+                          "e3d4": "win"
+                        }
+                      },
+                      "f5f8": "retry",
+                      "f5g4": "retry",
+                      "f5g5": "retry"
+                    }
+                  },
+                  "e7f6": "retry",
+                  "f5f4": "retry",
+                  "f5f6": "retry",
+                  "f5h3": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 16922,
+    "rating": 2050,
+    "enabled": true,
+    "color": "black",
+    "game_id": "lmmhk25i",
+    "attempts": 944,
+    "vote": 0
+  }
+}

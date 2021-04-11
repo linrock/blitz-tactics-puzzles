@@ -1,0 +1,58 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rn2k1r1/pp5p/4pp1q/4p3/8/5Q1N/PPP2PPP/R3R1K1 b q - 5 14",
+    "initial_move_san": "f5",
+    "initial_move_uci": "f6f5",
+    "puzzle_fen": "rn2k1r1/pp5p/4p2q/4pp2/8/5Q1N/PPP2PPP/R3R1K1 w q - 0 15",
+    "lines": {
+      "f3b7": {
+        "h6h3": {
+          "b7a8": {
+            "e8f7": {
+              "a1d1": {
+                "e5e4": {
+                  "a8a7": "win",
+                  "a8b7": "retry",
+                  "g2g3": "win"
+                }
+              },
+              "a8a7": {
+                "f7f6": {
+                  "g2g3": {
+                    "e5e4": "win"
+                  }
+                }
+              },
+              "a8b7": "retry",
+              "e1e3": {
+                "h3h4": "win"
+              },
+              "e1e5": "retry",
+              "g2g3": {
+                "e5e4": "win"
+              }
+            }
+          },
+          "g2g3": {
+            "e5e4": {
+              "a1d1": "retry",
+              "b7a8": {
+                "e8f7": "win"
+              },
+              "c2c4": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 31726,
+    "rating": 1776,
+    "enabled": true,
+    "color": "white",
+    "game_id": "qdo32r4i",
+    "attempts": 16077,
+    "vote": 114
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5r2/5p2/2Np3p/p2P1R2/4n1B1/4P1kP/2P3P1/6K1 b - - 8 36",
+    "initial_move_san": "Nd2",
+    "initial_move_uci": "e4d2",
+    "puzzle_fen": "5r2/5p2/2Np3p/p2P1R2/6B1/4P1kP/2Pn2P1/6K1 w - - 9 37",
+    "lines": {
+      "c6d4": {
+        "d2f3": {
+          "d4f3": "retry",
+          "f5f3": "retry",
+          "g2f3": {
+            "a5a4": {
+              "c2c3": "retry",
+              "c2c4": "retry",
+              "d4e2": {
+                "g3h4": {
+                  "f5h5": "win"
+                }
+              },
+              "e3e4": "retry",
+              "f3f4": "retry",
+              "f5e5": "retry",
+              "f5f6": "retry",
+              "f5g5": "retry",
+              "f5h5": {
+                "a4a3": {
+                  "d4e2": "win",
+                  "d4f5": "win"
+                }
+              },
+              "h3h4": "retry"
+            }
+          },
+          "g4f3": {
+            "a5a4": {
+              "c2c3": "retry",
+              "c2c4": "retry",
+              "d4e2": {
+                "g3h4": {
+                  "f5h5": "win"
+                }
+              },
+              "e3e4": "retry",
+              "f3d1": "retry",
+              "f3e2": "retry",
+              "f3e4": "retry",
+              "f3g4": "retry",
+              "f3h5": "retry",
+              "f5e5": "retry",
+              "f5f4": {
+                "a4a3": {
+                  "d4e2": "win",
+                  "d4f5": "win",
+                  "f4g4": "win"
+                }
+              },
+              "f5g5": "retry",
+              "f5h5": {
+                "a4a3": {
+                  "d4e2": "win",
+                  "d4f5": "win"
+                }
+              },
+              "h3h4": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 38555,
+    "rating": 1373,
+    "enabled": true,
+    "color": "white",
+    "game_id": "ish7rc5j",
+    "attempts": 9401,
+    "vote": 37
+  }
+}

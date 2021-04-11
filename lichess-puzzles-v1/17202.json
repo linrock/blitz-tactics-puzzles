@@ -1,0 +1,93 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4r3/pp4kp/2p3p1/6N1/8/2Q1r2P/P5P1/6RK b - - 7 30",
+    "initial_move_san": "Kh6",
+    "initial_move_uci": "g7h6",
+    "puzzle_fen": "4r3/pp5p/2p3pk/6N1/8/2Q1r2P/P5P1/6RK w - - 8 31",
+    "lines": {
+      "g5f7": {
+        "h6h5": {
+          "c3b2": "retry",
+          "c3d4": "retry",
+          "c3f6": {
+            "e3g3": {
+              "f6d6": "retry",
+              "f6f2": "retry",
+              "f6f4": "retry",
+              "f6g7": {
+                "g3h3": {
+                  "g2h3": {
+                    "c6c5": {
+                      "g7h6": "win",
+                      "g7h7": "win"
+                    }
+                  }
+                }
+              },
+              "g1e1": "retry",
+              "g1f1": "retry",
+              "h1h2": "retry"
+            }
+          },
+          "c3g7": {
+            "h5h4": {
+              "g1f1": "retry",
+              "g2g3": "retry",
+              "g7a1": "retry",
+              "g7b2": "retry",
+              "g7d4": "retry",
+              "g7f6": {
+                "h4g3": {
+                  "f6d6": "retry",
+                  "f6g5": "retry",
+                  "g1f1": {
+                    "c6c5": {
+                      "f6f2": "win",
+                      "f6f4": "win",
+                      "f6g5": "win"
+                    }
+                  },
+                  "h3h4": "retry"
+                }
+              },
+              "g7h6": "retry",
+              "g7h7": "retry",
+              "h1h2": "retry"
+            }
+          },
+          "g2g4": {
+            "h5h4": {
+              "c3f6": {
+                "h4h3": {
+                  "f6f1": "retry",
+                  "f6f2": {
+                    "c6c5": {
+                      "f2h2": "win",
+                      "f7g5": "win"
+                    }
+                  },
+                  "f6f4": {
+                    "c6c5": {
+                      "f4h2": "win",
+                      "f4h6": "win"
+                    }
+                  },
+                  "f7g5": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 17202,
+    "rating": 1798,
+    "enabled": true,
+    "color": "white",
+    "game_id": "tkdwgl55",
+    "attempts": 1057,
+    "vote": 21
+  }
+}

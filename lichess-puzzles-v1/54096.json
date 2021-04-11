@@ -1,0 +1,33 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2q1r1k/pbp3pp/1p2B3/5pN1/6N1/b2P3Q/P4PPP/1R3RK1 b - - 2 18",
+    "initial_move_san": "h6",
+    "initial_move_uci": "h7h6",
+    "puzzle_fen": "r2q1r1k/pbp3p1/1p2B2p/5pN1/6N1/b2P3Q/P4PPP/1R3RK1 w - - 0 19",
+    "lines": {
+      "g4h6": {
+        "d8d3": {
+          "g2g3": "retry",
+          "g5f3": "retry",
+          "h3h4": "retry",
+          "h3h5": "retry",
+          "h6f7": {
+            "h8g8": {
+              "h3h7": "win",
+              "h3h8": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 54096,
+    "rating": 1673,
+    "enabled": true,
+    "color": "white",
+    "game_id": "y2kfarmy",
+    "attempts": 3371,
+    "vote": 103
+  }
+}

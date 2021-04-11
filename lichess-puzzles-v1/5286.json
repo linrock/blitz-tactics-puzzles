@@ -1,0 +1,142 @@
+{
+  "puzzle_data": {
+    "initial_fen": "6k1/p1p3p1/2p3qp/4P3/4b3/2P3Q1/PP2RPKP/3r4 w - - 6 28",
+    "initial_move_san": "Kh3",
+    "initial_move_uci": "g2h3",
+    "puzzle_fen": "6k1/p1p3p1/2p3qp/4P3/4b3/2P3QK/PP2RP1P/3r4 b - - 7 28",
+    "lines": {
+      "g6h5": {
+        "g3h4": {
+          "d1d3": "retry",
+          "h5e2": {
+            "h4g4": {
+              "d1d3": {
+                "h3h4": {
+                  "d3f3": "retry",
+                  "e2d2": "retry",
+                  "e2e1": "retry",
+                  "e2f2": {
+                    "g4g3": {
+                      "d3g3": {
+                        "h2g3": {
+                          "a7a5": "retry",
+                          "a7a6": "retry",
+                          "c6c5": "retry",
+                          "e4b1": "retry",
+                          "e4c2": "retry",
+                          "e4d3": "retry",
+                          "e4d5": "retry",
+                          "e4f3": "retry",
+                          "e4f5": {
+                            "a2a3": {
+                              "f2h2": "win"
+                            }
+                          },
+                          "e4g2": "retry",
+                          "e4g6": "retry",
+                          "e4h1": "retry",
+                          "e4h7": "retry",
+                          "f2b2": "retry",
+                          "f2b6": "retry",
+                          "f2c2": "retry",
+                          "f2c5": "retry",
+                          "f2d2": "retry",
+                          "f2e1": "retry",
+                          "f2e2": "retry",
+                          "f2e3": "retry",
+                          "f2f1": "retry",
+                          "f2f3": "retry",
+                          "f2f5": "retry",
+                          "f2f7": "retry",
+                          "f2f8": "retry",
+                          "f2g1": "retry",
+                          "f2g2": "retry",
+                          "f2h2": "retry",
+                          "g7g5": "retry",
+                          "g7g6": "retry",
+                          "g8f7": "retry",
+                          "g8f8": "retry",
+                          "g8h7": "retry",
+                          "g8h8": "retry",
+                          "h6h5": "retry"
+                        }
+                      },
+                      "e4f5": {
+                        "e5e6": {
+                          "a7a5": "retry",
+                          "a7a6": "retry",
+                          "c6c5": "retry",
+                          "d3e3": "retry",
+                          "d3f3": "retry",
+                          "d3g3": {
+                            "a2a3": {
+                              "f2h2": "win",
+                              "g3g5": "win",
+                              "g3h3": "win"
+                            }
+                          },
+                          "f2d2": "retry",
+                          "f2e1": "retry",
+                          "f2e2": "retry",
+                          "f2e3": "retry",
+                          "f2f1": "retry",
+                          "f2f3": "retry",
+                          "f2f4": "retry",
+                          "f5e6": "retry",
+                          "g7g5": "retry",
+                          "g7g6": "retry",
+                          "g8f8": "retry",
+                          "g8h7": "retry",
+                          "g8h8": "retry"
+                        }
+                      },
+                      "f2b2": "retry",
+                      "f2c2": "retry",
+                      "f2d2": "retry",
+                      "f2e2": "retry",
+                      "f2f1": "retry",
+                      "f2f5": "retry",
+                      "f2f7": "retry",
+                      "f2f8": "retry",
+                      "g7g5": {
+                        "h4h5": {
+                          "d3g3": "retry",
+                          "e4f5": "retry",
+                          "f2b2": "retry",
+                          "f2c2": "retry",
+                          "f2c5": "retry",
+                          "f2d2": "retry",
+                          "f2e2": "retry",
+                          "f2f1": "retry",
+                          "f2f5": "retry",
+                          "f2f7": {
+                            "h5g4": {
+                              "e4f5": "win"
+                            }
+                          },
+                          "f2f8": "retry"
+                        }
+                      }
+                    }
+                  },
+                  "g7g5": "retry"
+                }
+              },
+              "d1g1": "retry"
+            }
+          },
+          "h5f3": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 5286,
+    "rating": 2286,
+    "enabled": true,
+    "color": "black",
+    "game_id": "o52bdstd",
+    "attempts": 310,
+    "vote": -10
+  }
+}

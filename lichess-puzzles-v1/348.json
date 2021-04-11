@@ -1,0 +1,57 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1q6/7k/7p/p1Q1p1p1/P2pPrP1/1B3N2/1B4K1/R6R b - - 2 47",
+    "initial_move_san": "Rxf3",
+    "initial_move_uci": "f4f3",
+    "puzzle_fen": "1q6/7k/7p/p1Q1p1p1/P2pP1P1/1B3r2/1B4K1/R6R w - - 0 48",
+    "lines": {
+      "c5e7": {
+        "h7g6": {
+          "b3f7": "retry",
+          "e7e6": {
+            "f3f6": {
+              "h1h6": {
+                "g6h6": {
+                  "a1h1": "retry",
+                  "e6e7": "retry",
+                  "e6f6": {
+                    "h6h7": {
+                      "a1h1": "win"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "h1h6": {
+            "g6h6": {
+              "a1h1": {
+                "h6g6": {
+                  "b2c3": "retry",
+                  "e7e6": "retry",
+                  "e7h7": {
+                    "g6f6": {
+                      "h1h6": "win",
+                      "h7f7": "win"
+                    }
+                  },
+                  "h1h2": "retry",
+                  "h1h5": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 348,
+    "rating": 1859,
+    "enabled": null,
+    "color": "white",
+    "game_id": "LYRekaOg",
+    "attempts": 2879,
+    "vote": -9777
+  }
+}

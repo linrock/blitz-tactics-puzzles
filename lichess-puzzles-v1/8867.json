@@ -1,0 +1,83 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2qk2r/pp1b1p1p/n1p1p2p/b2p4/3PP3/P1P2NP1/1P1N1PBP/R2Q1RK1 b kq e3 0 10",
+    "initial_move_san": "Qb6",
+    "initial_move_uci": "d8b6",
+    "puzzle_fen": "r3k2r/pp1b1p1p/nqp1p2p/b2p4/3PP3/P1P2NP1/1P1N1PBP/R2Q1RK1 w kq - 1 11",
+    "lines": {
+      "b2b4": {
+        "e8g8": {
+          "b4a5": {
+            "b6c7": "win"
+          },
+          "d2b3": {
+            "a5b4": {
+              "a3b4": {
+                "f7f6": "win"
+              },
+              "c3b4": "retry"
+            }
+          },
+          "f1e1": {
+            "b6c7": {
+              "b4a5": {
+                "f7f6": "win"
+              }
+            }
+          },
+          "f3e5": {
+            "b6c7": {
+              "b4a5": {
+                "f7f6": {
+                  "d1g4": {
+                    "g8h8": {
+                      "e5d3": "retry",
+                      "e5d7": {
+                        "c7d7": "win"
+                      },
+                      "e5f3": "retry"
+                    }
+                  },
+                  "e5d3": {
+                    "c7a5": "win"
+                  },
+                  "e5d7": {
+                    "c7d7": "win"
+                  },
+                  "e5g4": {
+                    "d7e8": "win"
+                  }
+                }
+              },
+              "d1g4": {
+                "g8h8": {
+                  "b4a5": {
+                    "f7f6": {
+                      "e5d7": {
+                        "c7d7": "win"
+                      },
+                      "e5f3": "retry"
+                    }
+                  },
+                  "e5d7": "retry",
+                  "g4h4": "retry"
+                }
+              },
+              "e4d5": "retry",
+              "e5d7": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 8867,
+    "rating": 1316,
+    "enabled": true,
+    "color": "white",
+    "game_id": "ygbh9s0f",
+    "attempts": 1983,
+    "vote": 29
+  }
+}

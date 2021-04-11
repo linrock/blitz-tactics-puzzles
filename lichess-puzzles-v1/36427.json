@@ -1,0 +1,81 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5R2/6pk/5pbp/4p3/2P1P1QP/1Pr5/1q3PPK/8 b - - 11 45",
+    "initial_move_san": "Qxb3",
+    "initial_move_uci": "b2b3",
+    "puzzle_fen": "5R2/6pk/5pbp/4p3/2P1P1QP/1qr5/5PPK/8 w - - 0 46",
+    "lines": {
+      "g4c8": {
+        "g6e4": {
+          "c8e8": {
+            "c3h3": {
+              "g2h3": {
+                "b3h3": {
+                  "h2h3": {
+                    "e4g2": {
+                      "h3g2": {
+                        "e5e4": {
+                          "f8h8": "win"
+                        }
+                      },
+                      "h3g3": {
+                        "e5e4": {
+                          "f8h8": "win"
+                        }
+                      },
+                      "h3g4": "retry",
+                      "h3h2": {
+                        "e5e4": {
+                          "f8h8": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "h4h5": {
+            "c3h3": {
+              "g2h3": {
+                "b3h3": {
+                  "c8h3": "retry",
+                  "h2h3": {
+                    "e4g2": {
+                      "h3g2": {
+                        "e5e4": {
+                          "f8h8": "win"
+                        }
+                      },
+                      "h3g3": {
+                        "e5e4": {
+                          "f8h8": "win"
+                        }
+                      },
+                      "h3g4": "retry",
+                      "h3h2": {
+                        "e5e4": {
+                          "f8h8": "win"
+                        }
+                      },
+                      "h3h4": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 36427,
+    "rating": 2269,
+    "enabled": true,
+    "color": "white",
+    "game_id": "CAAMaV4l",
+    "attempts": 3130,
+    "vote": 112
+  }
+}

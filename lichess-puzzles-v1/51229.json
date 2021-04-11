@@ -1,0 +1,88 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/8/p1K5/2P5/P1Nk1p1p/P4n1P/8/8 w - - 2 44",
+    "initial_move_san": "Nd6",
+    "initial_move_uci": "c4d6",
+    "puzzle_fen": "8/8/p1KN4/2P5/P2k1p1p/P4n1P/8/8 b - - 3 44",
+    "lines": {
+      "f3e5": {
+        "c6b7": {
+          "d4d3": "retry",
+          "f4f3": {
+            "d6f5": {
+              "d4c5": "retry",
+              "d4d3": "retry",
+              "d4e4": {
+                "f5d6": {
+                  "e4d3": {
+                    "c5c6": {
+                      "e5c6": {
+                        "b7c6": {
+                          "f3f2": {
+                            "d6b7": {
+                              "d3c3": {
+                                "b7d6": {
+                                  "f2f1q": {
+                                    "c6c7": "win"
+                                  }
+                                }
+                              },
+                              "d3e2": "retry",
+                              "d3e3": "retry",
+                              "f2f1q": {
+                                "b7c5": {
+                                  "d3c3": "retry",
+                                  "d3c4": "retry",
+                                  "d3d4": {
+                                    "c5e6": {
+                                      "d4c4": {
+                                        "e6d8": "win"
+                                      },
+                                      "d4e5": {
+                                        "e6d8": "win"
+                                      }
+                                    }
+                                  },
+                                  "d3e3": "retry"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "e4f4": {
+                    "c5c6": {
+                      "e5c6": {
+                        "b7c6": {
+                          "f3f2": {
+                            "d6b7": {
+                              "a6a5": "retry",
+                              "f2f1q": {
+                                "b7c5": "win"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 51229,
+    "rating": 2176,
+    "enabled": true,
+    "color": "black",
+    "game_id": "3MYFelxa",
+    "attempts": 830,
+    "vote": -12
+  }
+}

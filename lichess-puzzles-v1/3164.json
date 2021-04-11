@@ -1,0 +1,42 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2rq3r/2Np1k2/3Ppn1p/2Q3p1/8/2bB1P2/P1P1KP2/2R4R b - - 0 24",
+    "initial_move_san": "Bb2",
+    "initial_move_uci": "c3b2",
+    "puzzle_fen": "2rq3r/2Np1k2/3Ppn1p/2Q3p1/8/3B1P2/PbP1KP2/2R4R w - - 1 25",
+    "lines": {
+      "c1b1": {
+        "f6d5": {
+          "b1b2": {
+            "d5f4": {
+              "e2d2": {
+                "f4d3": {
+                  "c2d3": {
+                    "d8f6": "win"
+                  },
+                  "d2d3": "retry"
+                }
+              },
+              "e2e3": {
+                "f4d5": {
+                  "e3d2": {
+                    "d8f6": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 3164,
+    "rating": 1683,
+    "enabled": true,
+    "color": "white",
+    "game_id": "uwpawly7",
+    "attempts": 318,
+    "vote": -11
+  }
+}

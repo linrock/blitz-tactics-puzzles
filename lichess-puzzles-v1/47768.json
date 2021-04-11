@@ -1,0 +1,97 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/5r1p/7K/4k2P/8/8/8/8 w - - 14 61",
+    "initial_move_san": "Kg5",
+    "initial_move_uci": "h6g5",
+    "puzzle_fen": "8/5r1p/8/4k1KP/8/8/8/8 b - - 15 61",
+    "lines": {
+      "e5d4": "retry",
+      "e5d5": "retry",
+      "e5d6": "retry",
+      "e5e4": "retry",
+      "e5e6": "retry",
+      "f7a7": "retry",
+      "f7b7": "retry",
+      "f7c7": "retry",
+      "f7d7": "retry",
+      "f7f1": "retry",
+      "f7f2": "retry",
+      "f7f3": "retry",
+      "f7f4": {
+        "g5h6": {
+          "e5d4": "retry",
+          "e5d5": "retry",
+          "e5d6": "retry",
+          "e5e4": "retry",
+          "e5e6": "retry",
+          "e5f5": "retry",
+          "e5f6": {
+            "h6h7": {
+              "f4a4": "retry",
+              "f4b4": "retry",
+              "f4c4": "retry",
+              "f4d4": "retry",
+              "f4e4": "retry",
+              "f4f1": "retry",
+              "f4f2": "retry",
+              "f4f3": "retry",
+              "f4f5": "retry",
+              "f4g4": "retry",
+              "f4h4": "retry",
+              "f6e6": "retry",
+              "f6f7": {
+                "h5h6": {
+                  "f4a4": "retry",
+                  "f4b4": "retry",
+                  "f4c4": "retry",
+                  "f4d4": "retry",
+                  "f4e4": "retry",
+                  "f4f1": "retry",
+                  "f4f2": "retry",
+                  "f4f3": "retry",
+                  "f4f5": "retry",
+                  "f4f6": {
+                    "h7h8": {
+                      "f6h6": "win"
+                    }
+                  },
+                  "f4g4": "retry",
+                  "f4h4": {
+                    "h7h8": {
+                      "h4h6": "win"
+                    }
+                  },
+                  "f7f6": "retry"
+                }
+              },
+              "f6g5": "retry"
+            }
+          },
+          "f4a4": "retry",
+          "f4b4": "retry",
+          "f4c4": "retry",
+          "f4d4": "retry",
+          "f4e4": "retry",
+          "f4f1": "retry",
+          "f4f2": "retry",
+          "f4f3": "retry",
+          "f4f5": "retry",
+          "f4g4": "retry",
+          "f4h4": "retry"
+        }
+      },
+      "f7f5": "retry",
+      "f7f6": "retry",
+      "f7f8": "retry"
+    }
+  },
+  "metadata": {
+    "id": 47768,
+    "rating": 2094,
+    "enabled": true,
+    "color": "black",
+    "game_id": "eo4XykAR",
+    "attempts": 3304,
+    "vote": 96
+  }
+}

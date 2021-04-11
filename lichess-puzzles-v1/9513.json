@@ -1,0 +1,114 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rnr3k1/3p2pp/p3pn2/1pPp1p2/3P4/3BPN2/qP1Q1PPP/2R2RK1 b - - 0 15",
+    "initial_move_san": "Qa5",
+    "initial_move_uci": "a2a5",
+    "puzzle_fen": "rnr3k1/3p2pp/p3pn2/qpPp1p2/3P4/3BPN2/1P1Q1PPP/2R2RK1 w - - 1 16",
+    "lines": {
+      "d2a5": {
+        "b8c6": {
+          "a5a1": {
+            "c8b8": "win"
+          },
+          "a5a2": {
+            "c8b8": "win"
+          },
+          "a5b6": "retry",
+          "a5c3": {
+            "f6e4": {
+              "c3a3": {
+                "a8a7": "win"
+              },
+              "c3b3": {
+                "a8a7": "win"
+              },
+              "c3c2": {
+                "g7g6": "win"
+              },
+              "c3e1": {
+                "g7g6": "win"
+              },
+              "d3e4": {
+                "f5e4": {
+                  "f3d2": {
+                    "c8f8": "win"
+                  },
+                  "f3e1": {
+                    "a6a5": "win"
+                  },
+                  "f3e5": {
+                    "c6e5": {
+                      "d4e5": {
+                        "a6a5": "win"
+                      }
+                    }
+                  },
+                  "f3g5": {
+                    "h7h6": {
+                      "g5h3": {
+                        "c8f8": "win"
+                      }
+                    }
+                  },
+                  "f3h4": "retry"
+                }
+              }
+            }
+          },
+          "a5d2": {
+            "f6e4": {
+              "d2c2": {
+                "g7g6": "win"
+              },
+              "d2d1": {
+                "g7g6": "win"
+              },
+              "d2e1": {
+                "g7g6": "win"
+              },
+              "d2e2": {
+                "h7h6": "win"
+              },
+              "d3e4": {
+                "f5e4": {
+                  "f3e1": {
+                    "c8f8": "win"
+                  },
+                  "f3e5": {
+                    "c6e5": {
+                      "d4e5": {
+                        "c8c6": "win"
+                      }
+                    }
+                  },
+                  "f3g5": {
+                    "c8f8": "win"
+                  },
+                  "f3h4": {
+                    "g7g5": {
+                      "f2f3": {
+                        "g5h4": "win"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "a5e1": {
+            "f6e4": "win"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 9513,
+    "rating": 1397,
+    "enabled": true,
+    "color": "white",
+    "game_id": "mrxmdua9",
+    "attempts": 36,
+    "vote": 0
+  }
+}

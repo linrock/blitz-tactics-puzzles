@@ -1,0 +1,88 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4rr1k/ppp2p1p/8/8/4q1KN/3R4/P4PP1/8 w - - 0 29",
+    "initial_move_san": "Kg5",
+    "initial_move_uci": "g4g5",
+    "puzzle_fen": "4rr1k/ppp2p1p/8/6K1/4q2N/3R4/P4PP1/8 b - - 1 29",
+    "lines": {
+      "a7a5": "retry",
+      "a7a6": "retry",
+      "b7b5": "retry",
+      "b7b6": "retry",
+      "c7c5": "retry",
+      "c7c6": "retry",
+      "e4c4": "retry",
+      "e4d3": "retry",
+      "e8e5": {
+        "h4f5": {
+          "a7a5": "retry",
+          "a7a6": "retry",
+          "b7b5": "retry",
+          "b7b6": "retry",
+          "c7c5": "retry",
+          "c7c6": "retry",
+          "e4a4": "retry",
+          "e4b4": "retry",
+          "e4c4": "retry",
+          "e4d3": "retry",
+          "e4f5": "retry",
+          "e4g2": "retry",
+          "e5a5": "retry",
+          "e5b5": "retry",
+          "e5c5": "retry",
+          "e5d5": "retry",
+          "e5e6": "retry",
+          "e5f5": {
+            "g5h6": {
+              "e4e6": "win",
+              "e4f4": "win",
+              "e4h4": "win"
+            }
+          },
+          "f7f6": "retry",
+          "f8a8": "retry",
+          "f8b8": "retry",
+          "f8c8": "retry",
+          "f8e8": "retry",
+          "f8g8": "retry",
+          "h7h5": "retry",
+          "h7h6": "retry"
+        }
+      },
+      "e8e6": "retry",
+      "e8e7": "retry",
+      "f7f6": "retry",
+      "f8g8": {
+        "h4g6": {
+          "e4g6": {
+            "g5f4": {
+              "g6e4": "win",
+              "g6f6": "win",
+              "g6g4": "win"
+            }
+          },
+          "f7g6": "retry",
+          "g8g6": {
+            "g5h5": {
+              "e4g4": "win",
+              "e8e5": "win"
+            }
+          },
+          "h7g6": "retry",
+          "h8g7": "retry"
+        }
+      },
+      "h7h5": "retry",
+      "h7h6": "retry"
+    }
+  },
+  "metadata": {
+    "id": 2332,
+    "rating": 1235,
+    "enabled": true,
+    "color": "black",
+    "game_id": "tnrw474c",
+    "attempts": 60,
+    "vote": 0
+  }
+}

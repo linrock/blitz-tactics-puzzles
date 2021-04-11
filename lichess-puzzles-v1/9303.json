@@ -1,0 +1,55 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1b1k2r/pp1ppp2/5n1p/2p5/2PqPB2/3P1B2/P2Q2PP/2R2R1K b kq - 5 14",
+    "initial_move_san": "h5",
+    "initial_move_uci": "h6h5",
+    "puzzle_fen": "r1b1k2r/pp1ppp2/5n2/2p4p/2PqPB2/3P1B2/P2Q2PP/2R2R1K w kq - 0 15",
+    "lines": {
+      "e4e5": {
+        "d7d6": {
+          "c1e1": {
+            "f6d7": {
+              "e1e4": {
+                "d6e5": {
+                  "e4d4": {
+                    "c5d4": {
+                      "f4g3": {
+                        "h5h4": {
+                          "g3e1": {
+                            "a7a5": "win"
+                          }
+                        }
+                      },
+                      "f4g5": {
+                        "f7f6": {
+                          "c4c5": "retry",
+                          "d2c1": {
+                            "f6g5": "win"
+                          },
+                          "g5h4": "retry"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "e5d6": "retry",
+          "e5f6": {
+            "d4f6": "win"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 9303,
+    "rating": 1760,
+    "enabled": true,
+    "color": "white",
+    "game_id": "rnekrni7",
+    "attempts": 741,
+    "vote": -7
+  }
+}

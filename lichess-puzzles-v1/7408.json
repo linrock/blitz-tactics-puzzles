@@ -1,0 +1,56 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1r4k1/Rpp2rpp/8/8/1P1B2P1/2PbRp1P/1P4K1/8 w - - 0 29",
+    "initial_move_san": "Rxf3",
+    "initial_move_uci": "e3f3",
+    "puzzle_fen": "1r4k1/Rpp2rpp/8/8/1P1B2P1/2Pb1R1P/1P4K1/8 b - - 0 29",
+    "lines": {
+      "d3e4": {
+        "a7a5": {
+          "b7b5": {
+            "a5a1": {
+              "b8e8": {
+                "a1f1": {
+                  "f7f3": {
+                    "f1f3": {
+                      "e8f8": {
+                        "g2g1": {
+                          "f8f3": {
+                            "d4e5": "win"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "e4c6": "retry",
+              "e4f3": "retry",
+              "f7f3": "retry"
+            }
+          },
+          "b8f8": {
+            "g2h2": {
+              "e4f3": {
+                "a5e5": "win"
+              },
+              "f7f3": {
+                "a5e5": "win"
+              }
+            }
+          },
+          "e4f3": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 7408,
+    "rating": 2451,
+    "enabled": true,
+    "color": "black",
+    "game_id": "mzpyhptp",
+    "attempts": 85,
+    "vote": -13
+  }
+}

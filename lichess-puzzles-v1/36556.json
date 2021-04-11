@@ -1,0 +1,47 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/2R3pk/7p/2P2P2/2r3PK/7P/6n1/8 w - - 5 47",
+    "initial_move_san": "Kh5",
+    "initial_move_uci": "h4h5",
+    "puzzle_fen": "8/2R3pk/7p/2P2P1K/2r3P1/7P/6n1/8 b - - 6 47",
+    "lines": {
+      "g2f4": {
+        "h5h4": {
+          "c4c3": {
+            "g4g5": {
+              "h6h5": {
+                "c7g7": {
+                  "h7g7": {
+                    "g5g6": {
+                      "g7f6": {
+                        "c5c6": {
+                          "c3h3": "win"
+                        }
+                      },
+                      "g7h6": {
+                        "c5c6": {
+                          "c3h3": "win",
+                          "f4g2": "win"
+                        }
+                      }
+                    }
+                  },
+                  "h7h8": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 36556,
+    "rating": 2422,
+    "enabled": true,
+    "color": "black",
+    "game_id": "qurumtqh",
+    "attempts": 24519,
+    "vote": 329
+  }
+}

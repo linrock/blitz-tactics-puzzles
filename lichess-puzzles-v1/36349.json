@@ -1,0 +1,86 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rnb4N/ppp1kB1p/4Q3/3p4/1P1PP3/4q1p1/PPKN1p2/R6R b - - 1 25",
+    "initial_move_san": "Kf8",
+    "initial_move_uci": "e7f8",
+    "puzzle_fen": "rnb2k1N/ppp2B1p/4Q3/3p4/1P1PP3/4q1p1/PPKN1p2/R6R w - - 2 26",
+    "lines": {
+      "e6c8": {
+        "f8g7": {
+          "c8g4": "retry",
+          "c8g8": "retry",
+          "h1h7": {
+            "g7h7": {
+              "a1h1": "retry",
+              "c8f5": "retry",
+              "c8f8": "retry",
+              "c8g4": "retry",
+              "c8g8": {
+                "h7h6": {
+                  "a1h1": "win",
+                  "g8g6": "win"
+                }
+              },
+              "f7d5": "retry",
+              "f7g6": "retry",
+              "f7g8": "retry"
+            }
+          }
+        }
+      },
+      "e6e8": {
+        "f8g7": {
+          "e8e5": "retry",
+          "e8g8": "retry",
+          "f7d5": "retry",
+          "f7e6": "retry",
+          "f7g6": "retry",
+          "h1h7": {
+            "g7h7": {
+              "a1h1": "retry",
+              "e8f8": "retry",
+              "e8g8": {
+                "h7h6": {
+                  "g8g6": "win"
+                }
+              },
+              "f7d5": "retry",
+              "f7e6": "retry",
+              "f7g6": "retry",
+              "f7g8": "retry"
+            }
+          },
+          "h8g6": "retry"
+        }
+      },
+      "e6f6": "retry",
+      "h8g6": {
+        "f8g7": {
+          "e6e5": {
+            "g7f7": {
+              "g6h8": "retry",
+              "h1h7": {
+                "f7g8": {
+                  "e5g7": "win",
+                  "e5h8": "win",
+                  "h7g7": "win"
+                }
+              }
+            }
+          },
+          "e6e7": "retry",
+          "e6e8": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 36349,
+    "rating": 1234,
+    "enabled": true,
+    "color": "white",
+    "game_id": "80yaba95",
+    "attempts": 10820,
+    "vote": 56
+  }
+}

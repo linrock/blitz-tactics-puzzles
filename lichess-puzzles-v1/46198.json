@@ -1,0 +1,62 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/pp3R2/bkp1N1pp/3np3/6P1/5P2/3K3r/8 w - - 9 52",
+    "initial_move_san": "Ke1",
+    "initial_move_uci": "d2e1",
+    "puzzle_fen": "8/pp3R2/bkp1N1pp/3np3/6P1/5P2/7r/4K3 b - - 10 52",
+    "lines": {
+      "d5e3": {
+        "f7b7": {
+          "a6b7": {
+            "e6f8": {
+              "b6a5": "retry",
+              "b6c7": "retry",
+              "b7a6": {
+                "f8d7": {
+                  "b6a5": {
+                    "f3f4": {
+                      "h2e2": "win"
+                    }
+                  },
+                  "b6b5": "retry",
+                  "b6c7": {
+                    "f3f4": {
+                      "h2e2": "win"
+                    }
+                  }
+                }
+              },
+              "c6c5": "retry"
+            }
+          },
+          "b6a5": {
+            "e6d4": {
+              "e5d4": {
+                "b7b5": {
+                  "a5a4": "retry",
+                  "a5b5": "retry",
+                  "a6b5": {
+                    "f3f4": {
+                      "h2e2": "win"
+                    }
+                  },
+                  "c6b5": "retry"
+                }
+              }
+            }
+          },
+          "b6b7": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 46198,
+    "rating": 1701,
+    "enabled": true,
+    "color": "black",
+    "game_id": "vugd54do",
+    "attempts": 2097,
+    "vote": 45
+  }
+}

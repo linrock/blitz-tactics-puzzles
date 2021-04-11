@@ -1,0 +1,88 @@
+{
+  "puzzle_data": {
+    "initial_fen": "3k4/pp4p1/2p1q2p/4K3/P7/6Pb/2P4r/8 w - - 4 37",
+    "initial_move_san": "Kd4",
+    "initial_move_uci": "e5d4",
+    "puzzle_fen": "3k4/pp4p1/2p1q2p/8/P2K4/6Pb/2P4r/8 b - - 5 37",
+    "lines": {
+      "a7a5": "retry",
+      "a7a6": "retry",
+      "b7b5": "retry",
+      "b7b6": "retry",
+      "c6c5": "retry",
+      "d8c7": "retry",
+      "d8c8": "retry",
+      "d8d7": "retry",
+      "d8e7": "retry",
+      "d8e8": "retry",
+      "e6a2": "retry",
+      "e6c8": "retry",
+      "e6d5": "retry",
+      "e6d6": "retry",
+      "e6d7": "retry",
+      "e6e1": "retry",
+      "e6e2": "retry",
+      "e6e7": "retry",
+      "e6e8": "retry",
+      "e6f5": "retry",
+      "e6f6": "retry",
+      "e6f7": "retry",
+      "e6g6": "retry",
+      "e6g8": "retry",
+      "g7g5": "retry",
+      "g7g6": "retry",
+      "h2c2": {
+        "d4d3": {
+          "c2a2": "retry",
+          "c2b2": "retry",
+          "c2c1": "retry",
+          "c2c4": "retry",
+          "c2c5": "retry",
+          "c2e2": "retry",
+          "c2f2": "retry",
+          "c2g2": "retry",
+          "c2h2": "retry",
+          "e6a2": "retry",
+          "e6b3": "retry",
+          "e6c4": "retry",
+          "e6d6": "retry",
+          "e6d7": "retry",
+          "e6e1": "retry",
+          "e6e2": {
+            "d3d4": {
+              "c2c4": "win"
+            }
+          },
+          "e6f5": "retry",
+          "e6g6": "retry",
+          "h3f5": {
+            "d3d4": {
+              "c2c4": "win",
+              "c6c5": "win",
+              "e6e4": "win"
+            }
+          }
+        }
+      },
+      "h2d2": "retry",
+      "h2e2": "retry",
+      "h2f2": "retry",
+      "h2g2": "retry",
+      "h2h1": "retry",
+      "h3f1": "retry",
+      "h3f5": "retry",
+      "h3g2": "retry",
+      "h3g4": "retry",
+      "h6h5": "retry"
+    }
+  },
+  "metadata": {
+    "id": 11755,
+    "rating": 1621,
+    "enabled": true,
+    "color": "black",
+    "game_id": "rqpzaak2",
+    "attempts": 205,
+    "vote": -2
+  }
+}

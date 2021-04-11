@@ -1,0 +1,95 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2qk2r/1bpp4/pp2p1Qp/4P3/5P2/P6P/1PP3P1/5RK1 b kq - 0 19",
+    "initial_move_san": "Kf8",
+    "initial_move_uci": "e8f8",
+    "puzzle_fen": "r2q1k1r/1bpp4/pp2p1Qp/4P3/5P2/P6P/1PP3P1/5RK1 w - - 1 20",
+    "lines": {
+      "f4f5": {
+        "d8f6": {
+          "g6f6": {
+            "f8e8": {
+              "f5e6": {
+                "b7c6": {
+                  "a3a4": "retry",
+                  "b2b3": "retry",
+                  "b2b4": "retry",
+                  "c2c3": "retry",
+                  "c2c4": "retry",
+                  "e6e7": "retry",
+                  "f1f2": "retry",
+                  "f1f3": "retry",
+                  "f1f4": "retry",
+                  "f1f5": "retry",
+                  "f6g7": "retry",
+                  "f6h8": {
+                    "e8e7": {
+                      "h8f6": {
+                        "e7e8": {
+                          "f6f8": "win"
+                        }
+                      },
+                      "h8g7": "retry",
+                      "h8h6": "retry",
+                      "h8h7": "retry"
+                    }
+                  },
+                  "g1h1": "retry",
+                  "g1h2": "retry",
+                  "g2g3": "retry",
+                  "g2g4": "retry",
+                  "h3h4": "retry"
+                }
+              },
+              "f6g7": "retry",
+              "f6h8": {
+                "e8f7": {
+                  "h8f6": "retry",
+                  "h8h6": "retry",
+                  "h8h7": {
+                    "f7e8": {
+                      "a3a4": "retry",
+                      "b2b3": "retry",
+                      "b2b4": "retry",
+                      "c2c3": "retry",
+                      "c2c4": "retry",
+                      "f1d1": "retry",
+                      "f1e1": "retry",
+                      "f1f2": "retry",
+                      "f1f3": "retry",
+                      "f1f4": "retry",
+                      "f5e6": "retry",
+                      "f5f6": "retry",
+                      "g1h1": "retry",
+                      "g1h2": "retry",
+                      "g2g3": "retry",
+                      "g2g4": "retry",
+                      "h3h4": "retry",
+                      "h7g6": "retry",
+                      "h7g7": "retry",
+                      "h7g8": {
+                        "e8e7": {
+                          "f5f6": "win"
+                        }
+                      },
+                      "h7h6": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 17595,
+    "rating": 2071,
+    "enabled": true,
+    "color": "white",
+    "game_id": "iuibsiea",
+    "attempts": 2009,
+    "vote": 40
+  }
+}

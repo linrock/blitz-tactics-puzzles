@@ -1,0 +1,73 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2qnrk1/3bbppp/p1n1p3/1pppN1P1/3P1P2/P1PBP3/1P1N3P/R1BQ1RK1 b - - 0 12",
+    "initial_move_san": "f6",
+    "initial_move_uci": "f7f6",
+    "puzzle_fen": "r2qnrk1/3bb1pp/p1n1pp2/1pppN1P1/3P1P2/P1PBP3/1P1N3P/R1BQ1RK1 w - - 0 13",
+    "lines": {
+      "d3h7": {
+        "g8h7": {
+          "d1h5": {
+            "h7g8": {
+              "g5g6": {
+                "f8f7": {
+                  "a1a2": "retry",
+                  "a1b1": "retry",
+                  "a3a4": "retry",
+                  "b2b3": "retry",
+                  "b2b4": "retry",
+                  "c3c4": "retry",
+                  "d2b1": "retry",
+                  "d2b3": "retry",
+                  "d2c4": "retry",
+                  "d2e4": "retry",
+                  "d2f3": "retry",
+                  "d4c5": "retry",
+                  "e3e4": "retry",
+                  "e5c6": "retry",
+                  "e5d7": "retry",
+                  "e5f7": {
+                    "b5b4": {
+                      "h5h8": "win"
+                    }
+                  },
+                  "f1d1": "retry",
+                  "f1e1": "retry",
+                  "f1f2": "retry",
+                  "f1f3": "retry",
+                  "f4f5": "retry",
+                  "g1f2": "retry",
+                  "g1g2": "retry",
+                  "g1h1": "retry",
+                  "g6f7": {
+                    "g8f8": {
+                      "h5h8": "win"
+                    }
+                  },
+                  "h2h3": "retry",
+                  "h2h4": "retry",
+                  "h5h3": "retry",
+                  "h5h4": "retry",
+                  "h5h7": {
+                    "g8f8": {
+                      "h7h8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 14989,
+    "rating": 1634,
+    "enabled": true,
+    "color": "white",
+    "game_id": "dhpl3kee",
+    "attempts": 62445,
+    "vote": 1195
+  }
+}

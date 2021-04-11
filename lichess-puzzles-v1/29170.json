@@ -1,0 +1,39 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2r4/5pk1/1p2pp1R/p7/2pP1PP1/2P2K2/P7/7R b - - 2 27",
+    "initial_move_san": "Rf8",
+    "initial_move_uci": "d8f8",
+    "puzzle_fen": "r4r2/5pk1/1p2pp1R/p7/2pP1PP1/2P2K2/P7/7R w - - 3 28",
+    "lines": {
+      "h6h7": {
+        "g7g8": {
+          "f4f5": {
+            "e6f5": {
+              "f3f4": "retry",
+              "g4f5": {
+                "f8e8": {
+                  "h7h8": {
+                    "g8g7": {
+                      "h1h7": "win"
+                    }
+                  }
+                }
+              },
+              "h7h8": "retry"
+            }
+          },
+          "h7h8": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 29170,
+    "rating": 1762,
+    "enabled": true,
+    "color": "white",
+    "game_id": "fro20htz",
+    "attempts": 51608,
+    "vote": 1072
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1k1r1r2/ppp3pp/2p1p3/2Q1Pn2/7q/2N4P/PPP2PP1/3R1RK1 b - - 4 17",
+    "initial_move_san": "Ne7",
+    "initial_move_uci": "f5e7",
+    "puzzle_fen": "1k1r1r2/ppp1n1pp/2p1p3/2Q1P3/7q/2N4P/PPP2PP1/3R1RK1 w - - 5 18",
+    "lines": {
+      "d1d8": "retry",
+      "g2g3": {
+        "b7b6": {
+          "c5a3": {
+            "h4g5": {
+              "c3e4": {
+                "g5e5": {
+                  "d1d8": {
+                    "f8d8": {
+                      "a3e7": {
+                        "d8c8": "win"
+                      }
+                    }
+                  }
+                }
+              },
+              "d1d8": {
+                "f8d8": {
+                  "c3e4": {
+                    "g5e5": {
+                      "a3e7": {
+                        "d8c8": "win"
+                      }
+                    }
+                  }
+                }
+              },
+              "h3h4": {
+                "g5e5": {
+                  "a3e7": {
+                    "e5f6": {
+                      "d1d7": "retry",
+                      "d1d8": {
+                        "f8d8": {
+                          "e7f6": {
+                            "g7f6": "win"
+                          }
+                        }
+                      },
+                      "e7f6": {
+                        "g7f6": "win"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "d1d8": {
+            "f8d8": {
+              "c5a3": {
+                "h4g5": {
+                  "c3e4": {
+                    "g5e5": {
+                      "a3e7": {
+                        "d8c8": "win"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 6322,
+    "rating": 1800,
+    "enabled": true,
+    "color": "white",
+    "game_id": "tsbz2p8j",
+    "attempts": 5934,
+    "vote": 44
+  }
+}

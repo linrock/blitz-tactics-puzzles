@@ -1,0 +1,77 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/2k5/1R1R4/1K1P4/1P6/8/8/2r5 b - - 6 45",
+    "initial_move_san": "Rd1",
+    "initial_move_uci": "c1d1",
+    "puzzle_fen": "8/2k5/1R1R4/1K1P4/1P6/8/8/3r4 w - - 7 46",
+    "lines": {
+      "b6a6": "retry",
+      "b6c6": {
+        "c7b7": {
+          "c6a6": "retry",
+          "c6c2": "retry",
+          "c6c3": "retry",
+          "c6c4": "retry",
+          "c6c5": "retry",
+          "d6d7": {
+            "b7b8": {
+              "b5a5": "retry",
+              "b5a6": "retry",
+              "b5b6": {
+                "d1d5": {
+                  "c6c7": "retry",
+                  "c6c8": "retry",
+                  "c6d6": "retry",
+                  "c6e6": "retry",
+                  "c6f6": "retry",
+                  "c6g6": "retry",
+                  "c6h6": "retry",
+                  "d7b7": {
+                    "b8a8": {
+                      "c6c8": "win"
+                    }
+                  },
+                  "d7d5": {
+                    "b8a8": {
+                      "c6c8": "win",
+                      "d5d8": "win"
+                    }
+                  },
+                  "d7d6": "retry"
+                }
+              },
+              "b5c5": "retry",
+              "c6b6": "retry",
+              "c6c3": "retry",
+              "c6c5": "retry",
+              "c6d6": "retry",
+              "c6e6": "retry",
+              "c6f6": "retry",
+              "c6g6": "retry",
+              "c6h6": "retry",
+              "d5d6": "retry",
+              "d7d8": "retry"
+            }
+          },
+          "d6d8": "retry",
+          "d6e6": "retry",
+          "d6f6": "retry",
+          "d6g6": "retry",
+          "d6h6": "retry"
+        }
+      },
+      "d6c6": "retry",
+      "d6f6": "retry",
+      "d6h6": "retry"
+    }
+  },
+  "metadata": {
+    "id": 34173,
+    "rating": 1418,
+    "enabled": true,
+    "color": "white",
+    "game_id": "5O168etp",
+    "attempts": 50,
+    "vote": 0
+  }
+}

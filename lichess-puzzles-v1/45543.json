@@ -1,0 +1,52 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r3k1r1/3p1p2/b2P4/P1q3n1/1p6/2p3Q1/2B2N1P/R1NR3K w q - 1 38",
+    "initial_move_san": "Nfd3",
+    "initial_move_uci": "f2d3",
+    "puzzle_fen": "r3k1r1/3p1p2/b2P4/P1q3n1/1p6/2pN2Q1/2B4P/R1NR3K b q - 2 38",
+    "lines": {
+      "a6b7": {
+        "g3g2": {
+          "g5h3": {
+            "d1e1": {
+              "e8d8": {
+                "d3f4": {
+                  "b7g2": "retry",
+                  "c5f2": "retry",
+                  "c5g1": {
+                    "e1g1": {
+                      "h3f2": "win"
+                    }
+                  },
+                  "g8g2": "retry"
+                }
+              },
+              "e8f8": {
+                "d3f4": {
+                  "b7g2": "retry",
+                  "c5f2": "retry",
+                  "c5g1": {
+                    "e1g1": {
+                      "h3f2": "win"
+                    }
+                  },
+                  "g8g2": "retry",
+                  "h3f2": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 45543,
+    "rating": 2139,
+    "enabled": true,
+    "color": "black",
+    "game_id": "j1995jtg",
+    "attempts": 45907,
+    "vote": 1496
+  }
+}

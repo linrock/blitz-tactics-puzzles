@@ -1,0 +1,47 @@
+{
+  "puzzle_data": {
+    "initial_fen": "6k1/5p2/1q3Pp1/2p1P2p/3PN3/3K4/8/R7 b - - 1 50",
+    "initial_move_san": "cxd4",
+    "initial_move_uci": "c5d4",
+    "puzzle_fen": "6k1/5p2/1q3Pp1/4P2p/3pN3/3K4/8/R7 w - - 0 51",
+    "lines": {
+      "a1a8": {
+        "b6d8": {
+          "a8d8": {
+            "g8h7": {
+              "d3d2": "retry",
+              "d3d4": "retry",
+              "d8a8": "retry",
+              "d8b8": "retry",
+              "d8c8": "retry",
+              "d8d7": "retry",
+              "d8e8": "retry",
+              "d8f8": "retry",
+              "e4d6": "retry",
+              "e4g5": {
+                "h7h6": {
+                  "g5f7": {
+                    "h6h7": {
+                      "d8h8": "win"
+                    }
+                  },
+                  "g5h3": "retry"
+                }
+              },
+              "e5e6": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 37873,
+    "rating": 1383,
+    "enabled": true,
+    "color": "white",
+    "game_id": "sfzajole",
+    "attempts": 47,
+    "vote": 1
+  }
+}

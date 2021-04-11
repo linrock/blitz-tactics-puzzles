@@ -1,0 +1,37 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4k3/pp2bpBp/4p1p1/2r5/1q2B3/1P5P/P4PP1/3RR1K1 b - - 0 27",
+    "initial_move_san": "Re5",
+    "initial_move_uci": "c5e5",
+    "puzzle_fen": "4k3/pp2bpBp/4p1p1/4r3/1q2B3/1P5P/P4PP1/3RR1K1 w - - 1 28",
+    "lines": {
+      "g7e5": {
+        "f7f6": {
+          "e5a1": {
+            "e6e5": "win"
+          },
+          "e5b2": {
+            "e6e5": "win"
+          },
+          "e5c7": {
+            "e6e5": "win"
+          },
+          "e5d4": {
+            "b7b6": "win"
+          },
+          "e5f4": "retry",
+          "e5g3": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 22664,
+    "rating": 1266,
+    "enabled": true,
+    "color": "white",
+    "game_id": "vinaxeo2",
+    "attempts": 20,
+    "vote": 0
+  }
+}

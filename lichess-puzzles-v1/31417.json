@@ -1,0 +1,88 @@
+{
+  "puzzle_data": {
+    "initial_fen": "6r1/1p6/8/p7/P2N4/3RB2K/2P1k2P/8 b - - 16 51",
+    "initial_move_san": "Ke1",
+    "initial_move_uci": "e2e1",
+    "puzzle_fen": "6r1/1p6/8/p7/P2N4/3RB2K/2P4P/4k3 w - - 17 52",
+    "lines": {
+      "d3a3": {
+        "g8h8": {
+          "h3g2": {
+            "h8g8": {
+              "g2f3": "retry",
+              "g2h1": {
+                "g8g1": {
+                  "e3g1": "retry",
+                  "h1g1": {
+                    "b7b6": {
+                      "a3a1": "win"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "h3g3": "retry",
+          "h3g4": "retry"
+        }
+      },
+      "d3b3": {
+        "g8h8": {
+          "h3g2": {
+            "h8g8": {
+              "g2f3": "retry",
+              "g2h1": {
+                "g8g1": {
+                  "e3g1": "retry",
+                  "h1g1": {
+                    "b7b6": {
+                      "b3b1": "win"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "h3g3": "retry",
+          "h3g4": "retry"
+        }
+      },
+      "e3d2": {
+        "e1d1": {
+          "c2c3": "retry",
+          "c2c4": "retry",
+          "d2f4": "retry",
+          "d2g5": {
+            "d1e1": {
+              "g5h4": {
+                "g8g3": {
+                  "d3g3": "retry",
+                  "h2g3": "retry",
+                  "h3g3": {
+                    "b7b6": {
+                      "g3g2": "win"
+                    }
+                  },
+                  "h4g3": {
+                    "e1f1": {
+                      "d3d1": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 31417,
+    "rating": 2089,
+    "enabled": true,
+    "color": "white",
+    "game_id": "o149whlz",
+    "attempts": 17925,
+    "vote": 198
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1r6/2n2kpp/b3P2r/2q2P2/p1p3R1/P4Q2/1PP3PP/1K2R3 b - - 0 28",
+    "initial_move_san": "Kf6",
+    "initial_move_uci": "f7f6",
+    "puzzle_fen": "1r6/2n3pp/b3Pk1r/2q2P2/p1p3R1/P4Q2/1PP3PP/1K2R3 w - - 1 29",
+    "lines": {
+      "f3c3": {
+        "c5e5": {
+          "c3e5": {
+            "f6e7": {
+              "e5c7": {
+                "e7e8": {
+                  "b2b4": "retry",
+                  "c7b8": "retry",
+                  "c7c6": "retry",
+                  "c7d7": {
+                    "e8f8": {
+                      "d7f7": "win"
+                    }
+                  },
+                  "c7f7": {
+                    "e8d8": {
+                      "f7d7": "win"
+                    }
+                  },
+                  "f5f6": "retry",
+                  "g4d4": "retry",
+                  "g4g7": "retry"
+                }
+              },
+              "e5g7": "retry",
+              "g4g7": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 36668,
+    "rating": 1305,
+    "enabled": true,
+    "color": "white",
+    "game_id": "fly60g29",
+    "attempts": 17754,
+    "vote": 128
+  }
+}

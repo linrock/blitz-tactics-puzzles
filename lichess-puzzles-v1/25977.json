@@ -1,0 +1,39 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2r2rk1/2p2p2/1p1p2pn/4q1Np/4Q3/7P/PPP1BPP1/R4RK1 w - - 0 20",
+    "initial_move_san": "Nf3",
+    "initial_move_uci": "g5f3",
+    "puzzle_fen": "2r2rk1/2p2p2/1p1p2pn/4q2p/4Q3/5N1P/PPP1BPP1/R4RK1 b - - 1 20",
+    "lines": {
+      "e5e4": {
+        "e2d3": {
+          "e4a4": {
+            "f1d1": "win"
+          },
+          "e4b4": {
+            "f1b1": "win"
+          },
+          "e4c6": {
+            "c2c3": "win"
+          },
+          "e4d5": "retry",
+          "e4e6": {
+            "a2a4": "win"
+          },
+          "e4f4": {
+            "c2c3": "win"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 25977,
+    "rating": 1161,
+    "enabled": true,
+    "color": "black",
+    "game_id": "exsi7mux",
+    "attempts": 307,
+    "vote": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1R6/5p1k/3B2p1/p5Pp/1p5P/P4bP1/1r6/5K2 b - - 1 40",
+    "initial_move_san": "b3",
+    "initial_move_uci": "b4b3",
+    "puzzle_fen": "1R6/5p1k/3B2p1/p5Pp/7P/Pp3bP1/1r6/5K2 w - - 0 41",
+    "lines": {
+      "d6e5": {
+        "f7f6": {
+          "e5f6": {
+            "f3e2": {
+              "f1e1": {
+                "b2b1": {
+                  "e1d2": "retry",
+                  "e1e2": {
+                    "b1e1": {
+                      "e2d2": "retry",
+                      "e2d3": "retry",
+                      "e2e1": {
+                        "b3b2": {
+                          "b8h8": "win"
+                        }
+                      },
+                      "e2f2": "retry",
+                      "e2f3": "retry"
+                    }
+                  }
+                }
+              },
+              "f1f2": {
+                "e2c4": {
+                  "f2f3": "retry",
+                  "f6b2": {
+                    "c4g8": {
+                      "a3a4": {
+                        "g8c4": {
+                          "b8h8": "win"
+                        }
+                      },
+                      "b8a8": "retry",
+                      "b8c8": "retry",
+                      "b8d8": "retry",
+                      "b8e8": "retry",
+                      "b8f8": "retry",
+                      "f2e1": "retry",
+                      "f2e2": "retry",
+                      "f2e3": "retry",
+                      "f2f1": "retry",
+                      "f2f3": "retry",
+                      "f2g1": "retry",
+                      "f2g2": "retry"
+                    }
+                  }
+                }
+              },
+              "f1g1": "retry",
+              "f1g2": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 15229,
+    "rating": 1303,
+    "enabled": true,
+    "color": "white",
+    "game_id": "guznfhtd",
+    "attempts": 42278,
+    "vote": 48
+  }
+}

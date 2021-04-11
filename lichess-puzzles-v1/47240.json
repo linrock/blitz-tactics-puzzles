@@ -1,0 +1,76 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r5k1/1b2ppb1/p2p1Pp1/1p4P1/4P3/1Bq5/P1P4Q/2KR3R b - - 0 23",
+    "initial_move_san": "exf6",
+    "initial_move_uci": "e7f6",
+    "puzzle_fen": "r5k1/1b3pb1/p2p1pp1/1p4P1/4P3/1Bq5/P1P4Q/2KR3R w - - 0 24",
+    "lines": {
+      "d1d6": {
+        "f6f5": {
+          "d6d7": {
+            "b7d5": {
+              "b3d5": {
+                "c3a1": {
+                  "c1d2": {
+                    "a1c3": {
+                      "d2e2": {
+                        "c3c2": {
+                          "e2f3": {
+                            "c2c3": {
+                              "f3g2": {
+                                "c3b2": {
+                                  "g2h3": {
+                                    "b2c3": {
+                                      "h2g3": {
+                                        "c3g3": {
+                                          "h3g3": {
+                                            "g7e5": {
+                                              "g3g2": "retry",
+                                              "g3h3": "retry",
+                                              "g3h4": {
+                                                "a8f8": "win"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "d7d5": {
+                "c3a1": {
+                  "c1d2": {
+                    "a1c3": {
+                      "d2d1": {
+                        "a8e8": "win"
+                      },
+                      "d2e2": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 47240,
+    "rating": 2667,
+    "enabled": true,
+    "color": "white",
+    "game_id": "vcny188m",
+    "attempts": 327,
+    "vote": -12
+  }
+}

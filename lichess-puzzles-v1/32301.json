@@ -1,0 +1,105 @@
+{
+  "puzzle_data": {
+    "initial_fen": "3r3k/p3R1pp/1p6/2p5/5r2/qPP5/P1K2PQ1/R7 b - - 2 33",
+    "initial_move_san": "g6",
+    "initial_move_uci": "g7g6",
+    "puzzle_fen": "3r3k/p3R2p/1p4p1/2p5/5r2/qPP5/P1K2PQ1/R7 w - - 0 34",
+    "lines": {
+      "g2h2": {
+        "d8d2": {
+          "c2d2": {
+            "a3b2": {
+              "d2d3": {
+                "c5c4": {
+                  "d3e3": {
+                    "b2c3": {
+                      "e3f4": {
+                        "c3f6": {
+                          "f4e4": {
+                            "f6f5": {
+                              "e4e3": {
+                                "f5d3": {
+                                  "e3f4": {
+                                    "d3f5": {
+                                      "f4g3": {
+                                        "f5g5": {
+                                          "g3f3": {
+                                            "g5e7": "win"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "f4g3": {
+                            "f6g5": {
+                              "g3f3": {
+                                "g5e7": "win"
+                              },
+                              "g3h3": "retry"
+                            }
+                          },
+                          "f4g4": "retry"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "d2e3": {
+                "b2c3": {
+                  "e3f4": {
+                    "c3f6": {
+                      "f4e4": {
+                        "f6f5": {
+                          "e4e3": {
+                            "f5g5": {
+                              "e3e2": {
+                                "g5e7": {
+                                  "e2f1": {
+                                    "h8g8": "win"
+                                  }
+                                }
+                              },
+                              "e3f3": {
+                                "g5e7": "win"
+                              },
+                              "h2f4": {
+                                "g5e7": {
+                                  "e3d2": "retry",
+                                  "e3f3": {
+                                    "h8g7": "win"
+                                  },
+                                  "f4e4": {
+                                    "e7d7": "win"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "f4g3": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 32301,
+    "rating": 2408,
+    "enabled": true,
+    "color": "white",
+    "game_id": "bbatrail",
+    "attempts": 281,
+    "vote": -13
+  }
+}

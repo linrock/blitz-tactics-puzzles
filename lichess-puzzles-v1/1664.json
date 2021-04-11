@@ -1,0 +1,38 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2qk2r/pp3pp1/2nbp3/2pp3n/5PpN/3PP1P1/PPPNB3/R1BQ1RK1 w kq - 1 12",
+    "initial_move_san": "Kg2",
+    "initial_move_uci": "g1g2",
+    "puzzle_fen": "r2qk2r/pp3pp1/2nbp3/2pp3n/5PpN/3PP1P1/PPPNB1K1/R1BQ1R2 b kq - 2 12",
+    "lines": {
+      "h5g3": {
+        "h4f3": {
+          "g3f1": "retry",
+          "g3f5": {
+            "d2b3": {
+              "g4f3": {
+                "e2f3": "win"
+              }
+            }
+          },
+          "g4f3": {
+            "d2f3": {
+              "g3f1": {
+                "d1f1": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 1664,
+    "rating": 1729,
+    "enabled": true,
+    "color": "black",
+    "game_id": "tuxyslcg",
+    "attempts": 5421,
+    "vote": 51
+  }
+}

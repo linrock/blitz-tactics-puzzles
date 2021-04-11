@@ -1,0 +1,51 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2kr2r1/2p2p1p/1P6/1R3p1q/1Q6/3P1pPP/2P2P2/4R1K1 b - - 0 28",
+    "initial_move_san": "cxb6",
+    "initial_move_uci": "c7b6",
+    "puzzle_fen": "2kr2r1/5p1p/1p6/1R3p1q/1Q6/3P1pPP/2P2P2/4R1K1 w - - 0 29",
+    "lines": {
+      "b4c3": {
+        "c8b7": {
+          "b5b6": {
+            "b7b6": {
+              "e1b1": {
+                "b6a7": {
+                  "c3a1": "win",
+                  "c3a3": "win",
+                  "c3a5": "win"
+                }
+              }
+            }
+          },
+          "e1e7": "retry"
+        }
+      },
+      "b4c4": {
+        "c8b7": {
+          "b5b6": {
+            "b7b6": {
+              "e1b1": {
+                "b6a5": {
+                  "c4a2": "win",
+                  "c4b5": "win"
+                }
+              }
+            }
+          },
+          "e1e7": "retry"
+        }
+      },
+      "b5c5": "retry"
+    }
+  },
+  "metadata": {
+    "id": 19303,
+    "rating": 1712,
+    "enabled": true,
+    "color": "white",
+    "game_id": "mjskriua",
+    "attempts": 1349,
+    "vote": 25
+  }
+}

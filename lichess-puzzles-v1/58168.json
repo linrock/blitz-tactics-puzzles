@@ -1,0 +1,59 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1nk1q2r/Qppr1p1p/1B2b1p1/1P6/3p1P1n/3P3P/P3B1P1/RNR3K1 w - - 2 21",
+    "initial_move_san": "Qa8",
+    "initial_move_uci": "a7a8",
+    "puzzle_fen": "Qnk1q2r/1ppr1p1p/1B2b1p1/1P6/3p1P1n/3P3P/P3B1P1/RNR3K1 b - - 3 21",
+    "lines": {
+      "e6d5": {
+        "b6c7": {
+          "e8e3": {
+            "g1h2": {
+              "d7c7": {
+                "c1c7": {
+                  "c8c7": {
+                    "a8a5": {
+                      "b7b6": {
+                        "a5d2": {
+                          "h8e8": {
+                            "d2e3": {
+                              "e8e3": {
+                                "e2f1": "win"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "c7c8": "retry",
+                      "c7d6": "retry",
+                      "c7d7": {
+                        "a5d2": {
+                          "h8e8": {
+                            "d2e3": {
+                              "e8e3": {
+                                "e2f1": "win"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 58168,
+    "rating": 2592,
+    "enabled": true,
+    "color": "black",
+    "game_id": "rlaxygeh",
+    "attempts": 194,
+    "vote": -12
+  }
+}

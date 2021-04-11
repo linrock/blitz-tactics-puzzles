@@ -1,0 +1,42 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2r2k1/ppq2pb1/n1p1p1pp/8/4P3/2P1B2N/PP1Q2PP/3R1RK1 w - - 2 19",
+    "initial_move_san": "Bd4",
+    "initial_move_uci": "e3d4",
+    "puzzle_fen": "r2r2k1/ppq2pb1/n1p1p1pp/8/3BP3/2P4N/PP1Q2PP/3R1RK1 b - - 3 19",
+    "lines": {
+      "c6c5": {
+        "d2f2": {
+          "c5d4": {
+            "c3d4": "win"
+          }
+        }
+      },
+      "e6e5": {
+        "d4e5": {
+          "c7b6": "retry",
+          "c7e5": {
+            "d2d8": {
+              "a8d8": {
+                "d1d8": {
+                  "g7f8": {
+                    "h3f2": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 7193,
+    "rating": 1666,
+    "enabled": true,
+    "color": "black",
+    "game_id": "tvec41es",
+    "attempts": 1488,
+    "vote": -3
+  }
+}

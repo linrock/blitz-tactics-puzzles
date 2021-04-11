@@ -1,0 +1,47 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1b2rk1/pp3pp1/2npq2p/4p3/3P3N/2P4n/PPB2PPK/R1BQ1R2 b - - 0 15",
+    "initial_move_san": "g5",
+    "initial_move_uci": "g7g5",
+    "puzzle_fen": "r1b2rk1/pp3p2/2npq2p/4p1p1/3P3N/2P4n/PPB2PPK/R1BQ1R2 w - g6 0 16",
+    "lines": {
+      "d4d5": {
+        "e6f6": {
+          "d5c6": {
+            "h3f4": {
+              "c6b7": {
+                "c8b7": {
+                  "h4f5": {
+                    "a8b8": "win"
+                  }
+                }
+              },
+              "g2g3": {
+                "f4g6": {
+                  "c2e4": "retry",
+                  "c6b7": {
+                    "c8b7": {
+                      "h4f5": {
+                        "e5e4": "win"
+                      }
+                    }
+                  },
+                  "h4g6": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 1808,
+    "rating": 2613,
+    "enabled": true,
+    "color": "white",
+    "game_id": "ssujftra",
+    "attempts": 137,
+    "vote": -13
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4rrk1/1p3ppp/pq3n2/8/2Pp1P2/1Q6/1nNN2PP/R4RK1 b - - 3 21",
+    "initial_move_san": "d3+",
+    "initial_move_uci": "d4d3",
+    "puzzle_fen": "4rrk1/1p3ppp/pq3n2/8/2P2P2/1Q1p4/1nNN2PP/R4RK1 w - - 0 22",
+    "lines": {
+      "b3b6": {
+        "e8e2": {
+          "b6b2": "retry",
+          "c2d4": {
+            "e2d2": "win"
+          },
+          "c2e3": {
+            "e2d2": "win"
+          },
+          "f1f2": {
+            "e2f2": {
+              "g1f2": {
+                "d3c2": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 43867,
+    "rating": 1657,
+    "enabled": true,
+    "color": "white",
+    "game_id": "obc85scs",
+    "attempts": 447,
+    "vote": -3
+  }
+}

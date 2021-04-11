@@ -1,0 +1,219 @@
+{
+  "puzzle_data": {
+    "initial_fen": "3k1b1r/2p5/1p4Q1/1p2P2p/3P3q/P7/1P2N1PP/3R1RK1 b - - 0 27",
+    "initial_move_san": "c5",
+    "initial_move_uci": "c7c5",
+    "puzzle_fen": "3k1b1r/8/1p4Q1/1pp1P2p/3P3q/P7/1P2N1PP/3R1RK1 w - c6 0 28",
+    "lines": {
+      "d4c5": {
+        "d8c7": {
+          "c5b6": {
+            "c7b8": {
+              "f1f8": {
+                "h8f8": {
+                  "g6d6": {
+                    "b8a8": {
+                      "d6c6": {
+                        "a8b8": {
+                          "c6c7": {
+                            "b8a8": {
+                              "c7a7": "win"
+                            }
+                          }
+                        }
+                      },
+                      "d6f8": "retry"
+                    }
+                  }
+                }
+              },
+              "g6e8": {
+                "b8b7": {
+                  "d1d7": {
+                    "b7a6": {
+                      "d7a7": "retry",
+                      "e8a8": {
+                        "a6b6": {
+                          "a8a7": {
+                            "b6c6": {
+                              "a7c7": "win"
+                            }
+                          },
+                          "a8b7": {
+                            "b6a5": {
+                              "b7a7": "win"
+                            }
+                          },
+                          "a8b8": {
+                            "b6a5": {
+                              "b8a7": "win",
+                              "d7a7": "win"
+                            }
+                          },
+                          "b2b4": "retry",
+                          "d7b7": "retry",
+                          "f1f6": "retry",
+                          "g1h1": "retry"
+                        }
+                      },
+                      "e8c8": {
+                        "a6a5": {
+                          "b2b4": "retry",
+                          "c8a8": "retry",
+                          "c8c3": "retry",
+                          "d7a7": {
+                            "a5b6": {
+                              "a7a6": "win",
+                              "c8c7": "win"
+                            }
+                          },
+                          "g1h1": "retry"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "g6b6": {
+            "c7c8": {
+              "b6c6": {
+                "c8b8": {
+                  "c6e8": {
+                    "h4d8": {
+                      "d1d8": {
+                        "b8a7": {
+                          "b2b4": "retry",
+                          "d8a8": {
+                            "a7b7": {
+                              "e8c8": "win"
+                            }
+                          },
+                          "d8d6": "retry",
+                          "d8d7": {
+                            "a7a6": {
+                              "e8a8": "win"
+                            }
+                          },
+                          "e2d4": "retry",
+                          "e8b5": "retry",
+                          "e8c6": "retry",
+                          "e8d7": {
+                            "a7a6": {
+                              "d8a8": "win"
+                            }
+                          },
+                          "e8f7": "retry",
+                          "e8f8": "retry",
+                          "f1f2": "retry",
+                          "f1f7": "retry",
+                          "f1f8": "retry",
+                          "g1h1": "retry"
+                        }
+                      },
+                      "e8b5": "retry",
+                      "e8d8": {
+                        "b8b7": {
+                          "c5c6": "retry",
+                          "d1d6": "retry",
+                          "d1d7": {
+                            "b7a6": {
+                              "d8a8": "win",
+                              "d8b6": "win"
+                            }
+                          },
+                          "d8b6": {
+                            "b7c8": {
+                              "d1d8": "win"
+                            }
+                          },
+                          "d8d5": "retry",
+                          "d8d7": "retry",
+                          "f1f7": "retry",
+                          "f1f8": "retry",
+                          "g1h1": "retry"
+                        }
+                      }
+                    }
+                  },
+                  "d1d7": "retry"
+                }
+              },
+              "b6e6": {
+                "c8b8": {
+                  "e6e8": {
+                    "h4d8": {
+                      "d1d8": {
+                        "b8a7": {
+                          "b2b4": "retry",
+                          "d8a8": {
+                            "a7b7": {
+                              "e8c8": "win"
+                            }
+                          },
+                          "d8d6": "retry",
+                          "d8d7": {
+                            "a7a6": {
+                              "e8a8": "win"
+                            }
+                          },
+                          "e2d4": "retry",
+                          "e8b5": "retry",
+                          "e8c6": "retry",
+                          "e8d7": {
+                            "a7a6": {
+                              "d8a8": "win"
+                            }
+                          },
+                          "e8f7": "retry",
+                          "e8f8": "retry",
+                          "f1f2": "retry",
+                          "f1f7": "retry",
+                          "f1f8": "retry",
+                          "g1h1": "retry"
+                        }
+                      },
+                      "e8b5": "retry",
+                      "e8d8": {
+                        "b8b7": {
+                          "c5c6": "retry",
+                          "d1d6": "retry",
+                          "d1d7": {
+                            "b7a6": {
+                              "d8a8": "win",
+                              "d8b6": "win"
+                            }
+                          },
+                          "d8b6": {
+                            "b7c8": {
+                              "d1d8": "win"
+                            }
+                          },
+                          "d8d5": "retry",
+                          "d8d7": "retry",
+                          "f1f7": "retry",
+                          "f1f8": "retry",
+                          "g1h1": "retry"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 2393,
+    "rating": 2328,
+    "enabled": true,
+    "color": "white",
+    "game_id": "tylk7tyr",
+    "attempts": 222,
+    "vote": -10
+  }
+}

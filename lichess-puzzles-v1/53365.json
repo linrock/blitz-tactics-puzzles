@@ -1,0 +1,40 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1b1kb1r/pp2pppp/2n2n2/2qp4/8/2P1PN2/PP1N1PPP/R1BQKB1R w KQkq - 2 7",
+    "initial_move_san": "Bb5",
+    "initial_move_uci": "f1b5",
+    "puzzle_fen": "r1b1kb1r/pp2pppp/2n2n2/1Bqp4/8/2P1PN2/PP1N1PPP/R1BQK2R b KQkq - 3 7",
+    "lines": {
+      "c5b5": {
+        "f3d4": {
+          "b5a5": "retry",
+          "b5a6": "retry",
+          "b5b6": {
+            "d2f3": "win"
+          },
+          "b5c5": "retry",
+          "b5d3": {
+            "d1e2": {
+              "c6e5": "retry",
+              "c8f5": "retry",
+              "d3e2": {
+                "e1e2": "win"
+              },
+              "d3g6": "retry"
+            }
+          },
+          "c6d4": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 53365,
+    "rating": 1315,
+    "enabled": true,
+    "color": "black",
+    "game_id": "spoouau7",
+    "attempts": 26,
+    "vote": 0
+  }
+}

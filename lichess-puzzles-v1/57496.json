@@ -1,0 +1,54 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/1p5p/5p2/p5k1/6R1/7P/Q4PPK/4q3 b - - 8 35",
+    "initial_move_san": "Kh5",
+    "initial_move_uci": "g5h5",
+    "puzzle_fen": "8/1p5p/5p2/p6k/6R1/7P/Q4PPK/4q3 w - - 9 36",
+    "lines": {
+      "a2c2": "retry",
+      "a2c4": "retry",
+      "a2f7": {
+        "h5h6": {
+          "f2f3": "retry",
+          "f2f4": "retry",
+          "f7d7": "retry",
+          "f7f6": {
+            "h6h5": {
+              "f6g5": "win",
+              "f6h4": "win",
+              "g4h4": "win"
+            }
+          },
+          "f7f8": "retry",
+          "f7g7": {
+            "h6h5": {
+              "g7h7": "win"
+            }
+          },
+          "f7g8": "retry",
+          "g4a4": "retry",
+          "g4c4": "retry",
+          "g4f4": "retry",
+          "g4g3": "retry",
+          "g4g8": "retry",
+          "g4h4": {
+            "h6g5": {
+              "f7h5": "win"
+            }
+          },
+          "h2g3": "retry"
+        }
+      },
+      "a2g8": "retry"
+    }
+  },
+  "metadata": {
+    "id": 57496,
+    "rating": 1303,
+    "enabled": true,
+    "color": "white",
+    "game_id": "VTHN1zgv",
+    "attempts": 368,
+    "vote": 15
+  }
+}

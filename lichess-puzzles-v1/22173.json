@@ -1,0 +1,71 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2Q2n1k/p4Rbp/6p1/3B4/2p1P3/7P/P5P1/2q3K1 w - - 1 27",
+    "initial_move_san": "Rf1",
+    "initial_move_uci": "f7f1",
+    "puzzle_fen": "2Q2n1k/p5bp/6p1/3B4/2p1P3/7P/P5P1/2q2RK1 b - - 2 27",
+    "lines": {
+      "g7d4": {
+        "g1h2": {
+          "c1f1": {
+            "c8b8": {
+              "d4g1": {
+                "h2g3": {
+                  "g1f2": {
+                    "g3f4": {
+                      "f1c1": {
+                        "f4e5": {
+                          "c1a1": "retry",
+                          "c1c3": {
+                            "e5d6": {
+                              "c3a3": "retry",
+                              "c3f6": {
+                                "d5e6": {
+                                  "f6e6": {
+                                    "d6c7": {
+                                      "e6d7": "win"
+                                    }
+                                  }
+                                }
+                              },
+                              "c3g3": "retry"
+                            }
+                          },
+                          "c1g5": {
+                            "e5d6": {
+                              "g5f6": {
+                                "d5e6": {
+                                  "f6e6": {
+                                    "d6c7": {
+                                      "e6d7": "win"
+                                    }
+                                  }
+                                }
+                              },
+                              "g5g3": "retry"
+                            }
+                          }
+                        }
+                      },
+                      "f2c5": "retry",
+                      "f2d4": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 22173,
+    "rating": 2643,
+    "enabled": true,
+    "color": "black",
+    "game_id": "lx35ea3j",
+    "attempts": 172,
+    "vote": -1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/5q1k/4Np2/p2Q1Pp1/Pp2p2p/4P2P/5rPK/8 b - - 0 43",
+    "initial_move_san": "Re2",
+    "initial_move_uci": "f2e2",
+    "puzzle_fen": "8/5q1k/4Np2/p2Q1Pp1/Pp2p2p/4P2P/4r1PK/8 w - - 1 44",
+    "lines": {
+      "e6g5": {
+        "f6g5": {
+          "d5f7": {
+            "h7h8": {
+              "f5f6": {
+                "e2g2": {
+                  "h2g2": {
+                    "b4b3": {
+                      "f7g7": "win"
+                    }
+                  },
+                  "h2h1": "retry"
+                }
+              },
+              "f7e8": "retry",
+              "f7f6": "retry",
+              "f7f8": "retry",
+              "f7h5": "retry",
+              "h2g1": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 19455,
+    "rating": 1297,
+    "enabled": true,
+    "color": "white",
+    "game_id": "jnzgendv",
+    "attempts": 44,
+    "vote": 1
+  }
+}

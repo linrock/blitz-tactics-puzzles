@@ -1,0 +1,73 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/6P1/4PK2/3k1P2/6q1/8/8/8 w - - 5 57",
+    "initial_move_san": "Kf7",
+    "initial_move_uci": "f6f7",
+    "puzzle_fen": "8/5KP1/4P3/3k1P2/6q1/8/8/8 b - - 6 57",
+    "lines": {
+      "g4f5": {
+        "f7e7": {
+          "f5e6": {
+            "e7f8": {
+              "d5d6": "retry",
+              "e6d6": "retry",
+              "e6f5": "retry",
+              "e6f6": {
+                "f8g8": {
+                  "d5e6": "retry",
+                  "f6f3": {
+                    "g8h7": {
+                      "f3e4": "retry",
+                      "f3f5": "retry",
+                      "f3f7": "retry",
+                      "f3h5": {
+                        "h7g8": {
+                          "d5d6": "retry",
+                          "d5e5": "retry",
+                          "d5e6": {
+                            "g8f8": {
+                              "h5f7": "win"
+                            }
+                          },
+                          "h5f5": "retry"
+                        }
+                      }
+                    }
+                  },
+                  "f6f5": {
+                    "g8h8": {
+                      "f5e5": "retry",
+                      "f5h3": "retry",
+                      "f5h5": {
+                        "h8g8": {
+                          "d5d6": "retry",
+                          "d5e5": "retry",
+                          "d5e6": {
+                            "g8f8": {
+                              "h5f7": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "e6h6": "retry"
+            }
+          },
+          "f5g6": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 37463,
+    "rating": 2365,
+    "enabled": true,
+    "color": "black",
+    "game_id": "zlfeu1a2",
+    "attempts": 441,
+    "vote": 0
+  }
+}

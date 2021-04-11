@@ -1,0 +1,43 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/5pkp/3p2p1/3Pp3/1R6/p5PP/1pQ2PK1/q7 w - - 0 54",
+    "initial_move_san": "f4",
+    "initial_move_uci": "f2f4",
+    "puzzle_fen": "8/5pkp/3p2p1/3Pp3/1R3P2/p5PP/1pQ3K1/q7 b - f3 0 54",
+    "lines": {
+      "a1a2": "retry",
+      "a1c1": {
+        "c2b3": {
+          "a3a2": {
+            "b3b2": {
+              "c1b2": {
+                "b4b2": {
+                  "a2a1q": {
+                    "b2e2": "win"
+                  }
+                }
+              },
+              "a2a1q": {
+                "b2a1": {
+                  "c1a1": {
+                    "b4e4": "win"
+                  }
+                }
+              }
+            }
+          },
+          "c1d2": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 12093,
+    "rating": 1682,
+    "enabled": true,
+    "color": "black",
+    "game_id": "cexuscse",
+    "attempts": 14710,
+    "vote": 179
+  }
+}

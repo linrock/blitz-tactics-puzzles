@@ -1,0 +1,76 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2k2bnB/ppp4p/3r1p2/1n1pp1P1/4P2P/1K1P3R/PPPN4/R7 w - - 4 21",
+    "initial_move_san": "gxf6",
+    "initial_move_uci": "g5f6",
+    "puzzle_fen": "2k2bnB/ppp4p/3r1P2/1n1pp3/4P2P/1K1P3R/PPPN4/R7 b - - 0 21",
+    "lines": {
+      "b5d4": {
+        "b3c3": {
+          "d4e2": {
+            "c3b3": {
+              "d6b6": {
+                "b3a4": {
+                  "b6a6": "retry",
+                  "b6b4": "retry",
+                  "e2d4": {
+                    "d2b3": {
+                      "b6a6": {
+                        "b3a5": {
+                          "b7b5": "win"
+                        }
+                      },
+                      "b6b4": {
+                        "a4a3": {
+                          "d4b5": "win",
+                          "d4c2": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "d6b6": {
+            "b2b4": {
+              "f8b4": {
+                "c3b2": {
+                  "b4a3": "retry",
+                  "b4d2": {
+                    "b2a3": {
+                      "b6b4": {
+                        "c2c3": {
+                          "d4c2": "win"
+                        }
+                      },
+                      "c7c6": "retry",
+                      "d2c3": {
+                        "h4h5": {
+                          "b6a6": "win"
+                        }
+                      },
+                      "d2h6": "retry",
+                      "d4c2": "retry",
+                      "d5e4": "retry",
+                      "g8e7": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 31460,
+    "rating": 2308,
+    "enabled": true,
+    "color": "black",
+    "game_id": "7aquhe26",
+    "attempts": 19093,
+    "vote": 243
+  }
+}

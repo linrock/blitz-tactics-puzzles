@@ -1,0 +1,62 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r6r/p1pk1ppp/2pb1q2/3pR3/3P1B2/5K2/PPP3PP/RN1Q4 w - - 3 14",
+    "initial_move_san": "Qe2",
+    "initial_move_uci": "d1e2",
+    "puzzle_fen": "r6r/p1pk1ppp/2pb1q2/3pR3/3P1B2/5K2/PPP1Q1PP/RN6 b - - 4 14",
+    "lines": {
+      "g7g5": {
+        "g2g3": {
+          "g5f4": {
+            "f3g2": {
+              "a8g8": "retry",
+              "f6g6": "retry",
+              "h8g8": {
+                "b1d2": {
+                  "a8b8": "retry",
+                  "f4g3": {
+                    "h2h3": {
+                      "d6e5": {
+                        "d4e5": {
+                          "f6f2": {
+                            "e2f2": {
+                              "g3f2": {
+                                "g2f2": "win"
+                              }
+                            }
+                          },
+                          "f6f5": "retry",
+                          "f6g6": "retry"
+                        }
+                      },
+                      "f6f2": {
+                        "e2f2": {
+                          "g3f2": {
+                            "g2f2": {
+                              "d6e5": {
+                                "d4e5": "win"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 20838,
+    "rating": 2564,
+    "enabled": true,
+    "color": "black",
+    "game_id": "kydhg020",
+    "attempts": 103,
+    "vote": -12
+  }
+}

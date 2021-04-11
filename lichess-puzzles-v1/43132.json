@@ -1,0 +1,73 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2r3k1/4Q3/1q2p1p1/3pPpNp/3P1P2/8/6PP/3b2K1 b - - 1 35",
+    "initial_move_san": "Qxd4+",
+    "initial_move_uci": "b6d4",
+    "puzzle_fen": "2r3k1/4Q3/4p1p1/3pPpNp/3q1P2/8/6PP/3b2K1 w - - 0 36",
+    "lines": {
+      "g1h1": {
+        "d4a7": {
+          "e7a7": {
+            "c8c7": {
+              "a7a8": "retry",
+              "a7b6": "retry",
+              "a7b8": "retry",
+              "a7c7": {
+                "d1e2": {
+                  "c7a5": "retry",
+                  "c7a7": "retry",
+                  "c7b6": "retry",
+                  "c7b7": "retry",
+                  "c7b8": "retry",
+                  "c7c1": "retry",
+                  "c7c2": "retry",
+                  "c7c3": "retry",
+                  "c7c5": "retry",
+                  "c7c6": "retry",
+                  "c7c8": "retry",
+                  "c7d6": "retry",
+                  "c7d7": "retry",
+                  "c7d8": "retry",
+                  "c7e7": "retry",
+                  "c7f7": {
+                    "g8h8": {
+                      "f7f8": "win",
+                      "f7h7": "win"
+                    }
+                  },
+                  "c7h7": {
+                    "g8f8": {
+                      "h7f7": "win"
+                    }
+                  },
+                  "g2g3": "retry",
+                  "g2g4": "retry",
+                  "g5e6": {
+                    "d5d4": {
+                      "c7g7": "win"
+                    }
+                  },
+                  "g5f7": "retry",
+                  "g5h3": "retry",
+                  "g5h7": "retry",
+                  "h1g1": "retry",
+                  "h2h3": "retry",
+                  "h2h4": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 43132,
+    "rating": 1355,
+    "enabled": true,
+    "color": "white",
+    "game_id": "Q13anNaD",
+    "attempts": 421,
+    "vote": 13
+  }
+}

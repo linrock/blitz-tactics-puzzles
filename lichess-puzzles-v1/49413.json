@@ -1,0 +1,60 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r4rk1/1Qpb1ppp/p1n1pq2/P7/2BPn3/4PN2/1P3PPP/RN2K2R w KQ - 0 14",
+    "initial_move_san": "Ne5",
+    "initial_move_uci": "f3e5",
+    "puzzle_fen": "r4rk1/1Qpb1ppp/p1n1pq2/P3N3/2BPn3/4P3/1P3PPP/RN2K2R b KQ - 1 14",
+    "lines": {
+      "f6f2": {
+        "e1d1": {
+          "a8b8": "retry",
+          "c6e5": {
+            "h1f1": {
+              "f2e3": {
+                "d4e5": {
+                  "a8b8": {
+                    "b7e4": {
+                      "e3e4": {
+                        "b1d2": {
+                          "e4d4": {
+                            "a1a2": "win"
+                          },
+                          "e4e5": "retry",
+                          "e4g2": "retry"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "f2g2": {
+                "d4e5": {
+                  "a8b8": "retry",
+                  "e4c3": "retry",
+                  "e4f2": {
+                    "f1f2": {
+                      "g2b7": {
+                        "f2d2": "win"
+                      }
+                    }
+                  },
+                  "f8b8": "retry"
+                }
+              }
+            }
+          },
+          "f8b8": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 49413,
+    "rating": 2410,
+    "enabled": true,
+    "color": "black",
+    "game_id": "jrs3x2g3",
+    "attempts": 184,
+    "vote": -12
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4r3/5k2/1p5Q/p3p1p1/P4p2/5PqP/1PP3P1/3R2K1 b - - 4 33",
+    "initial_move_san": "Re7",
+    "initial_move_uci": "e8e7",
+    "puzzle_fen": "8/4rk2/1p5Q/p3p1p1/P4p2/5PqP/1PP3P1/3R2K1 w - - 5 34",
+    "lines": {
+      "h6h7": {
+        "f7f6": {
+          "d1d6": {
+            "e7e6": {
+              "h7h6": {
+                "f6e7": {
+                  "h6e6": {
+                    "e7f8": {
+                      "d6d1": "retry",
+                      "d6d8": {
+                        "f8g7": {
+                          "d8d1": "retry",
+                          "d8d7": {
+                            "g7h8": {
+                              "e6e8": "win"
+                            }
+                          },
+                          "d8g8": {
+                            "g7h7": {
+                              "e6g6": "win"
+                            }
+                          },
+                          "e6d7": "retry",
+                          "e6e5": "retry",
+                          "e6e7": "retry",
+                          "e6g8": "retry",
+                          "g1f1": "retry"
+                        }
+                      },
+                      "e6c8": {
+                        "f8e7": {
+                          "c8c7": {
+                            "e7f8": {
+                              "d6d8": "win"
+                            }
+                          },
+                          "c8d7": "retry",
+                          "c8d8": "retry",
+                          "d6d1": "retry",
+                          "d6d7": "retry",
+                          "d6e6": "retry"
+                        }
+                      },
+                      "e6e5": "retry",
+                      "e6f5": "retry",
+                      "e6f6": {
+                        "f8g8": {
+                          "d6d1": "retry",
+                          "d6d8": {
+                            "g8h7": {
+                              "d8h8": "win"
+                            }
+                          },
+                          "f6d8": "retry",
+                          "f6e5": "retry",
+                          "f6g6": "retry",
+                          "g1f1": "retry"
+                        }
+                      },
+                      "e6h6": "retry",
+                      "g1f1": "retry"
+                    }
+                  }
+                }
+              },
+              "h7h8": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 46472,
+    "rating": 1320,
+    "enabled": true,
+    "color": "white",
+    "game_id": "ReLlERvr",
+    "attempts": 9613,
+    "vote": 39
+  }
+}

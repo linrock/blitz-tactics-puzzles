@@ -1,0 +1,54 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/1p5k/1p1P4/8/P3pq2/6pp/1R6/4NK2 w - - 4 54",
+    "initial_move_san": "Kg1",
+    "initial_move_uci": "f1g1",
+    "puzzle_fen": "8/1p5k/1p1P4/8/P3pq2/6pp/1R6/4N1K1 b - - 5 54",
+    "lines": {
+      "h3h2": {
+        "b2h2": {
+          "g3h2": {
+            "g1g2": {
+              "b6b5": "retry",
+              "f4d2": "retry",
+              "f4d6": "retry",
+              "f4h4": {
+                "g2h1": {
+                  "e4e3": "retry",
+                  "h4e1": "retry",
+                  "h4f2": {
+                    "e1f3": {
+                      "e4e3": "retry",
+                      "e4f3": {
+                        "a4a5": {
+                          "f2g1": "win",
+                          "f2g2": "win"
+                        }
+                      },
+                      "f2f1": "retry"
+                    }
+                  },
+                  "h4g3": "retry"
+                }
+              },
+              "h7g6": "retry",
+              "h7g7": "retry",
+              "h7h6": "retry"
+            }
+          }
+        }
+      },
+      "h7g6": "retry",
+      "h7g7": "retry"
+    }
+  },
+  "metadata": {
+    "id": 34460,
+    "rating": 2462,
+    "enabled": true,
+    "color": "black",
+    "game_id": "topsngxv",
+    "attempts": 749,
+    "vote": 13
+  }
+}

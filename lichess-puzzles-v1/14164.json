@@ -1,0 +1,54 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r5k1/P1N3pp/8/8/2P2P2/R2Pp3/1K2qn2/1N6 w - - 4 39",
+    "initial_move_san": "Ka1",
+    "initial_move_uci": "b2a1",
+    "puzzle_fen": "r5k1/P1N3pp/8/8/2P2P2/R2Pp3/4qn2/KN6 b - - 5 39",
+    "lines": {
+      "f2d1": {
+        "a3a2": {
+          "a8a7": {
+            "c7a6": {
+              "a7a6": {
+                "b1a3": {
+                  "a6a3": {
+                    "a1b1": {
+                      "a3a2": {
+                        "d3d4": {
+                          "e2b2": "win",
+                          "e2c2": "win"
+                        }
+                      },
+                      "a3b3": "retry",
+                      "d1c3": "retry",
+                      "e2a2": "retry",
+                      "e2d3": "retry",
+                      "e2e1": "retry",
+                      "e2f2": "retry",
+                      "e2f3": "retry"
+                    }
+                  },
+                  "e2a2": "retry",
+                  "e2d3": "retry",
+                  "e2e1": "retry",
+                  "e2f2": "retry"
+                }
+              },
+              "e2d3": "retry",
+              "e2e1": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 14164,
+    "rating": 2034,
+    "enabled": true,
+    "color": "black",
+    "game_id": "tg14cpu7",
+    "attempts": 15837,
+    "vote": 361
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2qkb1r/2p1pp1p/pp3np1/5b2/1nBP4/2N1PQ2/P2BNPPP/R3K2R w KQkq - 0 10",
+    "initial_move_san": "Ne4",
+    "initial_move_uci": "c3e4",
+    "puzzle_fen": "r2qkb1r/2p1pp1p/pp3np1/5b2/1nBPN3/4PQ2/P2BNPPP/R3K2R b KQkq - 1 10",
+    "lines": {
+      "b4c2": {
+        "e1f1": {
+          "f5e4": {
+            "f3f4": {
+              "c2a1": {
+                "f2f3": {
+                  "e4b7": {
+                    "c4d3": "win"
+                  },
+                  "e4c2": {
+                    "f1f2": "win"
+                  }
+                }
+              },
+              "g6g5": {
+                "f4e5": {
+                  "c2a1": {
+                    "e2g3": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "f5e4": {
+        "f3e4": {
+          "f6e4": {
+            "d2b4": "win"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 54747,
+    "rating": 1587,
+    "enabled": true,
+    "color": "black",
+    "game_id": "kzwyodx2",
+    "attempts": 369,
+    "vote": -5
+  }
+}

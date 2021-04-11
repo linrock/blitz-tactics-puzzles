@@ -1,0 +1,81 @@
+{
+  "puzzle_data": {
+    "initial_fen": "6r1/p2k3p/1ppp1q2/3n4/1BR1p3/P3P1Pb/1P1Q1P1P/R5K1 w - - 6 33",
+    "initial_move_san": "Rxe4",
+    "initial_move_uci": "c4e4",
+    "puzzle_fen": "6r1/p2k3p/1ppp1q2/3n4/1B2R3/P3P1Pb/1P1Q1P1P/R5K1 b - - 0 33",
+    "lines": {
+      "f6f3": {
+        "e4e7": {
+          "d5e7": "retry",
+          "d7c8": "retry",
+          "d7d8": {
+            "d2d5": {
+              "c6d5": {
+                "e7e8": {
+                  "d8c7": "retry",
+                  "d8d7": "retry",
+                  "d8e8": {
+                    "b2b3": {
+                      "f3g2": "win"
+                    }
+                  },
+                  "g8e8": {
+                    "b2b3": {
+                      "f3g2": "win"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "d7e7": {
+            "d2d5": {
+              "c6d5": {
+                "b4d6": {
+                  "e7d6": {
+                    "b2b3": {
+                      "f3g2": "win"
+                    }
+                  },
+                  "e7d7": {
+                    "b2b3": {
+                      "f3g2": "win"
+                    }
+                  },
+                  "e7d8": "retry",
+                  "e7e6": {
+                    "b2b3": {
+                      "f3g2": "win"
+                    }
+                  },
+                  "e7e8": {
+                    "b2b3": {
+                      "f3g2": "win"
+                    }
+                  },
+                  "e7f6": "retry",
+                  "e7f7": {
+                    "b2b3": {
+                      "f3g2": "win"
+                    }
+                  }
+                }
+              },
+              "g8g3": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 39357,
+    "rating": 1319,
+    "enabled": true,
+    "color": "black",
+    "game_id": "czik1flv",
+    "attempts": 565,
+    "vote": 18
+  }
+}

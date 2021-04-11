@@ -1,0 +1,54 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1b2qk1/ppp1R1pp/3p3B/n2P4/7Q/2P5/P1P3PP/6K1 b - - 4 20",
+    "initial_move_san": "Kh8",
+    "initial_move_uci": "g8h8",
+    "puzzle_fen": "r1b2q1k/ppp1R1pp/3p3B/n2P4/7Q/2P5/P1P3PP/6K1 w - - 5 21",
+    "lines": {
+      "h6g7": {
+        "h8g8": {
+          "g7f8": {
+            "c8f5": {
+              "a2a3": "retry",
+              "a2a4": "retry",
+              "c3c4": "retry",
+              "e7c7": "retry",
+              "e7g7": "retry",
+              "g1h1": "retry",
+              "g2g3": "retry",
+              "g2g4": "retry",
+              "h2h3": "retry",
+              "h4d4": {
+                "a7a6": {
+                  "d4g7": "win"
+                }
+              },
+              "h4f4": "retry",
+              "h4f6": {
+                "a7a6": {
+                  "f6g7": "win"
+                }
+              },
+              "h4g5": "retry",
+              "h4h5": "retry",
+              "h4h6": {
+                "a7a6": {
+                  "h6g7": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 56601,
+    "rating": 1480,
+    "enabled": true,
+    "color": "white",
+    "game_id": "Asztkqwa",
+    "attempts": 590,
+    "vote": 15
+  }
+}

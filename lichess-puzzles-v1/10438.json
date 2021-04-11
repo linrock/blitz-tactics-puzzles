@@ -1,0 +1,63 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r3k2r/2qbppbp/6p1/2P1P3/p7/5N1P/PBQ2PP1/R3R1K1 b kq - 0 18",
+    "initial_move_san": "Ra5",
+    "initial_move_uci": "a8a5",
+    "puzzle_fen": "4k2r/2qbppbp/6p1/r1P1P3/p7/5N1P/PBQ2PP1/R3R1K1 w k - 1 19",
+    "lines": {
+      "e5e6": {
+        "g7b2": {
+          "c2b2": {
+            "e8g8": {
+              "e6d7": {
+                "c7d7": "win"
+              }
+            }
+          },
+          "e6d7": {
+            "c7d7": {
+              "c2b2": {
+                "e8g8": "win"
+              },
+              "c5c6": {
+                "d7c7": {
+                  "c2b2": {
+                    "e8g8": "win"
+                  }
+                }
+              }
+            }
+          },
+          "e6f7": {
+            "e8f7": {
+              "f3g5": {
+                "f7g8": {
+                  "c2b2": {
+                    "d7f5": {
+                      "g5f7": {
+                        "g8f7": {
+                          "b2h8": {
+                            "f5c2": "win"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 10438,
+    "rating": 1415,
+    "enabled": true,
+    "color": "white",
+    "game_id": "63pitsnc",
+    "attempts": 51,
+    "vote": 0
+  }
+}

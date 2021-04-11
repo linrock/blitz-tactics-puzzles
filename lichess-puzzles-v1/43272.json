@@ -1,0 +1,45 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2r2rk1/1b2qp1p/p3p3/1p1pP3/5P2/3B1R1P/2P3PK/2R1Q3 b - - 2 27",
+    "initial_move_san": "Rc3",
+    "initial_move_uci": "c8c3",
+    "puzzle_fen": "5rk1/1b2qp1p/p3p3/1p1pP3/5P2/2rB1R1P/2P3PK/2R1Q3 w - - 3 28",
+    "lines": {
+      "e1c3": {
+        "g8h8": "win"
+      },
+      "f3g3": {
+        "g8h8": {
+          "e1c3": {
+            "b5b4": {
+              "c3a1": "retry",
+              "c3b2": {
+                "a6a5": "win"
+              },
+              "c3b3": "retry",
+              "c3d2": {
+                "f8g8": "win"
+              },
+              "c3d4": {
+                "a6a5": "win"
+              },
+              "c3e1": {
+                "b7c6": "win"
+              }
+            }
+          }
+        }
+      },
+      "f4f5": "retry"
+    }
+  },
+  "metadata": {
+    "id": 43272,
+    "rating": 1850,
+    "enabled": true,
+    "color": "white",
+    "game_id": "bodcipyq",
+    "attempts": 306,
+    "vote": -12
+  }
+}

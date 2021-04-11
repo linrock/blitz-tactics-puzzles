@@ -1,0 +1,36 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2kr1b1r/pp2qp2/3p1np1/2p5/4PQbp/3B3P/PPP2PP1/RNB1R1K1 w - - 0 15",
+    "initial_move_san": "g3",
+    "initial_move_uci": "g2g3",
+    "puzzle_fen": "2kr1b1r/pp2qp2/3p1np1/2p5/4PQbp/3B2PP/PPP2P2/RNB1R1K1 b - - 0 15",
+    "lines": {
+      "f8h6": {
+        "f4h6": {
+          "h8h6": {
+            "c1h6": {
+              "g4h3": "retry",
+              "h4g3": {
+                "f2g3": {
+                  "d8h8": "retry",
+                  "g4h3": {
+                    "b1c3": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 23636,
+    "rating": 2206,
+    "enabled": true,
+    "color": "black",
+    "game_id": "uibjfaq5",
+    "attempts": 161,
+    "vote": -12
+  }
+}

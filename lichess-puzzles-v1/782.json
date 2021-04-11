@@ -1,0 +1,79 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2kr4/ppqn1p1Q/4b3/2b5/2P5/2PB1N2/P2B1PrP/1R2K2R w K - 0 18",
+    "initial_move_san": "Kf1",
+    "initial_move_uci": "e1f1",
+    "puzzle_fen": "2kr4/ppqn1p1Q/4b3/2b5/2P5/2PB1N2/P2B1PrP/1R3K1R b - - 1 18",
+    "lines": {
+      "g2f2": {
+        "f1e1": {
+          "d7f6": {
+            "f3d4": {
+              "c5d4": {
+                "c3d4": {
+                  "f2d2": {
+                    "e1d2": {
+                      "c7a5": "retry",
+                      "c7f4": "retry",
+                      "f6h7": {
+                        "d4d5": {
+                          "c7a5": "retry",
+                          "c7f4": "retry",
+                          "h7f6": "retry",
+                          "h7g5": {
+                            "h1f1": {
+                              "c7a5": "win",
+                              "c7h2": "win",
+                              "e6d5": "win",
+                              "e6g4": "win",
+                              "e6h3": "win"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "f6h7": {
+                    "e1f2": "win"
+                  }
+                }
+              },
+              "c7e5": {
+                "e1f2": {
+                  "f6h7": {
+                    "d2e3": "win"
+                  }
+                }
+              },
+              "d8d4": "retry",
+              "f6h7": {
+                "e1f2": "win"
+              }
+            }
+          },
+          "f2f3": {
+            "d3e4": {
+              "c7e5": {
+                "e1d1": {
+                  "d7b6": "retry",
+                  "d7f6": "win",
+                  "d7f8": "retry",
+                  "f3f2": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 782,
+    "rating": 2087,
+    "enabled": null,
+    "color": "black",
+    "game_id": "lhd15ur4",
+    "attempts": 67,
+    "vote": -10000
+  }
+}

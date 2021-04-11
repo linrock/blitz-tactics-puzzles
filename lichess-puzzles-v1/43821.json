@@ -1,0 +1,62 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r5k1/7p/p2B2p1/4QpP1/P7/2P1KP1q/1r6/8 b - - 14 55",
+    "initial_move_san": "Rd8",
+    "initial_move_uci": "a8d8",
+    "puzzle_fen": "3r2k1/7p/p2B2p1/4QpP1/P7/2P1KP1q/1r6/8 w - - 15 56",
+    "lines": {
+      "e5d5": "retry",
+      "e5e6": {
+        "g8g7": {
+          "e6e7": {
+            "g7g8": {
+              "e7d8": {
+                "g8f7": {
+                  "d8d7": "retry",
+                  "d8e7": {
+                    "f7g8": {
+                      "e7f8": "win"
+                    }
+                  },
+                  "d8f6": {
+                    "f7g8": {
+                      "f6f8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "e6f6": {
+            "g7g8": {
+              "f6d8": {
+                "g8f7": {
+                  "d8d7": "retry",
+                  "d8e7": {
+                    "f7g8": {
+                      "e7f8": "win"
+                    }
+                  },
+                  "d8f6": {
+                    "f7g8": {
+                      "f6f8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 43821,
+    "rating": 2027,
+    "enabled": true,
+    "color": "white",
+    "game_id": "g882slte",
+    "attempts": 25639,
+    "vote": 328
+  }
+}

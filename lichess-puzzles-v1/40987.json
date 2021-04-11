@@ -1,0 +1,40 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2qkb1r/pp1n3p/4pp2/2pp1n2/3P3B/2PQ1N2/PP3PPP/RN3RK1 w kq - 2 12",
+    "initial_move_san": "Ne5",
+    "initial_move_uci": "f3e5",
+    "puzzle_fen": "r2qkb1r/pp1n3p/4pp2/2ppNn2/3P3B/2PQ4/PP3PPP/RN3RK1 b kq - 3 12",
+    "lines": {
+      "d7e5": {
+        "d4e5": {
+          "f5h4": {
+            "g2g3": {
+              "c5c4": {
+                "d3e2": {
+                  "h4g6": {
+                    "e5f6": "win"
+                  },
+                  "h8g8": "retry"
+                }
+              },
+              "f6e5": "retry",
+              "h4g6": "retry"
+            }
+          }
+        }
+      },
+      "f5h4": {
+        "e5f3": "win"
+      }
+    }
+  },
+  "metadata": {
+    "id": 40987,
+    "rating": 1226,
+    "enabled": true,
+    "color": "black",
+    "game_id": "18Ritr08",
+    "attempts": 6,
+    "vote": -1
+  }
+}

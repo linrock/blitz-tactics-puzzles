@@ -1,0 +1,67 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5r2/7k/1q2prpb/4p2P/1pRpP1Q1/1P1P4/1B3P2/5R1K b - - 2 41",
+    "initial_move_san": "Rf4",
+    "initial_move_uci": "f6f4",
+    "puzzle_fen": "5r2/7k/1q2p1pb/4p2P/1pRpPrQ1/1P1P4/1B3P2/5R1K w - - 3 42",
+    "lines": {
+      "g4g6": {
+        "h7h8": {
+          "g6h6": {
+            "h8g8": {
+              "f1g1": {
+                "f4g4": {
+                  "g1g4": {
+                    "g8f7": {
+                      "b2d4": "retry",
+                      "c4b4": "retry",
+                      "c4c8": "retry",
+                      "g4g7": {
+                        "f7e8": {
+                          "b2a1": "retry",
+                          "b2a3": "retry",
+                          "b2c1": "retry",
+                          "b2c3": "retry",
+                          "b2d4": "retry",
+                          "c4b4": "retry",
+                          "c4c1": "retry",
+                          "c4c2": "retry",
+                          "c4c5": "retry",
+                          "c4c8": {
+                            "b6d8": {
+                              "h6e6": "win"
+                            }
+                          },
+                          "f2f3": "retry",
+                          "f2f4": "retry",
+                          "g7a7": "retry",
+                          "g7h7": "retry",
+                          "h1g1": "retry",
+                          "h1g2": "retry",
+                          "h1h2": "retry",
+                          "h6c1": "retry",
+                          "h6g6": "retry",
+                          "h6h7": "retry"
+                        }
+                      },
+                      "h6g7": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 22412,
+    "rating": 1796,
+    "enabled": true,
+    "color": "white",
+    "game_id": "08bnkclt",
+    "attempts": 11246,
+    "vote": 116
+  }
+}

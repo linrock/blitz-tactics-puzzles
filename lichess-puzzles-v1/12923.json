@@ -1,0 +1,41 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2qkbnr/1p2pppp/p1Np4/8/8/2Q5/PPPN1P1P/R1B1K1R1 b Qkq - 0 11",
+    "initial_move_san": "bxc6",
+    "initial_move_uci": "b7c6",
+    "puzzle_fen": "r2qkbnr/4pppp/p1pp4/8/8/2Q5/PPPN1P1P/R1B1K1R1 w Qkq - 0 12",
+    "lines": {
+      "c3c6": {
+        "d8d7": {
+          "c6a8": {
+            "d7d8": {
+              "a8a6": {
+                "g7g6": "win"
+              },
+              "a8a7": "retry",
+              "a8b7": "retry",
+              "a8c6": {
+                "d8d7": {
+                  "c6a6": "win",
+                  "c6b6": "retry",
+                  "c6c4": "retry",
+                  "c6d5": "retry"
+                }
+              },
+              "a8e4": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 12923,
+    "rating": 1625,
+    "enabled": true,
+    "color": "white",
+    "game_id": "r4591wil",
+    "attempts": 656,
+    "vote": -7
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1B2Q3/7p/5pk1/6p1/3R4/8/5PPP/q1r2RK1 b - - 6 37",
+    "initial_move_san": "Kg7",
+    "initial_move_uci": "g6g7",
+    "puzzle_fen": "1B2Q3/6kp/5p2/6p1/3R4/8/5PPP/q1r2RK1 w - - 7 38",
+    "lines": {
+      "d4d7": {
+        "g7h6": {
+          "e8f8": {
+            "h6g6": {
+              "f8f7": {
+                "g6f5": {
+                  "d7d5": "retry",
+                  "f7d5": "retry",
+                  "f7h7": "retry",
+                  "g2g4": {
+                    "f5g4": {
+                      "f2f3": "retry",
+                      "f7e6": {
+                        "g4h5": {
+                          "e6h3": {
+                            "h5g6": {
+                              "h3h7": "win"
+                            }
+                          }
+                        }
+                      },
+                      "g1g2": "retry",
+                      "h2h3": "retry"
+                    }
+                  }
+                }
+              },
+              "f8g7": "retry",
+              "f8g8": {
+                "g6f5": {
+                  "d7d5": "retry",
+                  "g2g4": {
+                    "f5g4": {
+                      "f2f3": "retry",
+                      "g8e6": {
+                        "g4h5": {
+                          "e6e8": "retry",
+                          "e6f7": "retry",
+                          "e6h3": {
+                            "h5g6": {
+                              "h3h7": "win"
+                            }
+                          }
+                        }
+                      },
+                      "h2h3": "retry"
+                    }
+                  },
+                  "g8d5": "retry",
+                  "g8h7": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 24431,
+    "rating": 2189,
+    "enabled": true,
+    "color": "white",
+    "game_id": "4r1axryh",
+    "attempts": 704,
+    "vote": 6
+  }
+}

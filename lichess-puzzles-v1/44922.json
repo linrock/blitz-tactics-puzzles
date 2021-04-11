@@ -1,0 +1,106 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r5k1/p7/1p1p2R1/2pPpn2/4B3/3P3Q/q4r1P/7K b - - 0 28",
+    "initial_move_san": "Kf7",
+    "initial_move_uci": "g8f7",
+    "puzzle_fen": "r7/p4k2/1p1p2R1/2pPpn2/4B3/3P3Q/q4r1P/7K w - - 1 29",
+    "lines": {
+      "h3h7": {
+        "f5g7": {
+          "g6g7": {
+            "f7e8": {
+              "e4g6": {
+                "f2f7": {
+                  "g6f7": "retry",
+                  "g7f7": "retry",
+                  "g7g8": {
+                    "e8d7": {
+                      "h7f7": "win"
+                    }
+                  },
+                  "h7g8": {
+                    "e8d7": {
+                      "g7f7": "win"
+                    }
+                  },
+                  "h7h8": {
+                    "e8d7": {
+                      "g7f7": "win"
+                    }
+                  }
+                }
+              },
+              "g7e7": "retry",
+              "g7g8": {
+                "f2f8": {
+                  "e4g6": {
+                    "e8d8": {
+                      "g8f8": "win"
+                    }
+                  },
+                  "h7g6": "retry",
+                  "h7h5": "retry"
+                }
+              },
+              "h1g1": "retry",
+              "h7g6": {
+                "e8f8": {
+                  "g7g8": {
+                    "f8e7": {
+                      "g6e6": "win"
+                    }
+                  }
+                }
+              },
+              "h7g8": {
+                "f2f8": {
+                  "e4g6": {
+                    "e8d8": {
+                      "g8f8": "win"
+                    }
+                  },
+                  "g8e6": {
+                    "e8d8": {
+                      "e6d7": "win"
+                    }
+                  }
+                }
+              },
+              "h7h5": {
+                "f2f7": {
+                  "e4f3": "retry",
+                  "h5f7": {
+                    "e8d8": {
+                      "f7d7": "win",
+                      "f7f8": "win",
+                      "f7g8": "win",
+                      "g7g8": "win"
+                    }
+                  }
+                }
+              },
+              "h7h8": {
+                "f2f8": {
+                  "e4g6": {
+                    "e8d8": {
+                      "h8f8": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 44922,
+    "rating": 1882,
+    "enabled": true,
+    "color": "white",
+    "game_id": "fedneipr",
+    "attempts": 869,
+    "vote": 22
+  }
+}

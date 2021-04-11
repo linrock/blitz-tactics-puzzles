@@ -1,0 +1,83 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rk5r/1p1Rn2p/pqp1BQ2/2b1p1p1/8/2N3B1/PPP3PP/7K b - - 0 21",
+    "initial_move_san": "Qxb2",
+    "initial_move_uci": "b6b2",
+    "puzzle_fen": "rk5r/1p1Rn2p/p1p1BQ2/2b1p1p1/8/2N3B1/PqP3PP/7K w - - 0 22",
+    "lines": {
+      "f6e5": {
+        "c5d6": {
+          "e5d6": {
+            "b8a7": {
+              "d6c5": {
+                "b2b6": {
+                  "c3b5": "retry",
+                  "d7b7": {
+                    "a7b7": {
+                      "c5e7": {
+                        "b6c7": {
+                          "e7c7": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "d6d4": "retry",
+              "d7b7": {
+                "b2b7": {
+                  "c3b5": "retry",
+                  "g3f2": {
+                    "c6c5": {
+                      "c3b5": "retry",
+                      "d6c5": "retry",
+                      "f2c5": {
+                        "b7b6": {
+                          "d6b6": "win",
+                          "d6c7": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "g3f2": {
+                "b2b6": {
+                  "c3b5": "retry",
+                  "d6c7": "retry",
+                  "d7b7": "retry",
+                  "f2b6": {
+                    "a7b6": {
+                      "c3a4": "retry",
+                      "c3d5": "retry",
+                      "c3e4": "retry",
+                      "d6b4": {
+                        "b6a7": {
+                          "b4b7": "win",
+                          "d7b7": "win"
+                        }
+                      },
+                      "d6c7": "retry",
+                      "d6d4": "retry",
+                      "d6e7": "retry",
+                      "d7e7": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 47009,
+    "rating": 2016,
+    "enabled": true,
+    "color": "white",
+    "game_id": "db240s2y",
+    "attempts": 2114,
+    "vote": 44
+  }
+}

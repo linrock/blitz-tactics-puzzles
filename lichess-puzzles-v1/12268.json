@@ -1,0 +1,43 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1b1k2r/1p3pp1/p3p2p/2p1N1b1/2P3n1/2N3B1/PPP1RPPP/R5K1 b - - 5 16",
+    "initial_move_san": "Nf6",
+    "initial_move_uci": "g4f6",
+    "puzzle_fen": "r1b1k2r/1p3pp1/p3pn1p/2p1N1b1/2P5/2N3B1/PPP1RPPP/R5K1 w - - 6 17",
+    "lines": {
+      "f2f4": {
+        "c8d7": {
+          "a1d1": {
+            "g5f4": {
+              "g3f4": {
+                "b7b6": "win"
+              }
+            }
+          },
+          "e5d7": "retry",
+          "f4g5": "retry"
+        }
+      },
+      "h2h4": {
+        "g5h4": {
+          "g3h4": {
+            "g7g5": {
+              "h4g3": {
+                "e8f8": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 12268,
+    "rating": 1492,
+    "enabled": true,
+    "color": "white",
+    "game_id": "ALenJrqS",
+    "attempts": 1144,
+    "vote": 6
+  }
+}

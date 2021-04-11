@@ -1,0 +1,88 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/N6p/8/4p1p1/1K2k3/8/1P1p1PPP/8 w - - 0 47",
+    "initial_move_san": "f3+",
+    "initial_move_uci": "f2f3",
+    "puzzle_fen": "8/N6p/8/4p1p1/1K2k3/5P2/1P1p2PP/8 b - - 0 47",
+    "lines": {
+      "e4d3": "retry",
+      "e4e3": {
+        "a7b5": {
+          "d2d1q": {
+            "b5a3": "win"
+          }
+        }
+      },
+      "e4f4": {
+        "a7c6": {
+          "e5e4": {
+            "f3e4": {
+              "f4e4": {
+                "b4a5": {
+                  "g5g4": {
+                    "b2b4": {
+                      "d2d1q": {
+                        "h2h3": "win"
+                      }
+                    }
+                  },
+                  "h7h5": {
+                    "b2b4": {
+                      "g5g4": "retry",
+                      "h5h4": "retry",
+                      "d2d1q": {
+                        "b4b5": "win"
+                      }
+                    }
+                  },
+                  "d2d1q": {
+                    "b2b4": "win"
+                  }
+                }
+              },
+              "d2d1q": {
+                "e4e5": "win"
+              }
+            }
+          },
+          "d2d1q": {
+            "g2g3": {
+              "f4e3": {
+                "b4c5": "win"
+              },
+              "f4f3": {
+                "c6e5": {
+                  "f3e2": "retry",
+                  "f3e3": "retry",
+                  "f3e4": {
+                    "e5c4": "win"
+                  },
+                  "f3g2": "retry"
+                }
+              },
+              "f4f5": {
+                "b4c5": "win"
+              }
+            }
+          }
+        }
+      },
+      "e4f5": {
+        "a7b5": {
+          "d2d1q": {
+            "b4c3": "win"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 47309,
+    "rating": 1195,
+    "enabled": true,
+    "color": "black",
+    "game_id": "tcj27eva",
+    "attempts": 12,
+    "vote": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2r2bk1/5q1p/3p1p2/1P1bp1p1/8/P2QBN2/1P3PPP/4R1K1 b - - 0 25",
+    "initial_move_san": "Qh5",
+    "initial_move_uci": "f7h5",
+    "puzzle_fen": "2r2bk1/7p/3p1p2/1P1bp1pq/8/P2QBN2/1P3PPP/4R1K1 w - - 1 26",
+    "lines": {
+      "d3d5": {
+        "h5f7": {
+          "d5d1": "retry",
+          "d5d2": {
+            "f7b3": "win"
+          },
+          "d5d3": {
+            "d6d5": "win"
+          },
+          "d5e4": {
+            "d6d5": {
+              "e4f5": {
+                "c8b8": "win"
+              }
+            }
+          },
+          "d5f7": {
+            "g8f7": "win"
+          },
+          "e1d1": {
+            "c8b8": {
+              "b5b6": "retry",
+              "e3a7": {
+                "b8b7": {
+                  "b5b6": {
+                    "f7d5": {
+                      "d1d5": {
+                        "g8f7": "win"
+                      }
+                    }
+                  },
+                  "d5f7": {
+                    "g8f7": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 30031,
+    "rating": 1249,
+    "enabled": true,
+    "color": "white",
+    "game_id": "tollbaag",
+    "attempts": 9,
+    "vote": 0
+  }
+}

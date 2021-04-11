@@ -1,0 +1,33 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/p3bk2/1p2p1p1/1p2Pp1p/2rP1P1P/P2K2P1/1B6/1R6 b - - 4 31",
+    "initial_move_san": "b4",
+    "initial_move_uci": "b5b4",
+    "puzzle_fen": "8/p3bk2/1p2p1p1/4Pp1p/1prP1P1P/P2K2P1/1B6/1R6 w - - 0 32",
+    "lines": {
+      "d3c4": {
+        "b4a3": {
+          "b2a1": {
+            "e7d8": "win"
+          },
+          "b2a3": {
+            "e7a3": "win"
+          },
+          "b2c1": {
+            "a7a5": "win"
+          },
+          "b2c3": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 16018,
+    "rating": 1219,
+    "enabled": true,
+    "color": "white",
+    "game_id": "VtD7MMed",
+    "attempts": 12,
+    "vote": -1
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2r5/5kpp/p4p1q/2p1P3/4PK1P/3r4/6P1/2R4R w - - 3 42",
+    "initial_move_san": "Kg4",
+    "initial_move_uci": "f4g4",
+    "puzzle_fen": "2r5/5kpp/p4p1q/2p1P3/4P1KP/3r4/6P1/2R4R b - - 4 42",
+    "lines": {
+      "c8c6": "retry",
+      "c8e8": "retry",
+      "d3e3": "retry",
+      "f6f5": "retry",
+      "f7e6": {
+        "e5f6": {
+          "a6a5": "retry",
+          "c5c4": "retry",
+          "c8a8": "retry",
+          "c8b8": "retry",
+          "c8c7": "retry",
+          "c8d8": "retry",
+          "c8e8": "retry",
+          "c8f8": "retry",
+          "c8g8": "retry",
+          "c8h8": "retry",
+          "d3a3": "retry",
+          "d3b3": "retry",
+          "d3e3": "retry",
+          "e6d7": "retry",
+          "e6e5": "retry",
+          "e6f7": "retry",
+          "g7f6": "retry",
+          "h6e3": "retry",
+          "h6f6": "retry",
+          "h6g6": {
+            "g4f4": {
+              "g6g3": "win"
+            }
+          }
+        }
+      },
+      "f7e7": "retry",
+      "f7e8": "retry",
+      "f7f8": "retry",
+      "f7g8": "retry",
+      "h6e3": "retry",
+      "h6g6": {
+        "g4f4": {
+          "c8c6": "retry",
+          "c8d8": "retry",
+          "c8e8": "retry",
+          "d3g3": "retry",
+          "f6e5": {
+            "f4e5": {
+              "g6f6": "win"
+            }
+          },
+          "f6f5": "retry",
+          "f7e6": {
+            "g2g3": {
+              "f6e5": "win",
+              "g6g3": "win"
+            }
+          },
+          "f7e7": "retry",
+          "f7e8": "retry",
+          "f7f8": "retry",
+          "f7g8": "retry",
+          "g6g2": "retry",
+          "g6g3": {
+            "f4f5": {
+              "g7g6": "win"
+            }
+          },
+          "g6h5": "retry",
+          "h7h5": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 14123,
+    "rating": 1263,
+    "enabled": true,
+    "color": "black",
+    "game_id": "in8ajd1i",
+    "attempts": 6460,
+    "vote": 36
+  }
+}

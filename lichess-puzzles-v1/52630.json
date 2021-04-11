@@ -1,0 +1,43 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/ppbqrppk/2p3bB/3pP1Q1/3P2NP/2P3P1/PP6/4R1K1 b - - 2 30",
+    "initial_move_san": "Bd8",
+    "initial_move_uci": "c7d8",
+    "puzzle_fen": "3b4/pp1qrppk/2p3bB/3pP1Q1/3P2NP/2P3P1/PP6/4R1K1 w - - 3 31",
+    "lines": {
+      "h6g7": {
+        "h7g8": {
+          "g5h6": {
+            "f7f5": {
+              "h6h8": {
+                "g8f7": {
+                  "e5e6": {
+                    "d7e6": {
+                      "g4h6": "win",
+                      "h8f8": "win"
+                    }
+                  },
+                  "g7h6": "retry",
+                  "h8f8": {
+                    "f7e6": {
+                      "f8f6": "win"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 52630,
+    "rating": 2017,
+    "enabled": true,
+    "color": "white",
+    "game_id": "EEnDoumz",
+    "attempts": 14401,
+    "vote": 257
+  }
+}

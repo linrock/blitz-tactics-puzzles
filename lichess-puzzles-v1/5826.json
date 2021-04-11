@@ -1,0 +1,89 @@
+{
+  "puzzle_data": {
+    "initial_fen": "3r4/p1k5/1p1r4/2b1R3/2P3P1/P4Q2/3p1P1P/6K1 w - - 2 35",
+    "initial_move_san": "Qf7+",
+    "initial_move_uci": "f3f7",
+    "puzzle_fen": "3r4/p1k2Q2/1p1r4/2b1R3/2P3P1/P7/3p1P1P/6K1 b - - 3 35",
+    "lines": {
+      "c7b8": {
+        "f7f3": {
+          "d2d1q": {
+            "f3d1": {
+              "d6d1": {
+                "g1g2": "win"
+              }
+            }
+          }
+        }
+      },
+      "d6d7": {
+        "f7f4": {
+          "c7c8": {
+            "g1g2": {
+              "a7a5": "retry",
+              "a7a6": "retry",
+              "c5a3": "retry",
+              "d2d1q": {
+                "f4f5": "win"
+              }
+            }
+          },
+          "d2d1q": {
+            "e5e1": {
+              "c5d6": {
+                "e1d1": {
+                  "d6f4": {
+                    "d1d7": {
+                      "c7d7": {
+                        "g1g2": "win"
+                      },
+                      "d8d7": "retry"
+                    }
+                  }
+                }
+              },
+              "d1d6": {
+                "f4d6": {
+                  "c5d6": "retry",
+                  "c7d6": "retry",
+                  "d7d6": {
+                    "e1e7": {
+                      "c7b8": "retry",
+                      "c7c6": "retry",
+                      "d6d7": {
+                        "e7e2": "win"
+                      },
+                      "d8d7": {
+                        "e7e2": "win"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "d8d7": {
+        "f7f3": {
+          "d2d1q": {
+            "f3d1": {
+              "d6d1": {
+                "g1g2": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 5826,
+    "rating": 1316,
+    "enabled": true,
+    "color": "black",
+    "game_id": "jfp1p8ez",
+    "attempts": 64,
+    "vote": 1
+  }
+}

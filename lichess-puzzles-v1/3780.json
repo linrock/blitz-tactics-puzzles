@@ -1,0 +1,53 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2Q5/4r1pk/8/5B2/1P5p/8/3q2PP/1RR4K b - - 1 44",
+    "initial_move_san": "Kh6",
+    "initial_move_uci": "h7h6",
+    "puzzle_fen": "2Q5/4r1p1/7k/5B2/1P5p/8/3q2PP/1RR4K w - - 2 45",
+    "lines": {
+      "c1c6": "retry",
+      "c8a6": "retry",
+      "c8c6": {
+        "h6g5": {
+          "c1f1": {
+            "e7e6": {
+              "c6e6": {
+                "d2g2": {
+                  "h1g2": {
+                    "h4h3": {
+                      "f5h3": "retry",
+                      "g2f2": "retry",
+                      "g2f3": "retry",
+                      "g2g1": "retry",
+                      "g2g3": {
+                        "g7g6": {
+                          "e6g6": "win"
+                        }
+                      },
+                      "g2h1": "retry",
+                      "g2h3": {
+                        "g7g6": {
+                          "e6g6": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "c6g6": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 3780,
+    "rating": 1948,
+    "enabled": true,
+    "color": "white",
+    "game_id": "wegdw2le",
+    "attempts": 1323,
+    "vote": 27
+  }
+}

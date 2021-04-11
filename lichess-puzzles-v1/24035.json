@@ -1,0 +1,44 @@
+{
+  "puzzle_data": {
+    "initial_fen": "1R1rk2r/2Q1bppp/p2pp3/B7/5q2/5P1P/P5P1/5K1R b k - 1 25",
+    "initial_move_san": "Rxb8",
+    "initial_move_uci": "d8b8",
+    "puzzle_fen": "1r2k2r/2Q1bppp/p2pp3/B7/5q2/5P1P/P5P1/5K1R w k - 0 26",
+    "lines": {
+      "c7b8": {
+        "e8d7": {
+          "b8a7": "retry",
+          "b8b7": {
+            "d7e8": {
+              "b7c6": "retry",
+              "b7c8": {
+                "e7d8": {
+                  "c8d8": "win"
+                }
+              }
+            }
+          },
+          "b8c7": {
+            "d7e8": {
+              "c7c6": "retry",
+              "c7c8": {
+                "e7d8": {
+                  "c8d8": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 24035,
+    "rating": 1208,
+    "enabled": true,
+    "color": "white",
+    "game_id": "mCCitRuo",
+    "attempts": 205,
+    "vote": 4
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rr6/3qkb1Q/3p1pp1/8/4P3/P7/1PPR2PP/R5K1 w - - 1 26",
+    "initial_move_san": "Rad1",
+    "initial_move_uci": "a1d1",
+    "puzzle_fen": "rr6/3qkb1Q/3p1pp1/8/4P3/P7/1PPR2PP/3R2K1 b - - 2 26",
+    "lines": {
+      "b8h8": {
+        "h7g7": {
+          "a8g8": {
+            "g7f6": {
+              "e7f6": {
+                "d2d6": {
+                  "d7d6": {
+                    "d1d6": {
+                      "f6e5": {
+                        "d6b6": "win"
+                      },
+                      "f6e7": "retry",
+                      "f7e6": "retry"
+                    }
+                  },
+                  "d7e6": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 944,
+    "rating": 1734,
+    "enabled": true,
+    "color": "black",
+    "game_id": "nwnlig14",
+    "attempts": 28917,
+    "vote": 235
+  }
+}

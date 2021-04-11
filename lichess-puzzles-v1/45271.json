@@ -1,0 +1,48 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r7/1p5k/pn1p3p/2pP1p2/2P1pN2/PPQ1Pq2/2N5/3RR2K w - - 0 38",
+    "initial_move_san": "Kg1",
+    "initial_move_uci": "h1g1",
+    "puzzle_fen": "r7/1p5k/pn1p3p/2pP1p2/2P1pN2/PPQ1Pq2/2N5/3RR1K1 b - - 1 38",
+    "lines": {
+      "a8g8": {
+        "c3g7": {
+          "g8g7": {
+            "g1h2": {
+              "f3f2": {
+                "h2h1": {
+                  "f2h4": {
+                    "f4h3": {
+                      "h4h3": "win"
+                    }
+                  },
+                  "g7g4": "retry"
+                }
+              },
+              "f3g3": {
+                "h2h1": {
+                  "g3h4": {
+                    "f4h3": {
+                      "h4h3": "win"
+                    }
+                  },
+                  "g7g4": "retry"
+                }
+              },
+              "g7g4": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 45271,
+    "rating": 1269,
+    "enabled": true,
+    "color": "black",
+    "game_id": "vcik71fw",
+    "attempts": 390,
+    "vote": 18
+  }
+}

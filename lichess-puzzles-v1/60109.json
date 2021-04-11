@@ -1,0 +1,66 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5k2/8/5P2/1R1P4/8/1P2b1P1/4r1b1/7K w - - 5 52",
+    "initial_move_san": "Kh2",
+    "initial_move_uci": "h1h2",
+    "puzzle_fen": "5k2/8/5P2/1R1P4/8/1P2b1P1/4r1bK/8 b - - 6 52",
+    "lines": {
+      "g2f3": {
+        "h2h3": {
+          "e2e1": {
+            "b5b8": {
+              "f8f7": {
+                "b8b7": {
+                  "f7f6": "retry",
+                  "f7g6": {
+                    "g3g4": {
+                      "e3f2": {
+                        "b7g7": {
+                          "g6f6": {
+                            "g7f7": {
+                              "f6f7": {
+                                "b3b4": {
+                                  "e1h1": "win"
+                                }
+                              }
+                            }
+                          },
+                          "g6h6": "retry"
+                        }
+                      },
+                      "e3f4": {
+                        "b7g7": {
+                          "g6f6": {
+                            "g4g5": {
+                              "f6f5": "retry",
+                              "f6g7": {
+                                "b3b4": {
+                                  "e1h1": "win"
+                                }
+                              }
+                            }
+                          },
+                          "g6h6": "retry"
+                        }
+                      }
+                    }
+                  },
+                  "f7g8": "retry"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 60109,
+    "rating": 2117,
+    "enabled": true,
+    "color": "black",
+    "game_id": "faiyyUGP",
+    "attempts": 1645,
+    "vote": 38
+  }
+}

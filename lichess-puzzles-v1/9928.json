@@ -1,0 +1,54 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5b2/P4kr1/P1b1pp2/3q4/3p3Q/1p1P1pP1/5R1P/1RB3K1 b - - 0 32",
+    "initial_move_san": "Bb5",
+    "initial_move_uci": "c6b5",
+    "puzzle_fen": "5b2/P4kr1/P3pp2/1b1q4/3p3Q/1p1P1pP1/5R1P/1RB3K1 w - - 1 33",
+    "lines": {
+      "b1b3": "retry",
+      "h4e4": "retry",
+      "a7a8b": {
+        "d5a8": {
+          "h4h5": {
+            "f7g8": {
+              "h5b5": {
+                "g7c7": "win"
+              }
+            }
+          }
+        }
+      },
+      "a7a8q": {
+        "d5a8": {
+          "h4h5": {
+            "f7g8": {
+              "h5b5": {
+                "g7a7": "win"
+              }
+            }
+          }
+        }
+      },
+      "a7a8r": {
+        "d5a8": {
+          "h4h5": {
+            "f7g8": {
+              "h5b5": {
+                "g7a7": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 9928,
+    "rating": 2106,
+    "enabled": true,
+    "color": "white",
+    "game_id": "jochszra",
+    "attempts": 824,
+    "vote": -12
+  }
+}

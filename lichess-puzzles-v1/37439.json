@@ -1,0 +1,38 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5rk1/4qp1p/p7/1p1p2p1/1Pr1PnP1/P4PB1/5Q1P/R4R1K w - - 0 34",
+    "initial_move_san": "Rac1",
+    "initial_move_uci": "a1c1",
+    "puzzle_fen": "5rk1/4qp1p/p7/1p1p2p1/1Pr1PnP1/P4PB1/5Q1P/2R2R1K b - - 1 34",
+    "lines": {
+      "c4c1": {
+        "f1c1": {
+          "f4d3": {
+            "f2c2": {
+              "d3c1": {
+                "c2c1": "win"
+              }
+            }
+          }
+        }
+      },
+      "f4d3": {
+        "f2e3": {
+          "c4c1": "retry",
+          "d3c1": {
+            "f1c1": "win"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 37439,
+    "rating": 1431,
+    "enabled": true,
+    "color": "black",
+    "game_id": "RZsTyufi",
+    "attempts": 89,
+    "vote": 1
+  }
+}

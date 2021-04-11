@@ -1,0 +1,75 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r2qkb1r/1ppb1ppp/p1n1pn2/8/2BP4/1QN1PN2/PP3PPP/R1B1K2R w KQkq - 3 8",
+    "initial_move_san": "Qxb7",
+    "initial_move_uci": "b3b7",
+    "puzzle_fen": "r2qkb1r/1Qpb1ppp/p1n1pn2/8/2BP4/2N1PN2/PP3PPP/R1B1K2R b KQkq - 0 8",
+    "lines": {
+      "c6a5": {
+        "b7a6": {
+          "a8a6": {
+            "c4a6": "win"
+          },
+          "c7c5": {
+            "e1g1": {
+              "a8a6": {
+                "c4a6": "win"
+              },
+              "c5d4": {
+                "e3d4": {
+                  "a8a6": {
+                    "c4a6": "win"
+                  },
+                  "f8b4": "retry",
+                  "f8e7": {
+                    "f1d1": {
+                      "a8a6": {
+                        "c4a6": "win"
+                      },
+                      "e8g8": {
+                        "f3e5": {
+                          "a8a6": {
+                            "c4a6": "win"
+                          }
+                        }
+                      },
+                      "f6d5": {
+                        "c1d2": {
+                          "a8a6": {
+                            "c4a6": "win"
+                          },
+                          "d5b4": "retry",
+                          "d5b6": {
+                            "a6a8": {
+                              "d8a8": {
+                                "c4e2": "win"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "d8b8": "retry"
+            }
+          },
+          "d8b8": "retry",
+          "f6d5": "retry",
+          "f8b4": "retry",
+          "f8e7": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 40100,
+    "rating": 1491,
+    "enabled": true,
+    "color": "black",
+    "game_id": "fn77tws8",
+    "attempts": 6395,
+    "vote": 78
+  }
+}

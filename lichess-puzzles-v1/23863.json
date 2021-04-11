@@ -1,0 +1,52 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/kp6/7N/2P1Q1P1/4P1K1/5r2/8/5q2 w - - 7 64",
+    "initial_move_san": "g6",
+    "initial_move_uci": "g5g6",
+    "puzzle_fen": "8/kp6/6PN/2P1Q3/4P1K1/5r2/8/5q2 b - - 0 64",
+    "lines": {
+      "f1g2": {
+        "e5g3": {
+          "g2g3": {
+            "g4h5": {
+              "f3f1": "retry",
+              "f3f2": "retry",
+              "g3f4": {
+                "g6g7": {
+                  "f3g3": "retry",
+                  "f3h3": {
+                    "h5g6": {
+                      "h3h6": "win"
+                    }
+                  },
+                  "f4e5": "retry"
+                }
+              },
+              "g3h2": {
+                "h5g5": {
+                  "h2d2": "retry",
+                  "h2f4": {
+                    "g5h5": {
+                      "f3h3": "win"
+                    }
+                  },
+                  "h2g2": "retry"
+                }
+              },
+              "g3h3": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 23863,
+    "rating": 2097,
+    "enabled": true,
+    "color": "black",
+    "game_id": "sob13lar",
+    "attempts": 375,
+    "vote": -1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "puzzle_data": {
+    "initial_fen": "3k1r2/3qb3/1R4Q1/8/3p4/1P6/5PPP/6K1 b - - 0 29",
+    "initial_move_san": "d3",
+    "initial_move_uci": "d4d3",
+    "puzzle_fen": "3k1r2/3qb3/1R4Q1/8/8/1P1p4/5PPP/6K1 w - - 0 30",
+    "lines": {
+      "b6b8": {
+        "d7c8": {
+          "b8c8": "retry",
+          "g6b6": "retry",
+          "g6d3": {
+            "d8c7": {
+              "b8c8": {
+                "f8c8": "win"
+              },
+              "d3g3": {
+                "e7d6": {
+                  "b8c8": {
+                    "f8c8": {
+                      "f2f4": "retry",
+                      "g3c3": "retry",
+                      "g3d3": "retry",
+                      "g3e3": {
+                        "c7d7": "win"
+                      },
+                      "g3g4": "retry",
+                      "g3g6": "retry",
+                      "g3g7": {
+                        "c7b6": "win"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 2196,
+    "rating": 1236,
+    "enabled": true,
+    "color": "white",
+    "game_id": "lywtzioa",
+    "attempts": 815,
+    "vote": 13
+  }
+}

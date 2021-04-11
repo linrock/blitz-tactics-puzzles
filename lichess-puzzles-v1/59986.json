@@ -1,0 +1,46 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rn3rk1/ppp2ppp/8/3q4/4nP2/2P2Q2/P1P1B1PP/R1B2RK1 b - - 0 12",
+    "initial_move_san": "Nxc3",
+    "initial_move_uci": "e4c3",
+    "puzzle_fen": "rn3rk1/ppp2ppp/8/3q4/5P2/2n2Q2/P1P1B1PP/R1B2RK1 w - - 0 13",
+    "lines": {
+      "f3c3": {
+        "d5c6": {
+          "c1b2": {
+            "c6c3": {
+              "b2c3": {
+                "b8d7": "win"
+              }
+            }
+          },
+          "c1d2": {
+            "c6c3": {
+              "d2c3": {
+                "b8d7": "win"
+              }
+            }
+          },
+          "c3b3": "retry",
+          "c3f3": "retry",
+          "f1f3": {
+            "f8e8": {
+              "e2c4": "win",
+              "e2f1": "retry",
+              "g1f1": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 59986,
+    "rating": 2004,
+    "enabled": true,
+    "color": "white",
+    "game_id": "1unakyyo",
+    "attempts": 206,
+    "vote": -12
+  }
+}

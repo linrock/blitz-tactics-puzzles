@@ -1,0 +1,57 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r5k1/2pq2p1/p6Q/1p3b2/2pnN3/2N5/PP3P1P/6RK b - - 0 27",
+    "initial_move_san": "Re8",
+    "initial_move_uci": "a8e8",
+    "puzzle_fen": "4r1k1/2pq2p1/p6Q/1p3b2/2pnN3/2N5/PP3P1P/6RK w - - 1 28",
+    "lines": {
+      "e4f6": {
+        "g8f8": {
+          "f6d7": {
+            "f8e7": {
+              "g1g7": {
+                "e7d8": {
+                  "h6f6": {
+                    "e8e7": {
+                      "d7b6": "retry",
+                      "d7b8": "retry",
+                      "d7c5": "retry",
+                      "f6e7": {
+                        "d8c8": {
+                          "c3e2": "retry",
+                          "c3e4": "retry",
+                          "d7b6": {
+                            "c8b7": {
+                              "e7c7": "win"
+                            }
+                          },
+                          "d7c5": "retry",
+                          "d7f8": "retry",
+                          "e7a3": "retry",
+                          "e7e8": "retry",
+                          "e7f8": "retry",
+                          "g7g8": "retry",
+                          "h2h4": "retry"
+                        }
+                      },
+                      "g7e7": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 59059,
+    "rating": 2069,
+    "enabled": true,
+    "color": "white",
+    "game_id": "KGOIOWEg",
+    "attempts": 2301,
+    "vote": 47
+  }
+}

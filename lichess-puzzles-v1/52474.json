@@ -1,0 +1,64 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1b3k1/p4ppp/2pN2r1/3p4/3p4/B3bPK1/PPP5/3R1B2 w - - 4 26",
+    "initial_move_san": "Kh4",
+    "initial_move_uci": "g3h4",
+    "puzzle_fen": "r1b3k1/p4ppp/2pN2r1/3p4/3p3K/B3bP2/PPP5/3R1B2 b - - 5 26",
+    "lines": {
+      "e3f2": {
+        "h4h5": {
+          "c8g4": "retry",
+          "f7f6": {
+            "d6f7": {
+              "a7a5": "retry",
+              "a7a6": "retry",
+              "a8b8": "retry",
+              "c6c5": "retry",
+              "c8d7": "retry",
+              "c8e6": "retry",
+              "c8f5": "retry",
+              "c8g4": "retry",
+              "d4d3": "retry",
+              "f2e3": "retry",
+              "f2g3": "retry",
+              "g6g5": "retry",
+              "g8f7": {
+                "b2b3": {
+                  "g6g5": "win",
+                  "g6h6": "win"
+                }
+              }
+            }
+          },
+          "g6g5": "retry",
+          "g6h6": {
+            "h5g5": {
+              "c8d7": "retry",
+              "c8e6": "retry",
+              "f2e3": {
+                "f3f4": {
+                  "f7f6": "win"
+                }
+              },
+              "f7f6": {
+                "g5f4": {
+                  "g7g5": "win",
+                  "h6h4": "win"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 52474,
+    "rating": 1869,
+    "enabled": true,
+    "color": "black",
+    "game_id": "pozbemwd",
+    "attempts": 756,
+    "vote": 18
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/8/4Q3/6P1/1p4P1/2b1PP2/1pk1K3/2r5 w - - 92 109",
+    "initial_move_san": "Qa2",
+    "initial_move_uci": "e6a2",
+    "puzzle_fen": "8/8/8/6P1/1p4P1/2b1PP2/Qpk1K3/2r5 b - - 93 109",
+    "lines": {
+      "b4b3": {
+        "a2a6": {
+          "b2b1q": {
+            "f3f4": "win"
+          }
+        }
+      },
+      "c1a1": {
+        "a2c4": {
+          "b2b1q": {
+            "c4d3": {
+              "c2b3": {
+                "d3b1": {
+                  "a1b1": {
+                    "e3e4": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "c1e1": "retry"
+    }
+  },
+  "metadata": {
+    "id": 35186,
+    "rating": 1716,
+    "enabled": true,
+    "color": "black",
+    "game_id": "tih8uvu1",
+    "attempts": 229,
+    "vote": -12
+  }
+}

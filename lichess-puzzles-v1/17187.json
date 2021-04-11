@@ -1,0 +1,67 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4rrk1/p4p2/4p2p/2bp1P2/2q2Rp1/2P3P1/P1Q3P1/R6K b - - 2 26",
+    "initial_move_san": "Qb5",
+    "initial_move_uci": "c4b5",
+    "puzzle_fen": "4rrk1/p4p2/4p2p/1qbp1P2/5Rp1/2P3P1/P1Q3P1/R6K w - - 3 27",
+    "lines": {
+      "f4g4": {
+        "g8h8": {
+          "c2d2": {
+            "h8h7": {
+              "g4h4": {
+                "c5e3": {
+                  "d2e3": {
+                    "b5f1": {
+                      "a1f1": {
+                        "h7g8": {
+                          "a2a3": "retry",
+                          "a2a4": "retry",
+                          "c3c4": "retry",
+                          "e3c1": "retry",
+                          "e3d2": "retry",
+                          "e3f4": "retry",
+                          "e3h6": {
+                            "d5d4": {
+                              "h4g4": "win",
+                              "h6g5": "win",
+                              "h6h7": "win",
+                              "h6h8": "win"
+                            }
+                          },
+                          "f1a1": "retry",
+                          "f1c1": "retry",
+                          "f1d1": "retry",
+                          "f1f2": "retry",
+                          "f1f3": "retry",
+                          "f1g1": "retry",
+                          "f5f6": "retry",
+                          "g3g4": "retry",
+                          "h1g1": "retry",
+                          "h1h2": "retry",
+                          "h4h2": "retry",
+                          "h4h3": "retry",
+                          "h4h5": "retry"
+                        }
+                      },
+                      "h1h2": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 17187,
+    "rating": 2027,
+    "enabled": true,
+    "color": "white",
+    "game_id": "8fp6bjws",
+    "attempts": 1481,
+    "vote": 30
+  }
+}

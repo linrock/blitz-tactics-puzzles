@@ -1,0 +1,83 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/4R3/4P1k1/7p/8/6PP/6PK/8 b - - 0 62",
+    "initial_move_san": "Kh6",
+    "initial_move_uci": "g6h6",
+    "puzzle_fen": "8/4R3/4P2k/7p/8/6PP/6PK/8 w - - 1 63",
+    "lines": {
+      "e7a7": "retry",
+      "e7b7": "retry",
+      "e7c7": "retry",
+      "e7d7": "retry",
+      "e7e8": "retry",
+      "e7f7": "retry",
+      "e7h7": "retry",
+      "g3g4": "retry",
+      "h2g1": "retry",
+      "h2h1": "retry",
+      "h3h4": {
+        "h6g6": {
+          "e7a7": "retry",
+          "e7b7": "retry",
+          "e7c7": "retry",
+          "e7d7": "retry",
+          "e7e8": "retry",
+          "e7f7": {
+            "g6h6": {
+              "e6e7": {
+                "h6g6": {
+                  "f7f1": "retry",
+                  "f7f2": "retry",
+                  "f7f3": "retry",
+                  "f7f4": "retry",
+                  "f7f5": "retry",
+                  "f7f6": "retry",
+                  "f7f8": "retry",
+                  "f7g7": "retry",
+                  "f7h7": "retry",
+                  "e7e8b": "retry",
+                  "e7e8q": {
+                    "g6h6": {
+                      "e8c6": "win",
+                      "e8e6": "win"
+                    }
+                  }
+                }
+              },
+              "f7a7": "retry",
+              "f7b7": "retry",
+              "f7c7": "retry",
+              "f7d7": "retry",
+              "f7f1": "retry",
+              "f7f2": "retry",
+              "f7f3": "retry",
+              "f7f4": "retry",
+              "f7f5": "retry",
+              "f7f6": "retry",
+              "f7f8": "retry",
+              "f7h7": "retry",
+              "g3g4": "retry",
+              "h2g1": "retry",
+              "h2h1": "retry",
+              "h2h3": "retry"
+            }
+          },
+          "e7h7": "retry",
+          "g3g4": "retry",
+          "h2g1": "retry",
+          "h2h1": "retry",
+          "h2h3": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 5493,
+    "rating": 1673,
+    "enabled": true,
+    "color": "white",
+    "game_id": "02s7dp73",
+    "attempts": 194,
+    "vote": 0
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r1bqkb1r/ppp4p/6p1/4Q3/3PN3/8/PP3PPP/R1B1KB1R b KQkq - 0 11",
+    "initial_move_san": "Kf7",
+    "initial_move_uci": "e8f7",
+    "puzzle_fen": "r1bq1b1r/ppp2k1p/6p1/4Q3/3PN3/8/PP3PPP/R1B1KB1R w KQ - 1 12",
+    "lines": {
+      "f1c4": {
+        "d8d5": {
+          "c4d5": {
+            "c8e6": {
+              "c1d2": "retry",
+              "d5e6": "retry",
+              "e1d1": "retry",
+              "e1e2": "retry",
+              "e1f1": "retry",
+              "e4d6": "retry",
+              "e4g5": "retry",
+              "e5e6": {
+                "f7g7": {
+                  "e6e5": "win",
+                  "e6f6": "win",
+                  "e6f7": "win"
+                }
+              },
+              "e5f6": "retry"
+            }
+          },
+          "e4d6": "retry",
+          "e4g5": {
+            "f7g8": {
+              "c4d5": {
+                "c8e6": {
+                  "d5e6": "win"
+                }
+              },
+              "e5d5": "retry"
+            }
+          },
+          "e5d5": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 3674,
+    "rating": 1344,
+    "enabled": true,
+    "color": "white",
+    "game_id": "schi5lcs",
+    "attempts": 38620,
+    "vote": 409
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2k1rbnB/2p5/8/7p/1p1pNP2/3P4/2P3qP/4K3 w - - 0 27",
+    "initial_move_san": "f5",
+    "initial_move_uci": "f4f5",
+    "puzzle_fen": "2k1rbnB/2p5/8/5P1p/1p1pN3/3P4/2P3qP/4K3 b - - 0 27",
+    "lines": {
+      "b4b3": {
+        "c2b3": {
+          "e8e4": {
+            "d3e4": {
+              "c7c6": "retry",
+              "c8d7": "retry",
+              "d4d3": "retry",
+              "f8a3": "retry",
+              "f8b4": {
+                "e1d1": {
+                  "g2d2": "win"
+                }
+              },
+              "f8c5": "retry",
+              "f8d6": "retry",
+              "f8e7": "retry",
+              "g8f6": "retry",
+              "h5h4": "retry"
+            }
+          },
+          "f8b4": {
+            "e1d1": {
+              "e8e4": {
+                "h2h3": {
+                  "e4e1": "win",
+                  "g2d2": "win"
+                }
+              },
+              "g2f1": "retry",
+              "g2f3": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 2474,
+    "rating": 2117,
+    "enabled": true,
+    "color": "black",
+    "game_id": "ktj4lgaz",
+    "attempts": 2010,
+    "vote": 46
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "puzzle_data": {
+    "initial_fen": "6k1/5p2/2Q1p1pp/3pP3/P2P4/4PN1P/1q4PK/5b2 w - - 1 33",
+    "initial_move_san": "Nh4",
+    "initial_move_uci": "f3h4",
+    "puzzle_fen": "6k1/5p2/2Q1p1pp/3pP3/P2P3N/4P2P/1q4PK/5b2 b - - 2 33",
+    "lines": {
+      "b2f2": {
+        "c6c8": {
+          "g8h7": {
+            "c8c1": {
+              "g6g5": {
+                "c1b1": {
+                  "h7h8": {
+                    "b1d1": {
+                      "g5h4": {
+                        "d1f3": {
+                          "f2e1": "retry",
+                          "f2f3": {
+                            "g2f3": "win"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 6840,
+    "rating": 2621,
+    "enabled": true,
+    "color": "black",
+    "game_id": "tctkibra",
+    "attempts": 100,
+    "vote": -13
+  }
+}

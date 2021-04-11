@@ -1,0 +1,53 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rn1qkbnr/5ppp/2pp4/p3p3/Pp2P3/1QN2N2/1PPP1PPP/R1B1K2R w KQkq - 0 9",
+    "initial_move_san": "Ng5",
+    "initial_move_uci": "f3g5",
+    "puzzle_fen": "rn1qkbnr/5ppp/2pp4/p3p1N1/Pp2P3/1QN5/1PPP1PPP/R1B1K2R b KQkq - 1 9",
+    "lines": {
+      "d8g5": {
+        "e1g1": {
+          "b8d7": {
+            "c3e2": "win"
+          },
+          "g5d8": {
+            "c3e2": "win"
+          },
+          "g5e7": {
+            "c3e2": "win"
+          },
+          "g5g4": {
+            "h2h3": {
+              "g4c8": "win",
+              "g4d7": "retry",
+              "g4e6": "win",
+              "g4g6": "win",
+              "g4h4": "retry",
+              "g4h5": "retry"
+            }
+          },
+          "g5g6": {
+            "f2f3": {
+              "b8d7": "win",
+              "f8e7": "win",
+              "g6e6": "win",
+              "g8f6": "retry"
+            }
+          },
+          "g5h4": "retry",
+          "g5h5": "retry",
+          "g8f6": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 18890,
+    "rating": 2085,
+    "enabled": true,
+    "color": "black",
+    "game_id": "ygytozmh",
+    "attempts": 239,
+    "vote": -12
+  }
+}

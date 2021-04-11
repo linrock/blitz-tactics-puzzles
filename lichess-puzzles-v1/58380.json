@@ -1,0 +1,76 @@
+{
+  "puzzle_data": {
+    "initial_fen": "6r1/pr2nkN1/2n4Q/3p3p/q7/1P6/2P3PP/1K1RR3 w - - 2 29",
+    "initial_move_san": "Ne6",
+    "initial_move_uci": "g7e6",
+    "puzzle_fen": "6r1/pr2nk2/2n1N2Q/3p3p/q7/1P6/2P3PP/1K1RR3 b - - 3 29",
+    "lines": {
+      "b7b3": {
+        "c2b3": {
+          "a4b3": {
+            "b1a1": {
+              "b3a3": {
+                "a1b1": {
+                  "a3b4": "retry",
+                  "g8b8": {
+                    "b1c2": {
+                      "a3a2": {
+                        "c2d3": {
+                          "b8b3": "win"
+                        }
+                      },
+                      "a3b2": {
+                        "c2d3": {
+                          "b8b3": "win"
+                        }
+                      },
+                      "b8b2": {
+                        "c2c1": {
+                          "a3a1": "win",
+                          "a3c3": "win"
+                        }
+                      },
+                      "c6b4": "retry",
+                      "c6d4": "retry"
+                    }
+                  }
+                }
+              },
+              "b3a4": "retry",
+              "b3c3": {
+                "a1a2": {
+                  "c3a5": "retry",
+                  "c3c4": "retry",
+                  "c6b4": {
+                    "a2b1": {
+                      "c3b3": {
+                        "b1a1": {
+                          "b3a2": "win",
+                          "b4c2": "win"
+                        }
+                      },
+                      "c3c2": {
+                        "b1a1": {
+                          "c2a2": "win"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 58380,
+    "rating": 1465,
+    "enabled": true,
+    "color": "black",
+    "game_id": "zr03vg9c",
+    "attempts": 3548,
+    "vote": 60
+  }
+}

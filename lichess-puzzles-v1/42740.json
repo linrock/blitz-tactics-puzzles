@@ -1,0 +1,57 @@
+{
+  "puzzle_data": {
+    "initial_fen": "r4rk1/pp1n2b1/2p1pq2/5p1Q/2PPp3/4B3/PPB1NP2/2K3R1 b - - 3 23",
+    "initial_move_san": "Rf7",
+    "initial_move_uci": "f8f7",
+    "puzzle_fen": "r5k1/pp1n1rb1/2p1pq2/5p1Q/2PPp3/4B3/PPB1NP2/2K3R1 w - - 4 24",
+    "lines": {
+      "e3g5": {
+        "a8e8": {
+          "c1b1": {
+            "g8f8": {
+              "c4c5": "retry",
+              "g5f6": {
+                "d7f6": {
+                  "h5g5": {
+                    "f6g4": "win"
+                  },
+                  "h5g6": {
+                    "f6g4": "win"
+                  },
+                  "h5h2": "retry",
+                  "h5h3": {
+                    "f8g8": "win"
+                  },
+                  "h5h4": "retry"
+                }
+              }
+            }
+          },
+          "c2b3": "retry",
+          "c2d1": "retry",
+          "c4c5": "retry",
+          "g5f6": {
+            "d7f6": {
+              "h5g5": "retry",
+              "h5g6": {
+                "e8e7": "win"
+              },
+              "h5h4": {
+                "f6d7": "win"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 42740,
+    "rating": 1841,
+    "enabled": true,
+    "color": "white",
+    "game_id": "jsdbr64g",
+    "attempts": 4395,
+    "vote": 40
+  }
+}

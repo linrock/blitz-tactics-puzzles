@@ -1,0 +1,98 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4k3/8/5PP1/2R2K2/3P1N1P/2P3r1/8/8 b - - 6 58",
+    "initial_move_san": "Rf3",
+    "initial_move_uci": "g3f3",
+    "puzzle_fen": "4k3/8/5PP1/2R2K2/3P1N1P/2P2r2/8/8 w - - 7 59",
+    "lines": {
+      "c5a5": "retry",
+      "c5b5": "retry",
+      "c5d5": "retry",
+      "c5e5": "retry",
+      "d4d5": "retry",
+      "f5e4": "retry",
+      "f5e5": "retry",
+      "f5e6": "retry",
+      "f5g4": "retry",
+      "f6f7": "retry",
+      "g6g7": {
+        "f3f4": {
+          "f5e5": "retry",
+          "f5e6": "retry",
+          "f5f4": {
+            "e8f7": {
+              "c3c4": "retry",
+              "c5a5": "retry",
+              "c5b5": "retry",
+              "c5c4": "retry",
+              "c5c6": "retry",
+              "c5c7": "retry",
+              "c5c8": "retry",
+              "c5d5": "retry",
+              "c5e5": "retry",
+              "c5f5": "retry",
+              "c5g5": "retry",
+              "c5h5": "retry",
+              "d4d5": "retry",
+              "f4e3": "retry",
+              "f4e4": "retry",
+              "f4e5": "retry",
+              "f4f3": "retry",
+              "f4f5": {
+                "f7e8": {
+                  "c3c4": "retry",
+                  "c5a5": "retry",
+                  "c5b5": "retry",
+                  "c5c4": "retry",
+                  "c5c6": "retry",
+                  "c5c7": "retry",
+                  "c5c8": "retry",
+                  "c5d5": "retry",
+                  "c5e5": "retry",
+                  "d4d5": "retry",
+                  "f5e4": "retry",
+                  "f5e5": "retry",
+                  "f5e6": {
+                    "e8d8": {
+                      "g7g8q": "win",
+                      "g7g8r": "win"
+                    }
+                  },
+                  "f5g4": "retry",
+                  "f5g5": "retry",
+                  "f5g6": "retry",
+                  "f6f7": "retry",
+                  "h4h5": "retry",
+                  "g7g8b": "retry",
+                  "g7g8n": "retry",
+                  "g7g8q": "retry",
+                  "g7g8r": "retry"
+                }
+              },
+              "f4g3": "retry",
+              "f4g4": "retry",
+              "f4g5": "retry",
+              "h4h5": "retry",
+              "g7g8b": "retry",
+              "g7g8n": "retry",
+              "g7g8q": "retry",
+              "g7g8r": "retry"
+            }
+          },
+          "f5g5": "retry",
+          "f5g6": "retry"
+        }
+      },
+      "h4h5": "retry"
+    }
+  },
+  "metadata": {
+    "id": 33045,
+    "rating": 1691,
+    "enabled": true,
+    "color": "white",
+    "game_id": "birnshpo",
+    "attempts": 264,
+    "vote": 0
+  }
+}

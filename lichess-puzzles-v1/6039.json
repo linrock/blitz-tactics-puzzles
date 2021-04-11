@@ -1,0 +1,61 @@
+{
+  "puzzle_data": {
+    "initial_fen": "rnb1k1nr/pppp1ppp/5q2/2b5/3pP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5",
+    "initial_move_san": "Nxd4",
+    "initial_move_uci": "f3d4",
+    "puzzle_fen": "rnb1k1nr/pppp1ppp/5q2/2b5/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5",
+    "lines": {
+      "c5d4": {
+        "d1f3": {
+          "d4c3": {
+            "f3c3": {
+              "f6c3": {
+                "b2c3": "win"
+              }
+            }
+          },
+          "d4e5": "retry",
+          "f6f3": {
+            "g2f3": "win"
+          },
+          "g8e7": {
+            "c3b5": {
+              "d4b2": {
+                "b5c7": {
+                  "e8d8": {
+                    "f3f6": {
+                      "b2f6": {
+                        "c7a8": {
+                          "f6a1": {
+                            "c1f4": "win"
+                          },
+                          "f6c3": {
+                            "e1d1": {
+                              "c3a1": {
+                                "c1f4": "win"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "f6f3": "retry"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 6039,
+    "rating": 1259,
+    "enabled": true,
+    "color": "black",
+    "game_id": "n95ifsp6",
+    "attempts": 29,
+    "vote": 0
+  }
+}

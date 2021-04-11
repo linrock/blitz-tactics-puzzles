@@ -1,0 +1,49 @@
+{
+  "puzzle_data": {
+    "initial_fen": "8/pp3p1k/6p1/P6p/R1p5/2P3Q1/3P1q1K/1N3r2 w - - 0 36",
+    "initial_move_san": "Qg2",
+    "initial_move_uci": "g3g2",
+    "puzzle_fen": "8/pp3p1k/6p1/P6p/R1p5/2P5/3P1qQK/1N3r2 b - - 1 36",
+    "lines": {
+      "f2h4": {
+        "g2h3": {
+          "h4f4": {
+            "h3g3": {
+              "f1f2": {
+                "h2h3": {
+                  "f4f5": {
+                    "h3h4": {
+                      "b7b5": "retry",
+                      "f2f1": "retry",
+                      "f2h2": {
+                        "g3h3": {
+                          "f5f4": "win",
+                          "f5g4": "win",
+                          "h2h3": "win"
+                        }
+                      },
+                      "f5e4": "retry",
+                      "f5f6": "retry",
+                      "f7f6": "retry",
+                      "g6g5": "retry",
+                      "h7h6": "retry"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 26611,
+    "rating": 2289,
+    "enabled": true,
+    "color": "black",
+    "game_id": "844JNles",
+    "attempts": 1284,
+    "vote": 61
+  }
+}

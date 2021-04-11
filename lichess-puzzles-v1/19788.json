@@ -1,0 +1,88 @@
+{
+  "puzzle_data": {
+    "initial_fen": "4r1k1/pp3p1p/6pQ/4q3/7R/2P3KP/PP3P2/8 w - - 4 29",
+    "initial_move_san": "f4",
+    "initial_move_uci": "f2f4",
+    "puzzle_fen": "4r1k1/pp3p1p/6pQ/4q3/5P1R/2P3KP/PP6/8 b - f3 0 29",
+    "lines": {
+      "e5e1": {
+        "g3g2": {
+          "e1d2": {
+            "g2f3": {
+              "d2d1": "retry",
+              "d2d3": "retry",
+              "d2d5": "retry",
+              "d2e2": {
+                "f3g3": {
+                  "e8e3": "win"
+                }
+              },
+              "d2e3": "retry",
+              "e8e3": {
+                "f3g4": {
+                  "d2g2": "win"
+                }
+              }
+            }
+          },
+          "e1e2": "retry",
+          "e1e4": "retry",
+          "e8e2": {
+            "g2f3": {
+              "e1d1": "retry",
+              "e1f1": {
+                "f3g4": {
+                  "e2g2": "win",
+                  "f1g2": "win"
+                }
+              },
+              "e1f2": {
+                "f3g4": {
+                  "f2g2": "win"
+                }
+              },
+              "e2e3": "retry",
+              "e2f2": {
+                "f3g4": {
+                  "e1g1": "win"
+                }
+              }
+            }
+          }
+        }
+      },
+      "e5e3": {
+        "g3g2": {
+          "e3d2": {
+            "g2f3": {
+              "d2d1": "retry",
+              "d2d3": "retry",
+              "d2d5": "retry",
+              "d2e2": {
+                "f3g3": {
+                  "e8e3": "win"
+                }
+              },
+              "e8e3": {
+                "f3g4": {
+                  "d2g2": "win"
+                }
+              }
+            }
+          },
+          "e3e2": "retry",
+          "e3e4": "retry"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 19788,
+    "rating": 1440,
+    "enabled": true,
+    "color": "black",
+    "game_id": "nhwdq7bw",
+    "attempts": 46,
+    "vote": 1
+  }
+}

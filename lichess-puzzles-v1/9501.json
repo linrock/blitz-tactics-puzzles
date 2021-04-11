@@ -1,0 +1,84 @@
+{
+  "puzzle_data": {
+    "initial_fen": "2kr3r/pp1b1N2/7p/n1qp4/8/P1PBP1P1/2QK1PP1/R6R b - - 0 18",
+    "initial_move_san": "Qb6",
+    "initial_move_uci": "c5b6",
+    "puzzle_fen": "2kr3r/pp1b1N2/1q5p/n2p4/8/P1PBP1P1/2QK1PP1/R6R w - - 1 19",
+    "lines": {
+      "d2e1": {
+        "c8b8": {
+          "a1b1": {
+            "b6f6": {
+              "f7d8": "retry",
+              "f7h8": {
+                "f6h8": "win"
+              }
+            }
+          },
+          "a1d1": {
+            "b6f6": {
+              "f7d8": {
+                "h8d8": "win"
+              },
+              "f7h8": {
+                "f6h8": "win"
+              }
+            }
+          },
+          "e1f1": "retry",
+          "f7d8": "retry",
+          "f7h8": {
+            "d8h8": "win"
+          },
+          "h1h4": {
+            "b6f6": {
+              "f7d8": {
+                "h8d8": "win"
+              },
+              "f7h8": {
+                "d8h8": "win"
+              },
+              "h4f4": {
+                "f6g7": {
+                  "a1b1": "retry",
+                  "a1c1": "retry",
+                  "a1d1": {
+                    "d7g4": {
+                      "d1b1": "retry",
+                      "d1d2": "retry",
+                      "d3e2": {
+                        "g4e6": {
+                          "f7d8": {
+                            "h8d8": "win"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "c2b2": "retry",
+                  "e1f1": "retry",
+                  "f7d8": {
+                    "h8d8": "win"
+                  },
+                  "f7h8": {
+                    "g7h8": "win"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "d2e2": "retry"
+    }
+  },
+  "metadata": {
+    "id": 9501,
+    "rating": 2536,
+    "enabled": true,
+    "color": "white",
+    "game_id": "500k3ggg",
+    "attempts": 105,
+    "vote": -12
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "puzzle_data": {
+    "initial_fen": "5b1k/5R2/6p1/8/3qp3/6QP/5PPK/5r2 b - - 1 41",
+    "initial_move_san": "Qa1",
+    "initial_move_uci": "d4a1",
+    "puzzle_fen": "5b1k/5R2/6p1/8/4p3/6QP/5PPK/q4r2 w - - 2 42",
+    "lines": {
+      "g3h4": {
+        "f8h6": {
+          "h4d8": {
+            "h6f8": {
+              "d8f8": "win"
+            }
+          },
+          "h4h6": {
+            "h8g8": {
+              "f7f8": "win",
+              "h6f8": "win",
+              "h6h7": "win"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "id": 2065,
+    "rating": 1424,
+    "enabled": true,
+    "color": "white",
+    "game_id": "ovisaopn",
+    "attempts": 155,
+    "vote": 3
+  }
+}
